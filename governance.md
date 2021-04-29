@@ -111,7 +111,7 @@ The membership of the two Working Groups that constitute the Steering Committee 
 However, the Mantid governance is agnostic to the detailed management of collaborating partners.
 An example of local facility management and how it will interact with the Collaboration governance is given in the Appendix.
 
-**FIGURE GOES HERE**
+![steering-committee-facility](static/images/steering-committee-facility-interaction.png)
 
 **Fig 1. Representation of the interaction between the Mantid governance and stakeholders in Contributing Facilities. The nominal limit of Steering Committee size is implemented as an initial way of working that will be adapted as necessary.**
 
@@ -480,7 +480,7 @@ The board will report to internal management structures so they can have a view 
 The project-based approach, if adopted by other facilities, will allow for a better understanding of areas of overlap and the timing of such developments.
 Technical leads will schedule the resources within the development team to deliver against this roadmap.
 
-**FIGURE GOES HERE**
+![isis-internal-governance](static/images/isis-internal-governance-example.png)
 
 Key features of the ISIS approach are:
 * The Mantid Programme may consist of projects which are completely external or shared development with other facilities.
@@ -498,4 +498,4 @@ Collaborative projects will be created out of areas of common interest, however,
 
 The diagram below shows the local ILL implementation with respect to the steering committee (Mantid Collaboration):
 
-**FIGURE GOES HERE**
+![ill-internal-governance](static/images/ill-internal-governance-example.png)
