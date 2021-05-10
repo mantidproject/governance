@@ -1,7 +1,6 @@
 # Agenda
 
 - Introductions
-- Agree meeting frequency. Initial suggestion was every 2 months?
 - Tour of [roadmap](https://github.com/mantidproject/roadmap) & [governance](https://github.com/mantidproject/governance) repositories
   - Roadmap issue labels
   - How to control what is put here?
@@ -14,4 +13,5 @@
   - Mantid Forum?
   - GitHub Discussions?
   - Slack?
-- Any Other Business
+- Agree meeting frequency. Initial suggestion was every 2 months?
+- Any Other Business?
