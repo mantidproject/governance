@@ -1,17 +1,17 @@
-# Agenda
+# Next TWG Meeting (June)
 
-- Introductions
-- Tour of [roadmap](https://github.com/mantidproject/roadmap) & [governance](https://github.com/mantidproject/governance) repositories
-  - Roadmap issue labels
-  - How to control what is put here?
-  - Where should initial discussions about potential items be held?
-    - Mantid Forum?
-    - GitHub Discussions?
-- Where to have day-to-day conversations? 
-  Especially with meetings difficult to organise,
-  how do we discuss day-to-day running with things that the TSC used to talk about without having too many meetings?
-  - Mantid Forum?
-  - GitHub Discussions?
-  - Slack?
-- Agree meeting frequency. Initial suggestion was every 2 months?
-- Any Other Business?
+# Recap actions from previous meeting:
+## TWG Members:
+- Check over facilities and member lists in [Governance repository](https://github.com/mantidproject/governance) for any typos in facility or member names.
+- Include one or more roadmap items for release 6.2 before June 10th.
+
+## Gigg
+- Add missing TWG members to Mantid Project Github Organisation
+- Create forum category for day-to-day operational discussion
+
+## Peterson
+- Create an issue template in the [roadmap repository](https://github.com/mantidproject/roadmap)
+- Insert a description in roadmap readme about scope re:capabilities, epics and features
+
+# Agenda
+- First item
