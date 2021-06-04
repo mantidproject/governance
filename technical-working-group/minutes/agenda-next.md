@@ -14,4 +14,4 @@
 - Insert a description in roadmap readme about scope re:capabilities, epics and features
 
 # Agenda
-- First item
+- Require two-factor authentication for those a part of the mantidproject GitHub organization (Martyn)
