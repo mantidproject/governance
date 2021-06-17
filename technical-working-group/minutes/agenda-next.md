@@ -14,6 +14,6 @@
 - Insert a description in roadmap readme about scope re:capabilities, epics and features
 
 # Agenda
-- Set date to require two-factor authentication for those who are members of the mantidproject GitHub organization (Martyn)
+- Request to set date to require two-factor authentication for those who are members of the mantidproject GitHub organization (Martyn)
 - Feedback from first [Scientific Working Group meeting](https://github.com/mantidproject/governance/blob/main/scientific-working-group/minutes/2021/2021-05-26.md) (Martyn)
 - Review roadmap items (all)
