@@ -19,7 +19,9 @@
 
 # Initially Proposed Agenda
  
-- Welcome Anna as the new SWG Chair
-- Spend ~10 mins on each roadmap and identify commonalities.
-- Discuss how to create a common scientific roadmap.
-- Discuss how we collaborate and move forward on these commonalities.
+-	Spend ~10 mins on each roadmap and identify commonalities.
+-	A discussion if there are relatively small items which can be put into the Roadmaps. 
+-	Discuss how to create a common scientific roadmap?
+-	Discuss how we collaborate and move forward on these commonalities?
+-	User Meeting discussion, if time permits.
+
