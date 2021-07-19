@@ -21,7 +21,7 @@ This documents lists the members and their [facility affiliations](../facilities
   * Paolo Mutti
 
 * JCNS:
-  * Joachim Wuttke
+  * Marina Ganeva
 
 * PSI:
   * Joachim Kohlbrecher
