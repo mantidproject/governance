@@ -12,7 +12,7 @@
 - Organise future meetings and Doodle polls
 
 # Agenda
-- 6.2 release timeline
+- 6.2 release timeline: https://github.com/mantidproject/mantid/milestone/95
 - Thoughts on user meeting agenda
 - Review roadmap items
 - Any other business?
