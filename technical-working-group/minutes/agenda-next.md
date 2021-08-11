@@ -12,6 +12,7 @@
 - Organise future meetings and Doodle polls
 
 # Agenda
+- 6.2 release timeline
 - Thoughts on user meeting agenda
-- Review roadmap items (all)
+- Review roadmap items
 - Any other business?
