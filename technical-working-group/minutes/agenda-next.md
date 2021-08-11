@@ -3,16 +3,14 @@
 # Recap actions from previous meeting:
 
 ## Gigg
-- Create forum category for day-to-day operational discussion:
-  - Decided to use existing dev-news category: https://forum.mantidproject.org/c/news/dev-news/15
-- Email people / remove from org for mandatory 2FA rollout by end of June:
-  - 2FA is now mandatory in the organization
+- Email milestone for 6.2 to TWG list.
+- Email TWG list to update roadmap with 6.3 roadmap items.
+- Email working group for user workshop about the possibility of a developer workshop too.
 
-## Fairbrother
-- Organise future meetings and Doodle polls
+## Guest
+- Email Vardanyan about ROI selection tool after 6.2 release is completed.
+
+## All
+- Add roadmap items for 6.3 release.
 
 # Agenda
-- 6.2 release timeline: https://github.com/mantidproject/mantid/milestone/95
-- Thoughts on user meeting agenda
-- Review roadmap items
-- Any other business?
