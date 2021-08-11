@@ -1,22 +1,17 @@
-# Next TWG Meeting (June)
+# Next TWG Meeting (August)
 
 # Recap actions from previous meeting:
-## TWG Members:
-- Check over facilities and member lists in [Governance repository](https://github.com/mantidproject/governance) for any typos in facility or member names.
-- Include one or more roadmap items for release 6.2 before June 10th.
 
 ## Gigg
-- Add missing TWG members to Mantid Project Github Organisation
-- Create forum category for day-to-day operational discussion
+- Create forum category for day-to-day operational discussion:
+  - Decided to use existing dev-news category: https://forum.mantidproject.org/c/news/dev-news/15
+- Email people / remove from org for mandatory 2FA rollout by end of June:
+  - 2FA is now mandatory in the organization
 
-## Peterson
-- Create an issue template in the [roadmap repository](https://github.com/mantidproject/roadmap)
-- Insert a description in roadmap readme about scope re:capabilities, epics and features
+## Fairbrother
+- Organise future meetings and Doodle polls
 
 # Agenda
-- Request to set date to require two-factor authentication for those who are members of the mantidproject GitHub organization (Martyn)
-  - This would kick out those without 2FA activated: No labeling of issues, rebuilding failed CI jobs
-  - I'd still like to encourage working on forks but requiring it by removing those from the org is probably overkill
-- Feedback from first [Scientific Working Group meeting](https://github.com/mantidproject/governance/blob/main/scientific-working-group/minutes/2021/2021-05-26.md) (Martyn)
+- Thoughts on user meeting agenda
 - Review roadmap items (all)
 - Any other business?
