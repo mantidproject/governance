@@ -4,6 +4,8 @@ Date:
 
 Attendees:
 
+# Recap actions from previous meeting:
+
 # Meeting Agenda
 
 ## Agenda Point 1
