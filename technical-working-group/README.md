@@ -4,5 +4,6 @@ This folder contains documents relating to the Technical Working Group.
 
 ## Table of Contents
 
-* [Meeting Minutes](minutes)
+* [Minutes of regular working group meetings](minutes)
 * [Members](people.md)
+* [Developer Workshops](workshops)
