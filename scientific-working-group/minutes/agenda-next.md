@@ -1,27 +1,20 @@
-# Next SWG Meeting (End of June 2021)
+# Next SWG Meeting (End of Sept 2021)
 
 # Recap actions from previous meeting:
 
-### ORNL, JCNS, PSI - Facilities without a roadmap
-- Facilities that have not provided a roadmap are asked to circulate one before the next meeting.
-
-### SWG members
-- Read each others roadmaps and identify common areas.
-- Consider how to turn commonalities in roadmaps into planned collaborative projects?
-
+### SWG Members
+By Friday 16th July, Check roadmaps are updated with all items, including anything small.
+After the Common Map/Matrix is completed, members should analyse and express any further interests they have.
 ### Anna
-- Provide updated version of ANSTO roadmap in a few weeks.
-
-### Daniel
-- Send poll to organise the next meeting in a month!
-- Upload all circulated roadmaps (except ANSTO) to the [Roadmap repository](https://github.com/mantidproject/roadmap)
-- Make CSNS (and whole group) aware of Mantid Imaging.
+After 16th July, Anna will put together a Common Map of the common goals across different facilities.
+### Stephen
+Do you accept the proposals of the SWG to:
+A) move the User Meeting back by ~1 month? *Accepted*
+B) To add a Mantid Introduction (possibly adding an extra day to the User Meeting) for potential new users? 
+*Not accepted due to large effort and minimal time*
 
 # Initially Proposed Agenda
  
--	Spend ~10 mins on each roadmap and identify commonalities.
--	A discussion if there are relatively small items which can be put into the Roadmaps. 
--	Discuss how to create a common scientific roadmap?
--	Discuss how we collaborate and move forward on these commonalities?
--	User Meeting discussion, if time permits.
-
+- Discuss any comments on the common roadmap
+- Discuss plans for upcoming User meeting
+- Any ideas about more effective ways to communicate and progress on roadmaps
