@@ -14,7 +14,7 @@ B) To add a Mantid Introduction (possibly adding an extra day to the User Meetin
 *Not accepted due to large effort and minimal time*
 
 # Initially Proposed Agenda
- 
-- Discuss any comments on the common roadmap
+
 - Discuss plans for upcoming User meeting
+- Discuss any comments on the common roadmap
 - Any ideas about more effective ways to communicate and progress on roadmaps
