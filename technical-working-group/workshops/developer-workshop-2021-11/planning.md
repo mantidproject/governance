@@ -14,3 +14,8 @@ a bit and this could have become a barrier to more effective communication.
 
 - A desirable outcome, if nothing else, will be improved relationships across
   the development teams.
+
+## Ideas
+
+- Each developer does a 2-3 min lightning talk introducing themselves to the team and giving
+  a bit of their background
