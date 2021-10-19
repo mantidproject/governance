@@ -14,3 +14,9 @@
 - Add roadmap items for 6.3 release.
 
 # Agenda
+- Discuss input to technical session of user meeting 
+- Developer meeting:
+  - Agree date: 3 hours, 1st Dec 2021?
+  - Ideas for agenda
+- Review roadmap
+- Any other business
