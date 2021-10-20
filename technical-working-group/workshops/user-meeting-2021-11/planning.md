@@ -20,3 +20,4 @@ Ideas for content/speakers:
 - The idea of experiment api (xapi), that I spoke briefly in the last twg meetings. (ILL)
 - GUIs/projects using mantid as a library (ORNL)
 - ORNL release management process using a fork (ORNL)
+- Future dependency management: Conda (??)
