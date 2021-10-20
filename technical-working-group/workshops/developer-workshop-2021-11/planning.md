@@ -17,5 +17,9 @@ a bit and this could have become a barrier to more effective communication.
 
 ## Ideas
 
-- Each developer does a 2-3 min lightning talk introducing themselves to the team and giving
-  a bit of their background
+- Each developer does a 1-2 min lightning talk introducing themselves to the team and giving
+  a bit of their background. Create a slide template for people to fill in (All) ~60mins
+- Group coding exercise (Gilded Rose, Coding dojo) ~60mins
+- More-indepth updates of technical details: ~60mins
+  - Conda intro/tutorial
+  - Precommit/CI jobs  
