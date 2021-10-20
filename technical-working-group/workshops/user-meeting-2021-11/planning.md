@@ -12,5 +12,10 @@ where we need to provide some updates from our perspective.
 
 Ideas for content/speakers:
 
+- Introducing the TWG (Martyn)
 - What has happened to the project, from a more technical slant, since the
   last meeting (Martyn)
+- ILL new SANS, this we will demo to ANSTO in October already, but it might be interesting also for MLZ and PSI. (Gagik)
+- D7 technique, i.e. 10-axis polarization analysis, which is new to mantid. (Gagik)
+- All the GUI work, drill, superplot, instrument viewer extensions. (Gagik)
+- The idea of experiment api (xapi), that I spoke briefly in the last twg meetings. (Gagik)
