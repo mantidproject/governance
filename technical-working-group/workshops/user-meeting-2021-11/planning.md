@@ -32,12 +32,12 @@ Updates in facility update section of SWG:
 
 Each 20 min slot is envisioned as 15 min presentation + 5 min Q/A
 
-13:00 Introducing the Technical Working Group (Martyn Gigg)
+- 13:00 Introducing the Technical Working Group (Martyn Gigg)
 
-13:10 What has happened and what to expect (Martyn Gigg)
+- 13:10 What has happened and what to expect (Martyn Gigg)
 
-13:30 GUIs/projects using mantid as a library (Pete Peterson)
+ - 13:30 GUIs/projects using mantid as a library (Pete Peterson)
 
-13:50 New API idea based around experiments (Gagik Vardanyan)
+ - 13:50 New API idea based around experiments (Gagik Vardanyan)
 
-14:10 ORNL release management process using a fork (Pete Peterson)
+ - 14:10 ORNL release management process using a fork (Pete Peterson)
