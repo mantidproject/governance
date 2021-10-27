@@ -30,6 +30,8 @@ Updates in facility update section of SWG:
 
 ## Possible Agenda
 
+Each 20 min slot is envisioned as 15 min presentation + 5 min Q/A
+
 13:00 Introducing the Technical Working Group (Martyn Gigg)
 
 13:10 What has happened and what to expect (Martyn Gigg)
