@@ -21,11 +21,11 @@ a bit and this could have become a barrier to more effective communication.
 - Each developer does a 1-2 min lightning talk introducing themselves to the team and giving
   a bit of their background. Create a slide template for people to fill in (All) ~60mins
 - Group coding exercise (Gilded Rose, Coding dojo) ~60mins
-- More-indepth updates of technical details/working practice: ~60mins
-  - Conda intro/tutorial
-  - Precommit/CI jobs
+- More-indepth updates of technical details/working practice or possible future projects: ~60mins
   - Overview of ensemble programming (Gemma)
-  - Project layout changes
+  - xapi: A new api based around experiments (Gagik)
+  - Conda intro/tutorial
+  - Other changes: Precommit, Conflict Bot, Code ownership? (Martyn)
 
 ## Day 2
 
