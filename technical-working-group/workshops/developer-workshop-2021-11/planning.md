@@ -24,8 +24,11 @@ a bit and this could have become a barrier to more effective communication.
 - More-indepth updates of technical details/working practice or possible future projects: ~60mins
   - Overview of ensemble programming (Gemma)
   - xapi: A new api based around experiments (Gagik)
-  - Conda intro/tutorial
-  - Other changes: Precommit, Conflict Bot, Code ownership? (Martyn)
+  - CppCheck Defect Example Showcase (Tom) (5-10mins)
+  - Conda intro/tutorial - Workshop-style developing conda with mantid (Tom/Sam J) 20-30 mins
+
+  (- Other changes: Precommit, Conflict Bot, Code ownership? (Martyn))
+
 
 ## Day 2
 
