@@ -9,7 +9,7 @@ This documents lists the voting members and their [facility affiliations](../fac
 * Martyn Gigg (STFC) - **Chair**
 * Gemma Guest (STFC)
 * Marina Ganeva (JCNS)
-* Nick Hauser (ANSTO)
+* Geish Miladinovic (ANSTO)
 * Simon Heybrock (ESS)
 * Zach Morgan (ORNL)
 * Pete Peterson (ORNL)
