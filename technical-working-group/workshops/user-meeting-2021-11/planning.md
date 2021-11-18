@@ -38,6 +38,6 @@ Each 20 min slot is envisioned as 15 min presentation + 5 min Q/A
 
  - 13:30 GUIs/projects using mantid as a library (Pete Peterson)
 
- - 13:50 New API idea based around experiments (Gagik Vardanyan)
+ - 13:50 Kinetic SANS Reduction (Gagik Vardanyan)
 
  - 14:10 ORNL release management process using a fork (Pete Peterson)
