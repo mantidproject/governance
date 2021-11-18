@@ -1,20 +1,21 @@
-# Next SWG Meeting (End of Sept 2021)
+# Next SWG Meeting (Nov 2021)
 
 # Recap actions from previous meeting:
 
-### SWG Members
-By Friday 16th July, Check roadmaps are updated with all items, including anything small.
-After the Common Map/Matrix is completed, members should analyse and express any further interests they have.
-### Anna
-After 16th July, Anna will put together a Common Map of the common goals across different facilities.
-### Stephen
-Do you accept the proposals of the SWG to:
-A) move the User Meeting back by ~1 month? *Accepted*
-B) To add a Mantid Introduction (possibly adding an extra day to the User Meeting) for potential new users? 
-*Not accepted due to large effort and minimal time*
+## SWG Members
+- Update Roadmaps with any new items by 1st November. 
+  Any indication about current / future work and which tasks are higher priority would be great.
+## Anna
+- Convert Common Roadmap spreadsheet to google sheet
+- Update Common Roadmap spreadsheet with any updates after 1st November.
+## Pascal
+- Create and circulate Table for facilites to vote on common areas of interest
+
 
 # Initially Proposed Agenda
 
-- Discuss plans for upcoming User meeting
-- Discuss any comments on the common roadmap
-- Any ideas about more effective ways to communicate and progress on roadmaps
+- An update from Pascal about overall roadmap table?
+- Talk about technical/scientific committees interactions related to last meeting's minutes: https://github.com/mantidproject/governance/pull/11/files#diff-a0d569f84d5b1188ac3b7b43fdfb36384f07a0e8786278d40de737b37b075d3bR60-R61
+- Identify the most common areas of interest worth sharing at the User Meeting
+- Any updates from Steve on User Meeting (number of people signed up?)
+
