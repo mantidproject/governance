@@ -11,7 +11,7 @@ Times:
   - China Stanadard Time (CST): 21:30 - 00:30
   - Australian Eastern Daylight Time (AEDT): 00:30 - 03:30
 
-# Aims
+## Aims
 
 As this is a limited workshop due to time constraints of remote working across multiple timezones we would like to focus on:
 
@@ -19,7 +19,7 @@ As this is a limited workshop due to time constraints of remote working across m
 2. Sharing best practice and new developments
 3. Tackling issues that frustrate developers in mantid
 
-# Preparation
+## Preparation
 
 By way of introduction we would like each attendee to prepare a slide about themselves as so that we can get to know each other.
 We will collate the slides into a single deck before the meeting to avoid having to switch screen shares constantly.
@@ -31,4 +31,19 @@ Please create a single page PDF with the following content:
  - Expertise
  - Current work/projects
 
-Once you have create the PDF please create a pull request into the [intro-slides directory](./intro-slides) in this repository.
+Once you have created the PDF slide, please include your name in the file name, create a pull request into the [intro-slides directory](./intro-slides) into this repository.
+This can all be done entirely on the GitHub interface as follows:
+
+ - fork this repository by clicking "Fork" on the top right of this page and select your GitHub username
+ - you will be redirected the forked copy automatically
+ - click through the to the `technical-working-group/workshops/developer-workshop-2021-12/intro-slides` directory
+ - click "Add file->Upload files"
+ - drag the pdf into the square as shown on the page and click commit.
+ - navigate to the "Pull Requests" tab and create a new pull request into the base "mantidproject/governance" repository
+
+## Agenda
+
+### Day 1
+
+- 13:30: Introduction to Developer Workshop (Martyn Gigg) (5 mins)
+- 13:35 - 14:00: Developer introduction lightning talks (All) (~25-30 mins)
