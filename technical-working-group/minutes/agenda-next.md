@@ -16,7 +16,12 @@
 - Review agenda for [User Meeting](https://www.mantidproject.org/Category_Users_Workshop_2021.html)
 - Review agenda for [Developer Meeting](https://github.com/mantidproject/workshops/wiki/Developer-Workshop-2021)
   - Create a new repository [workshops](https://github.com/mantidproject/workshops).
-  - Used the wiki rather than markdown documents. I think this can work for future meetings as a low-overhead solution?
+  - Used the wiki rather than markdown documents. Can this work for future meetings as a low-overhead solution?
+  - Happy with agenda?
+- Code owners
+- Pull Request throughput
+- Design documents:
+  - Advice on when to create them (Gagik)
 - Review roadmap
   - Can we get this updated with as much as possible before the meeting next week?
 - Any other business
