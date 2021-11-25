@@ -16,3 +16,7 @@ This documents lists the voting members and their [facility affiliations](../fac
 * Mathieu Tillet (ILL)
 * Emmanouela Rantsiou (PSI)
 * Gagik Vardanyan (ILL)
+
+## Non-Voting Positions
+
+* David Fairbrother (STFC) - **Secretary**
