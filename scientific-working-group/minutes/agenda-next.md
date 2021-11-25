@@ -15,7 +15,7 @@
 # Initially Proposed Agenda
 
 - An update from Pascal about overall roadmap table?
+- Preparation for the User Workshop
 - Talk about technical/scientific committees interactions related to last meeting's minutes: https://github.com/mantidproject/governance/pull/11/files#diff-a0d569f84d5b1188ac3b7b43fdfb36384f07a0e8786278d40de737b37b075d3bR60-R61
-- Identify the most common areas of interest worth sharing at the User Meeting
 - Any updates from Steve on User Meeting (number of people signed up?)
 
