@@ -20,6 +20,8 @@ Attendees:
 ## AOB point 1
 - Some more details
 
+---
+
 # Minutes
 
 ## Agenda Point 1
