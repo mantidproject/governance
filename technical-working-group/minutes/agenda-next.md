@@ -1,4 +1,4 @@
-# Next TWG Meeting (November)
+# Next TWG Meeting (December)
 
 # Recap actions from previous meeting:
 
@@ -13,15 +13,11 @@
 - Add roadmap items for 6.3 release.
 
 # Agenda
-- Review agenda for [User Meeting](https://www.mantidproject.org/Category_Users_Workshop_2021.html)
-- Review agenda for [Developer Meeting](https://github.com/mantidproject/workshops/wiki/Developer-Workshop-2021)
-  - Create a new repository [workshops](https://github.com/mantidproject/workshops).
-  - Used the wiki rather than markdown documents. Can this work for future meetings as a low-overhead solution?
-  - Happy with agenda?
-- Code owners
-- Pull Request throughput
-- Design documents:
-  - Advice on when to create them (Gagik)
-- Review roadmap
-  - Can we get this updated with as much as possible before the meeting next week?
+- Release [6.3 schedule](https://github.com/mantidproject/mantid/milestone/99):
+  - Assign release roles: 
+- Developer workshop Retrospective:
+  - what worked, what didn't?
+  - should we run at least one remote meeting/code camp a year? different frequency?
+- Discussion r.e. review process left open ended.
+  - We agreed to form a small group to look at the process.
 - Any other business
