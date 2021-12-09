@@ -31,4 +31,5 @@
   - should we run at least one remote meeting/code camp a year? different frequency?
 - Discussion r.e. review process left open ended.
   - We agreed to form a small group to look at the process.
+- Guidelines on when a design document (and a developer documentation) is needed
 - Any other business
