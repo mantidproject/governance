@@ -14,3 +14,4 @@
 # Agenda
 - Open position for secretary
 - Release 6.4 timeline
+- Maintenance clean up and priorities
