@@ -1,4 +1,4 @@
-# Next TWG Meeting (December)
+# Next TWG Meeting (???)
 
 # Recap actions from previous meeting:
 
@@ -12,3 +12,5 @@
 
 
 # Agenda
+- Open position for secretary
+- Release 6.4 timeline
