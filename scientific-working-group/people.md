@@ -14,8 +14,10 @@ This documents lists the members and their [facility affiliations](../facilities
   
 * ESS:
   * Judith Houston
+  * Thomas Holm
   
 * ILL:
+  * Stéphane Rols
   * Charles Dewhurst
   * Miguel Gonzalez
   * Paolo Mutti
