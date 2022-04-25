@@ -13,7 +13,8 @@
 
 # Agenda
 - Open position for secretary
-- Release 6.4 timeline
-- Maintenance board clean up and priorities
-- Triage cross-facility issues?
+- [Release 6.4 timeline](https://github.com/mantidproject/mantid/milestone/103)
+- [Maintenance board](https://github.com/mantidproject/mantid/projects/15) clean up and priorities
 - Monthly recurring meeting instead?
+  - Triage cross-facility issues
+- [Roadmap](https://github.com/mantidproject/roadmap/projects/1)
