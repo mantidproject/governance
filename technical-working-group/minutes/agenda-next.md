@@ -16,3 +16,4 @@
 - Release 6.4 timeline
 - Maintenance board clean up and priorities
 - Triage cross-facility issues?
+- Monthly recurring meeting instead?
