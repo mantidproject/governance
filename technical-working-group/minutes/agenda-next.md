@@ -18,3 +18,4 @@
 - Monthly recurring meeting instead?
   - Triage cross-facility issues
 - [Roadmap](https://github.com/mantidproject/roadmap/projects/1)
+- Review list of [gatekeepers](https://github.com/orgs/mantidproject/teams/gatekeepers/members)
