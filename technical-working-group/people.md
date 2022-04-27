@@ -8,14 +8,14 @@ This documents lists the voting members and their [facility affiliations](../fac
 * Rong Du (CSNS)
 * Martyn Gigg (STFC) - **Chair**
 * Gemma Guest (STFC)
-* Marina Ganeva (JCNS)
+* Oleksandr Koschii (JCNS)
 * Geish Miladinovic (ANSTO)
 * Simon Heybrock (ESS)
 * Zach Morgan (ORNL)
 * Pete Peterson (ORNL)
 * Mathieu Tillet (ILL)
 * Emmanouela Rantsiou (PSI)
-* Gagik Vardanyan (ILL)
+* Tobias Weber (ILL)
 
 ## Non-Voting Positions
 
