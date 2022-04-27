@@ -2,20 +2,19 @@
 
 # Recap actions from previous meeting:
 
+## All
+- Suggestions for the new TWG secretary
+
 ## Gigg
-- Find date that works for everyone, and add a release party to this.
-- Create a set of slides covering: what we've done, preview of roadmap for next iteration, upcoming large process or tech changes.
-- Add Peterson + Vardanyan as interested parties to these discussions
+- Create a poll to find a time for the monthly TWG meeting
+- Ensure we highlight that 6.4 is the last release with a linux desktop installer
+- Nominate one or two additional gatekeepers from ISIS
+- Review member lists on Slack/Github
+- Reduce the number of items in the Maintenance Backlog
 
-## Vardanyan
-- Create a page on dev docs formalising when to create a design document.
-
+## Tillet, Weber
+- Nominate at least one gatekeeper from ILL
 
 # Agenda
-- Open position for secretary
-- Monthly recurring meeting instead?
-  - Triage cross-facility issues
-- [Release 6.4 timeline](https://github.com/mantidproject/mantid/milestone/103)
-- [Maintenance board](https://github.com/mantidproject/mantid/projects/15) clean up and priorities
-- Review list of [gatekeepers](https://github.com/orgs/mantidproject/teams/gatekeepers/members)
+- Triage cross-facility issues
 - [Roadmap](https://github.com/mantidproject/roadmap/projects/1)
