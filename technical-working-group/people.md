@@ -19,4 +19,4 @@ This documents lists the voting members and their [facility affiliations](../fac
 
 ## Non-Voting Positions
 
-* David Fairbrother (STFC) - **Secretary**
+* Open Position - **Secretary**
