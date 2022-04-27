@@ -19,4 +19,4 @@ This documents lists the voting members and their [facility affiliations](../fac
 
 ## Non-Voting Positions
 
-* Open Position - **Secretary**
+* Zach Morgan (ORNL) - **Secretary**
