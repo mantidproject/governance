@@ -1,5 +1,3 @@
-# Next TWG Meeting (???)
-
 # Recap actions from previous meeting:
 
 ## All
