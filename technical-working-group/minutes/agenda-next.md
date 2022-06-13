@@ -14,5 +14,6 @@
 - Nominate at least one gatekeeper from ILL
 
 # Agenda
+- Zach Morgan has volunteered to be Secretary.
 - Triage cross-facility issues
 - [Roadmap](https://github.com/mantidproject/roadmap/projects/1)
