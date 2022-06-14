@@ -17,4 +17,5 @@
 - Zach Morgan has volunteered to be Secretary.
 - Triage cross-facility issues
 - Update on 6.4 release (Martyn)
+- Release new landing page? (Martyn)
 - [Roadmap](https://github.com/mantidproject/roadmap/projects/1)
