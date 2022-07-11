@@ -1,21 +1,28 @@
 # Recap actions from previous meeting:
 
 ## All
-- Suggestions for the new TWG secretary
+####	Unlabeled pull requests
+- Pelican crystal processing algorithm (Gigg)
+- Pre-commit autoupdate (Peterson)
+- SAnSILL input information metadata (Tillet)
+####	Unlabeled issues
+- Implement progress reporting in PoldiDataAnalysis
+- Singe Crystal axis field names in SaveMD (leave unlabeled for now) 
+    - NexPy looks for standard naming convention
+####	Others
+- SANS GUI won’t open (Guest)
+- Convolution on non-equidistant grids (Tillet)
+- MaskBins/Crop/Rebin (Tillet)
+- SNS ORNL Team label (Morgan)
 
 ## Gigg
-- Create a poll to find a time for the monthly TWG meeting
-- Ensure we highlight that 6.4 is the last release with a linux desktop installer
-- Nominate one or two additional gatekeepers from ISIS
-- Review member lists on Slack/Github
-- Reduce the number of items in the Maintenance Backlog
+- Contact MLZ for Team label
 
-## Tillet, Weber
-- Nominate at least one gatekeeper from ILL
 
 # Agenda
-- Zach Morgan has volunteered to be Secretary.
-- Triage cross-facility issues
-- Update on 6.4 release (Martyn)
-- Release new landing page? (Martyn)
+- General updates (Gigg)
+  - 6.4 was released!
+  - 6.5/6.6 milestone dates have now been updated.
+  - New webpage not released yet due to absence
+- New Technical Debt label. We have mixed this in with maintenance but that's not really accurate. (Gigg)
 - [Roadmap](https://github.com/mantidproject/roadmap/projects/1)
