@@ -26,5 +26,9 @@
   - New webpage not released yet due to absence
 - New Technical Debt label. We have mixed this in with maintenance but that's not really accurate. (Gigg)
 - Removal of MPI work added by ESS, e.g `API::ParallelAlgorithm`. They do not plan on using it. Is anyone else using it?
-- Coding standards/modernization. 
+- Coding standards/modernization for new code, e.g.
+  - Python type annotations mandatory 
+  - Using `std::filesytem` in place of Poco.
+  - Using non-owing view types e.g. `std::string_view`
+  - How do we best document and communicate what we want here?
 - [Roadmap](https://github.com/mantidproject/roadmap/projects/1)
