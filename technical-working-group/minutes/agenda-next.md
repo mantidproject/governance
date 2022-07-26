@@ -22,7 +22,7 @@
 # Agenda
 - General updates (Gigg)
   - 6.4 was released!
-  - 6.5/6.6 milestone dates have now been updated.
+  - 6.5 (3rd October)/6.6 (20th Feb 2023) milestone dates have now been updated.
   - New webpage not released yet due to absence
 - Can we move all pull requests to conda-based environments? This would mean we stop shipping .rpm/.deb
 - New Technical Debt label. We have mixed this in with maintenance but that's not really accurate. (Gigg)
