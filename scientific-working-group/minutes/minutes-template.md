@@ -31,7 +31,7 @@ Date: **YYYY-MM-DD UTC 00:00-00:00**
 
 # Meeting Agenda
 
-## Agenda Point 1
+## Facility Updates
 - Some details
 
 # Actions from Previous Meeting
@@ -45,7 +45,7 @@ Date: **YYYY-MM-DD UTC 00:00-00:00**
 
 # Minutes
 
-## Agenda Point 1
+## Facility Updates
 - Some discussion
 
 ## Agenda Point 2
