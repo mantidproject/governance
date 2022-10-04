@@ -1,9 +1,5 @@
 # Recap actions from previous meeting:
 
-## All
-- Check whether MPI code is used now.
-
-
 # Agenda
 - General updates (Gigg)
   - 6.5: Currently out for beta testing. Not much feedback from ISIS yet. Any others?
