@@ -7,3 +7,4 @@
   - 6.5.0 release went out on 19th October without fix for above startup issue.
   - No .rpm/.deb released for the first time.
 - Martyn leaving the ISIS Data Reduction team. 
+- AOB
