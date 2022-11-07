@@ -1,9 +1,9 @@
 # Recap actions from previous meeting:
 
+- ORNL had an issue with long workbench start up times. Deleting `~/.cache/fontconfig` avoided the problem.
+
 # Agenda
-- General updates (Gigg)
-  - 6.5: Currently out for beta testing. Not much feedback from ISIS yet. Any others?
-  - Expected release date for 6.5: 17th October.
-  - Any blockers?
-- Can we move all pull requests to conda-based environments? This would mean we stop shipping .rpm/.deb
-- Can we merge the conda-recipes to the main repository? Updating them at the same time as the code is painful at the moment.
+- General Updates:
+  - 6.5.0 release went out on 19th October without fix for above startup issue.
+  - No .rpm/.deb released for the first time.
+- Martyn leaving the ISIS Data Reduction team. 
