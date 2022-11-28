@@ -6,5 +6,9 @@
 - General Updates:
   - 6.5.0 release went out on 19th October without fix for above startup issue.
   - No .rpm/.deb released for the first time.
-- Martyn leaving the ISIS Data Reduction team. 
+- Martyn leaving the ISIS Data Reduction team (but not ISIS). 
+  - Electing a new chair
+- How can we best proceed with updates such as a change of formatter: [#34743](https://github.com/mantidproject/mantid/pull/34743)
+  1. Mass update of all files: Timing is hard, merge conflicts for unmerged PRs increases likelihood of other errors creeping in
+  2. Pre-commit updates files as they are changed: Gentler approach, improve as we go. Downside is reviews are more challening as PRs have changes from formatter too.
 - AOB
