@@ -12,4 +12,5 @@
 - How can we best proceed with updates such as a change of formatter: [#34743](https://github.com/mantidproject/mantid/pull/34743)
   1. Mass update of all files: Timing is hard, merge conflicts for unmerged PRs increases likelihood of other errors creeping in
   2. Pre-commit updates files as they are changed: Gentler approach, improve as we go. Downside is reviews are more challening as PRs have changes from formatter too.
+- linode server costs
 - AOB
