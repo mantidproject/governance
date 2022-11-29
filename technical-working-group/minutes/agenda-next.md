@@ -13,5 +13,6 @@
   1. Mass update of all files: Timing is hard, merge conflicts for unmerged PRs increases likelihood of other errors creeping in
   2. Pre-commit updates files as they are changed: Gentler approach, improve as we go. Downside is reviews are more challening as PRs have changes from formatter too. Needs have deadline for full switch at some point.
   3. Change sections of the repository over the course of the release
+  4. (comment from Simon Heybrock): 'Software Engineering at Google' has a whole chapter on this. They use something they call 'sharding'. See https://abseil.io/resources/swe-book/html/ch22.html for details.
 - linode server costs
 - AOB
