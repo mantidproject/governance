@@ -7,6 +7,6 @@
 - General Updates:
   - Progress on beta testing
   - [Release schedule](https://github.com/mantidproject/mantid/milestones)
-  - [Maintenance list](https://github.com/mantidproject/mantid/projects/15)
+  - [Maintenance list](https://github.com/mantidproject/mantid/projects/15) (moved to new-style project board)
 - linode server costs
 - AOB
