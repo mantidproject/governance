@@ -6,14 +6,14 @@ This documents lists the voting members and their [facility affiliations](../fac
 
 * Shenglan Chen (CSNS)
 * Rong Du (CSNS)
-* Martyn Gigg (STFC) - **Chair**
 * Gemma Guest (STFC)
+* Tom Hampson (STFC)
 * Oleksandr Koschii (JCNS)
 * Geish Miladinovic (ANSTO)
 * Simon Heybrock (ESS)
 * Zach Morgan (ORNL)
 * Eric Pellegrini (ILL)
-* Pete Peterson (ORNL)
+* Pete Peterson (ORNL) - **Chair**
 * Rémi Pérenon (ILL)
 * Emmanouela Rantsiou (PSI)
 
