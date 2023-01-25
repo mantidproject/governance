@@ -12,10 +12,10 @@ This documents lists the voting members and their [facility affiliations](../fac
 * Geish Miladinovic (ANSTO)
 * Simon Heybrock (ESS)
 * Zach Morgan (ORNL)
+* Eric Pellegrini (ILL)
 * Pete Peterson (ORNL)
-* Mathieu Tillet (ILL)
+* Rémi Pérenon (ILL)
 * Emmanouela Rantsiou (PSI)
-* Tobias Weber (ILL)
 
 ## Non-Voting Positions
 
