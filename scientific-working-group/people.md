@@ -34,6 +34,7 @@ This documents lists the members and their [facility affiliations](../facilities
 
 * STFC:
   * Pascal Manuel
-  * Lamar Moore
+  * Anders Markvardsen
   * Stephen Cottrell (User Group Chair)
-  * Daniel Murphy (Secretary)
+
+Secretary Position Empty
