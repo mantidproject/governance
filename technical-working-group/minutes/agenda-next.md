@@ -9,4 +9,6 @@
   - [Maintenance list](https://github.com/orgs/mantidproject/projects/15) (moved to new-style project board)
 - ORNL had an issue with long workbench start up times. Deleting `~/.cache/fontconfig` avoided the problem.
 - linode server costs
+- Upgrading python version
+- Can we remove pylint config?
 - AOB
