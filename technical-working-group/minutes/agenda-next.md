@@ -2,13 +2,6 @@
 
 
 # Agenda
-- New Data Reduction Lead at ISIS appointed: Gemma Guest
-- General Updates:
-  - Progress on beta testing
-  - [Release schedule](https://github.com/mantidproject/mantid/milestones)
-  - [Maintenance list](https://github.com/orgs/mantidproject/projects/15) (moved to new-style project board)
-- ORNL had an issue with long workbench start up times. Deleting `~/.cache/fontconfig` avoided the problem.
-- linode server costs
 - Upgrading python version
-- Can we remove pylint config?
+- Event filtering update (Pete)
 - AOB
