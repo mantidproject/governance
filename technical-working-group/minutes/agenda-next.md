@@ -2,8 +2,9 @@
 
 
 # Agenda
-- Upgrading python version
+- Upgrading python version update (Tom)
+- Update on slow file browser (Tom)
+- Managing dependecy updates (Tom)
 - Event filtering update (Pete)
-- M1 Mac architecture (Sarah)
 - Review [roadmap](https://github.com/mantidproject/roadmap/projects/1)
 - AOB
