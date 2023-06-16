@@ -2,6 +2,7 @@
 
 
 # Agenda
+- Failing doctests due to build servers not running the tests
 - Upgrading python version update (Tom)
 - Have ILL had a chance to look at the MacOS ansible scripts?
 - Update on new ISIS MacOS machines
