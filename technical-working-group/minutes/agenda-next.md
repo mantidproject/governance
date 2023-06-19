@@ -2,7 +2,7 @@
 
 
 # Agenda
-- Failing doctests due to build servers not running the tests
+- Failing doctests due to build servers not running the tests ([draft PR](https://github.com/mantidproject/mantid/pull/35679) needs help)
 - Upgrading python version update (Tom)
 - Have ILL had a chance to look at the MacOS ansible scripts?
 - Update on new ISIS MacOS machines
