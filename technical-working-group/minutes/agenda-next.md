@@ -5,8 +5,6 @@
 - Upgrading to python v3.10 update (Tom)
 - Update on ILL MacOS ansible scripts?
 - Update on new ISIS MacOS machines?
-- Issues with Conda dependencies
-- Jenkins training for all developers
 - Cppcheck update
 - [developer meeting agenda](https://github.com/mantidproject/workshops/blob/main/developer/2023-10/agenda.md) October 16-18
 - [Community standards](https://github.com/mantidproject/mantid/community) according to github
