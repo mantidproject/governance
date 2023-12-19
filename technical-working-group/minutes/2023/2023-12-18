@@ -1,0 +1,14 @@
+# Mantid TWG 12/28/2023
+Attendance:
+Peterson, Koshcii, Foxley
+
+## Agenda
+Reduce sourceforge usage
+- Remove nightly
+Nexus API
+- Mantain or remove?
+- Resource epic
+- NeXus file handling epic
+- Use hdf5 bindings
+- Faster in some cases but not the necessary bottleneck
+- Enabler epic for improve loading
