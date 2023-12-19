@@ -9,6 +9,7 @@
 - ORNL branch protection - can we require pull requests for these branches?
 - [Deprecation policy](https://github.com/mantidproject/workshops/blob/main/developer/2023-10/codecamp/deprecation_policy.md) 
 - Deprecating SofQW algorithms 1 & 2
+- nexus API (maintain or move?)
 - v6.9 and v6.10 dates
 - Review [roadmap](https://github.com/mantidproject/roadmap/projects/1)
 - AOB
