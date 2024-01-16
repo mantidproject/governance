@@ -4,6 +4,7 @@
 # Agenda
 - sourceforge is asking us to reduce usage
 - what is archived in github releases?
+- Fixes on main getting into ornl-next
 - [Community standards](https://github.com/mantidproject/mantid/community) according to github
 - nexus API (maintain or move?)
 - Review [roadmap](https://github.com/mantidproject/roadmap/projects/1)
