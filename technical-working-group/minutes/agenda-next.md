@@ -2,7 +2,7 @@
 
 
 # Agenda
-- sourceforge is asking us to reduce usage
+- sourceforge is asking us to reduce usage - update
 - what is archived in github releases?
 - Fixes on main getting into ornl-next
 - release-next->main fix
