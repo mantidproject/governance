@@ -3,7 +3,7 @@
 
 # Agenda
 
-- Dates for future release [milestones](https://github.com/mantidproject/mantid/milestones)
+- Plotting issue and patch release
 - Review [roadmap](https://github.com/mantidproject/roadmap/projects/1)
 - AOB
 
