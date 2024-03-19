@@ -4,6 +4,7 @@
 # Agenda
 
 - Plotting issue and patch release
+- HDF5 update 1.12 -> 1.14
 - Review [roadmap](https://github.com/mantidproject/roadmap/projects/1)
 - Mantid developer meeting and user meeting during NoBugs
 - AOB
