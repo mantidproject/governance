@@ -5,6 +5,7 @@
 
 - Plotting issue and patch release
 - Review [roadmap](https://github.com/mantidproject/roadmap/projects/1)
+- Mantid developer meeting and user meeting during NoBugs
 - AOB
 
 Maybe revisit
