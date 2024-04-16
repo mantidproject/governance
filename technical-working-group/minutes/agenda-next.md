@@ -7,6 +7,7 @@
 - HDF5 update 1.12 -> 1.14
 - Review [roadmap](https://github.com/mantidproject/roadmap/projects/1)
 - Mantid developer meeting and user meeting during NoBugs
+- Follow-up of Dr Andrey Kirilov (Frank Laboratory of Neutron Physics) email
 - AOB
 
 Maybe revisit
