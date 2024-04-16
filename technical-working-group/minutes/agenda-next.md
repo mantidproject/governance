@@ -1,5 +1,6 @@
 # Recap actions from previous meeting:
 
+Attendees: Oleksandr, Pete, Remi, Sarah, Tom
 
 # Agenda
 
