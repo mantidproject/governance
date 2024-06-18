@@ -1,4 +1,4 @@
-Attendees: Pete, Remi, Tom
+Attendees: Peterson, Perenon, Hampson
 
 # Recap actions from previous meeting:
 
