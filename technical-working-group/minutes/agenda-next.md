@@ -1,10 +1,17 @@
+Attendees: Pete, Remi, Tom
+
 # Recap actions from previous meeting:
 
 # Agenda
-
+- mantid v6.10 smoke tests are scheduled for Thursday
+- Maintenance is happening on main to move forward compiler versions for mac and linux
+- numpy v2.0.0 was recently released with breaking changes to the c-api. We are waiting until boost-python supports it
 - When do we need to start building conda packages for ARM macs?
+  - Checking usage reports to see if users are moved already
+  - Will need to support eventually
+  - Probably not move until there are more builders. Dependencies are already ready
 - Mantid developer meeting and user meeting/tutorial during NOBUGS ([link](https://github.com/mantidproject/workshops/tree/main/developer/2024-09))
-- Follow-up of Dr Andrey Kirilov (Frank Laboratory of Neutron Physics) email
+  - Follow up with TWG in two weeks to find out who is attending from mantid community to find volunteers to lead
 - Review [roadmap](https://github.com/mantidproject/roadmap/projects/1)
 - AOB
 
