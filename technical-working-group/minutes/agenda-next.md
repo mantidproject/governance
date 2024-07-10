@@ -5,6 +5,8 @@
 - Maintenance for moving to numpy v2.0.0 (need issue links)
 - When do we need to start building conda packages for ARM macs?
 - Mantid developer meeting and user meeting/tutorial during NOBUGS ([link](https://github.com/mantidproject/workshops/tree/main/developer/2024-09))
+- Moving from Jenkins to GitHub Actions. Is there any reason not to do this?
+- Can we move the mantid-developer environments to conda metapackages? (see [here](https://github.com/mantidproject/mantid/issues/37627) for thoughts)
 - Review [roadmap](https://github.com/orgs/mantidproject/projects/47/views/1)
 - AOB
 
