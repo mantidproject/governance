@@ -6,6 +6,7 @@ Attendees: Sarah, Remi, Oleksandr, Pete
 - Draft of [release milestones](https://github.com/mantidproject/mantid/milestones) for next year
   - plan for end of January and end of May
 - Maintenance for moving to numpy v2.0 (need issue links) ([migration guide](https://numpy.org/doc/stable/numpy_2_0_migration_guide.html))
+  - Would like to incrementally move from 1.24 to 1.25 then 1.26
   - Need prototype(s) for how extensive the changes might be
   - Will be done on a long-running branch to integrate the changes. `main` will be auto-merged into the branch
   - What is the minimum python version?
