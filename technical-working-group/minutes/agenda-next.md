@@ -2,6 +2,7 @@
 
 # Agenda
 - Maintenance for mac and linux compiler versions (need issue links)
+- Draft of [release milestones](https://github.com/mantidproject/mantid/milestones) for next year
 - Maintenance for moving to numpy v2.0.0 (need issue links)
 - Mantid developer meeting and user meeting/tutorial during NOBUGS ([link](https://github.com/mantidproject/workshops/tree/main/developer/2024-09))
 - Deprecation policy - see draft [link](https://github.com/mantidproject/workshops/blob/main/developer/2023-10/codecamp/deprecation_policy.md)
