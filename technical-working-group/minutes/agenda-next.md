@@ -9,7 +9,7 @@ Attendees: Sarah, Remi, Oleksandr, Pete
   - Would like to incrementally move from 1.24 to 1.25 then 1.26
   - Need prototype(s) for how extensive the changes might be
   - Will be done on a long-running branch to integrate the changes. `main` will be auto-merged into the branch
-  - What is the minimum python version?
+  - numpy v2 supports python 3.9-3.12 ([python supported versions](https://devguide.python.org/versions/))
   - Need to find out status of boost::python supporting numpy v2. Related: [PR moving to boost 1.82](https://github.com/mantidproject/mantid/pull/37259)
 - Mantid developer meeting and user meeting/tutorial during NOBUGS ([link](https://github.com/mantidproject/workshops/tree/main/developer/2024-09))
   - Pete will copy more details into the tutorial agenda
