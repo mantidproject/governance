@@ -13,6 +13,7 @@
 - When do we need to start building conda packages for ARM macs?
 - Moving from Jenkins to GitHub Actions. Is there any reason not to do this?
 - Can we move the mantid-developer environments to conda metapackages? (see [here](https://github.com/mantidproject/mantid/issues/37627) for thoughts)
+- Moving to C++20 - what are the blockers?
 - AOB
 
 Maybe revisit
