@@ -1,6 +1,7 @@
 # Recap actions from previous meeting:
 
 # Agenda
+- Release 6.11 code freeze date. Is September 6th OK?
 - Maintenance for moving to numpy v2.0 (need issue links) ([migration guide](https://numpy.org/doc/stable/numpy_2_0_migration_guide.html))
   - Need prototype(s) for how extensive the changes might be
   - Will be done on a long-running branch to integrate the changes. `main` will be auto-merged into the branch
