@@ -1,11 +1,16 @@
+*Attendees:* Foxley, Koschscii, Perenon, Peterson, Savici
+
 # Recap actions from previous meeting:
 
 # Agenda
 - Mantid developer meeting and user meeting/tutorial during NOBUGS ([link](https://github.com/mantidproject/workshops/tree/main/developer/2024-09))
   - Discussions topics for the developer meeting to be completed
   - Possibility to invite users for the tutorials
-- ILL build servers cannot be conneted to Jenkins anymore
-- Deprecation of SQW1 and 2 (needs agreement from TWG as per [policy](https://docs.mantidproject.org/nightly/deprecation.html)
+- ILL build servers cannot be connected to Jenkins anymore
+  - Builders will not be connected until next month
+  - There are plans to discus more details at developer meeting next week
+- Deprecation of SQW1 and [SQW2](https://docs.mantidproject.org/nightly/algorithms/SofQWPolygon-v1.html)(?) (needs agreement from TWG as per [policy](https://docs.mantidproject.org/nightly/deprecation.html)
+  - this is awaiting links to user docs to link to
 - Migration to Numpy v2
   - To be carried out during the 6.12 sprint
   - Will require to move matplotlib: 3.8.4 / 3.9 ?
