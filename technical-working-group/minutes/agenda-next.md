@@ -9,7 +9,7 @@
 - ILL build servers cannot be connected to Jenkins anymore
   - Builders will not be connected until next month
   - There are plans to discus more details at developer meeting next week
-- Deprecation of SQW1 and [SQW2](https://docs.mantidproject.org/nightly/algorithms/SofQWPolygon-v1.html)(?) (needs agreement from TWG as per [policy](https://docs.mantidproject.org/nightly/deprecation.html)
+- Deprecation of [SQW1](https://docs.mantidproject.org/nightly/algorithms/SofQWCentre-v1.html) and [SQW2](https://docs.mantidproject.org/nightly/algorithms/SofQWPolygon-v1.html)(?) (needs agreement from TWG as per [policy](https://docs.mantidproject.org/nightly/deprecation.html)
   - this is awaiting links to user docs to link to
 - Migration to Numpy v2
   - To be carried out during the 6.12 sprint
