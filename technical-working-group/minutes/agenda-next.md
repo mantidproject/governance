@@ -5,12 +5,12 @@
   - Discussions topics for the developer meeting to be completed
   - Possibility to invite users for the tutorials
 - ILL build servers cannot be conneted to Jenkins anymore
+- Deprecation of SQW1 and 2 (needs agreement from TWG as per [policy]https://docs.mantidproject.org/nightly/deprecation.html)
 - Migration to Numpy v2
   - To be carried out during the 6.12 sprint
   - Will require to move matplotlib: 3.8.4 / 3.9 ?
 - When do we need to start building conda packages for ARM macs?
-- Moving from Jenkins to GitHub Actions. Is there any reason not to do this?
-- Can we move the mantid-developer environments to conda metapackages? (see [here](https://github.com/mantidproject/mantid/issues/37627) for thoughts)
+
 - Review [roadmap](https://github.com/orgs/mantidproject/projects/47/views/1)
 - AOB
 
