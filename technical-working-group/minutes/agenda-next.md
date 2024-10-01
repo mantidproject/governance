@@ -1,11 +1,6 @@
-*Attendees:* Foxley, Koschscii, Perenon, Peterson, Savici
-
 # Recap actions from previous meeting:
 
 # Agenda
-- Mantid developer meeting and user meeting/tutorial during NOBUGS ([link](https://github.com/mantidproject/workshops/tree/main/developer/2024-09))
-  - Discussions topics for the developer meeting to be completed
-  - Possibility to invite users for the tutorials
 - ILL build servers cannot be connected to Jenkins anymore
   - Builders will not be connected until next month
   - There are plans to discus more details at developer meeting next week
