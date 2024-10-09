@@ -1,6 +1,9 @@
 # Recap actions from previous meeting:
 
 # Agenda
+- NOBUGS 2026 & Mantid Developer meeting
+- Numpy v2
+
 - ILL build servers cannot be connected to Jenkins anymore
   - Builders will not be connected until next month
   - There are plans to discus more details at developer meeting next week
