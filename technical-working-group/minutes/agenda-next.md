@@ -8,8 +8,9 @@
 - Table view for group peak workspace (ORNL input)
 - User meetings
 - Migration to Numpy v2
-  - To be carried out during the 6.12 sprint
-  - Will require to move matplotlib: 3.8.4 / 3.9 ? 
+  - To be carried out during the 6.12 development period
+  - Will require to move matplotlib: 3.8.4 / 3.9 ?
+- cxxtest
 - Review [roadmap](https://github.com/orgs/mantidproject/projects/47/views/1)
 - AOB
 
