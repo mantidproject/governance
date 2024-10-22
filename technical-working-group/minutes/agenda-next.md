@@ -17,11 +17,18 @@ Attendees: Foxley, Hampson, Perenon, Peterson
   - machines will be sent to ISIS to be configured and added to jenkins
 - Dates for v6.12
   - Code freeze is January 16
-- Table view for group peak workspace (ORNL input)
-- Migration to Numpy v2
+- [Table view for group peak workspace](https://github.com/mantidproject/mantid/pull/37166) (ORNL input requested from Zach and Andrei)
+- Migration to Numpy v2 - https://github.com/mantidproject/mantid/issues/37840
+  - Should we support numpy v1 at the same time?
+    - Only at compile time. Still only support a single numpy version in packages
   - To be carried out during the 6.12 development period
-  - Will require to move matplotlib: 3.8.4 / 3.9 ?
+  - Will require to move matplotlib: 3.8.4 / 3.9 ? https://github.com/mantidproject/mantid/pull/38077
+  - Want this done early in release cycle with the assumption that manual testing is critical
+  - Sarah is leading/coordinating the effort
 - cxxtest
+  - mantid has a forked version in the main repository
+  - cxxtest is basically dead
+  - desire to make an adapter to gtest in a future release cycle (i.e. not 6.12)
 - Review [roadmap](https://github.com/orgs/mantidproject/projects/47/views/1)
 - AOB
 
