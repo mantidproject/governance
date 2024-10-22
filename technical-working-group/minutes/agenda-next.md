@@ -1,38 +1,17 @@
-Attendees: Foxley, Hampson, Perenon, Peterson
-
 # Recap actions from previous meeting:
 
 # Agenda
-- Update on v6.11 release
-  - Probably Thursday, October 24
 - NOBUGS 2026 & Mantid Developer meeting (2025 & 2026)
-  - NOBUGS 2026 is currently scheduled to be in China
-  - Mantid meetings will be scheduled independent of NOBUGS for 2025/2026
-  - ISIS has offered to host Mantid Developer 2025
 - User meetings
-  - Need to determine who will organize it
-  - Remi will find out who organized 2019 meeting
-  - Pete will contact SWG chair
 - Mac machines at ILL update
-  - machines will be sent to ISIS to be configured and added to jenkins
 - Dates for v6.12
-  - Code freeze is January 16
 - [Table view for group peak workspace](https://github.com/mantidproject/mantid/pull/37166) (ORNL input requested from Zach and Andrei)
-- Migration to Numpy v2 - https://github.com/mantidproject/mantid/issues/37840
-  - Should we support numpy v1 at the same time?
-    - Only at compile time. Still only support a single numpy version in packages
-  - To be carried out during the 6.12 development period
-  - Will require to move matplotlib: 3.8.4 / 3.9 ? https://github.com/mantidproject/mantid/pull/38077
-  - Want this done early in release cycle with the assumption that manual testing is critical
-  - Sarah is leading/coordinating the effort
-- cxxtest
-  - mantid has a forked version in the main repository
-  - cxxtest is basically dead
-  - desire to make an adapter to gtest in a future release cycle (i.e. not 6.12)
+- Migration to Numpy v2 - https://github.com/mantidproject/mantid/issues/37840 (Sarah leading effort)
 - Review [roadmap](https://github.com/orgs/mantidproject/projects/47/views/1)
 - AOB
 
 Maybe revisit
+- cxxtest
 - Deprecation of [SQW1](https://docs.mantidproject.org/nightly/algorithms/SofQWCentre-v1.html) and [SQW2](https://docs.mantidproject.org/nightly/algorithms/SofQWPolygon-v1.html) (needs agreement from TWG as per [policy](https://docs.mantidproject.org/nightly/deprecation.html)
   - this is awaiting links to user docs to link to be certain as to what we're deprecating
 - When do we need to start building conda packages for ARM macs?
