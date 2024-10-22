@@ -1,7 +1,8 @@
 # Recap actions from previous meeting:
 
 # Agenda
-- NOBUGS 2026 & Mantid Developer meeting
+- Update on v6.11 release
+- NOBUGS 2026 & Mantid Developer meeting (2025 & 2026)
 - Mac machines at ILL update
 - Dates for v6.12
 - Table view for group peak workspace (ORNL input)
