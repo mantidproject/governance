@@ -1,6 +1,7 @@
 # Recap actions from previous meeting:
 
 # Agenda
+- msvc and homebrew repos
 - NOBUGS 2026 & Mantid Developer meeting (2025 & 2026)
 - User meetings
 - Mac machines at ILL update
