@@ -6,6 +6,10 @@
 - NOBUGS 2026 & Mantid Developer meeting (2025 & 2026)
 - User meetings
 - Mac machines at ILL update
+  - Machines ready to be sent
+  - Either the machines are lent for less than one year, we sign a "temporary" sheet
+  - Either they are lent for longer, that require to pay VAT in both ways
+- Question about Fitting engine status
 - Dates for v6.12
 - [Table view for group peak workspace](https://github.com/mantidproject/mantid/pull/37166) (ORNL input requested from Zach and Andrei)
 - Migration to Numpy v2 - https://github.com/mantidproject/mantid/issues/37840 (Sarah leading effort)
