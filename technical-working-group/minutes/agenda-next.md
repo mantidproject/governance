@@ -1,6 +1,7 @@
 # Recap actions from previous meeting:
 
 # Agenda
+- where to put cppcheck suppressions for false positives
 - msvc and homebrew repos follow-up
 - Mac machines at ILL update
 - When do we need to start building conda packages for ARM macs?
