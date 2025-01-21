@@ -2,9 +2,11 @@
 
 # Agenda
 - where to put cppcheck suppressions for false positives
+- Updating Python and Qt
+- Update on Mac machines and new package
+- Developer and User meeting 2025
+- Nexus project
 - msvc and homebrew repos follow-up
-- Mac machines at ILL update
-- When do we need to start building conda packages for ARM macs?
 - Question about Fitting engine status
 - Review [roadmap](https://github.com/orgs/mantidproject/projects/47/views/1)
 - AOB
