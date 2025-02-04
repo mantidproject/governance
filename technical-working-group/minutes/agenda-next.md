@@ -1,6 +1,7 @@
 # Recap actions from previous meeting:
 
 # Agenda
+- we should squash for all PRs
 - where to put cppcheck suppressions for false positives
 - Updating Python and Qt
 - Update on Mac machines and new package
