@@ -1,8 +1,8 @@
 # Recap actions from previous meeting:
 
 # Agenda
-- we should squash for all PRs
-- where to put cppcheck suppressions for false positives
+- Can we move to online installers using [conda constructor](https://github.com/conda/constructor)? See [here](https://forum.mantidproject.org/t/how-to-install-on-linux/931) for motivation.
+- should we squash all PRs?
 - Updating Python and Qt
 - Update on Mac machines and new package
 - Mantid Developer and User meetings 2025
