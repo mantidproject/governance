@@ -10,6 +10,7 @@
 - NeXus consolidation https://github.com/mantidproject/mantid/issues/38332 (Pete leading effort)
 - msvc and homebrew repos follow-up
 - Question about Fitting engine status
+- Pinning dependency versions during beta
 - Review [roadmap](https://github.com/orgs/mantidproject/projects/47/views/1)
 - AOB
 
