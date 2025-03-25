@@ -1,10 +1,11 @@
 # Recap actions from previous meeting:
 
 # Agenda
-- Updating Python and Qt
-- Update on Mac machines and new package
 - Mantid Developer and User meetings 2025
-- NeXus consolidation https://github.com/mantidproject/mantid/issues/38332 (Pete leading effort)
+- Updating Python3.11 (Sara)
+- Updating to [Qt6](https://github.com/mantidproject/mantid/issues/38415) (Pete)
+- Update on Mac machines and new package
+- Update on [NeXus consolidation](https://github.com/mantidproject/mantid/issues/38332) (Pete leading effort)
 - msvc and homebrew repos follow-up
 - Pinning dependency versions during beta
 - Review [roadmap](https://github.com/orgs/mantidproject/projects/47/views/1)
