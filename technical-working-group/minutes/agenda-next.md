@@ -3,7 +3,7 @@
 # Agenda
 - Mantid Developer and User meetings 2025
 - Updating Python3.11 (Sarah)
-- Updating to [Qt6](https://github.com/mantidproject/mantid/issues/38415) (Pete)
+- Updating to [Qt6](https://github.com/mantidproject/mantid/issues/38415) and the new help window (Pete)
 - Update on Mac machines and new package
 - Update on [NeXus consolidation](https://github.com/mantidproject/mantid/issues/38332) (Pete leading effort)
 - msvc and homebrew repos follow-up
