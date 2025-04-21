@@ -8,6 +8,7 @@
 - Update on [NeXus consolidation](https://github.com/mantidproject/mantid/issues/38332) (Pete leading effort)
 - msvc and homebrew repos follow-up
 - Pinning dependency versions during beta
+- Optional dependencies (e.g. mslice, pystog)
 - Review [roadmap](https://github.com/orgs/mantidproject/projects/47/views/1)
 - AOB
 
