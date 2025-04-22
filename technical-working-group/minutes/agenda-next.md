@@ -5,10 +5,7 @@
 - Updating Python3.11 (Tom)
 - Updating to [Qt6](https://github.com/mantidproject/mantid/issues/38415) and the new help window (Pete)
 - Update on Mac new package (Sarah)
-- Update on [NeXus consolidation](https://github.com/mantidproject/mantid/issues/38332) (Pete leading effort)
-- msvc and homebrew repos follow-up
-- Pinning dependency versions during beta
-- Optional dependencies (e.g. mslice, pystog)
+- Update on [NeXus consolidation](https://github.com/mantidproject/mantid/issues/38332) (Pete)
 - Review [roadmap](https://github.com/orgs/mantidproject/projects/47/views/1)
 - AOB
 
@@ -17,5 +14,6 @@ Maybe revisit
 - Nexus file refactoring for reflectometry
 - cxxtest
 - Risk register
+- Pinning dependency versions during beta
 - [Community standards](https://github.com/mantidproject/mantid/community) according to github (Pete)
 - NOBUGS 2026
