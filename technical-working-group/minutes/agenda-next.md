@@ -1,11 +1,13 @@
 # Recap actions from previous meeting:
 
 # Agenda
-- Mantid Developer and User meetings 2025
-- Updating Python3.11 (Tom)
-- Updating to [Qt6](https://github.com/mantidproject/mantid/issues/38415) and the new help window (Pete)
 - Update on Mac new package (Sarah)
+- Updating Python3.11 (Tom)
+- Updating to [Qt6](https://github.com/mantidproject/mantid/issues/38415) and the new help window (Pete & Tom)
+- CMake 4 (Pete)
 - Update on [NeXus consolidation](https://github.com/mantidproject/mantid/issues/38332) (Pete)
+- Governance document (Pete & Sarah)
+- Mantid Developer and User meetings 2025
 - Review [roadmap](https://github.com/orgs/mantidproject/projects/47/views/1)
 - AOB
 
