@@ -4,6 +4,7 @@
 - Updating to [Qt6](https://github.com/mantidproject/mantid/issues/38415) and the new help window (Pete & Tom)
 - CMake 4 (Pete)
 - Update on [NeXus consolidation](https://github.com/mantidproject/mantid/issues/38332) (Pete)
+- Workspace Naming conventions - see this [Issue](https://github.com/mantidproject/mantid/issues/39488) (Sarah)
 - Mantid Developer and User meetings 2025
 - Review [roadmap](https://github.com/orgs/mantidproject/projects/47/views/1)
 - AOB
