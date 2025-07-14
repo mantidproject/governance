@@ -1,6 +1,7 @@
 # Recap actions from previous meeting:
 
 # Agenda
+- v6.13.1 patch release status ([link](https://github.com/mantidproject/mantid/milestone/125))
 - Updating to [Qt6](https://github.com/mantidproject/mantid/issues/38415) and the new help window (Pete & Tom)
 - Update on [NeXus consolidation](https://github.com/mantidproject/mantid/issues/38332) (Pete)
 - Mantid Developer and User meetings 2025
