@@ -2,14 +2,16 @@
 
 # Agenda
 - v6.13.1 patch release status ([link](https://github.com/mantidproject/mantid/milestone/125))
+- DevOps pipelines for Mantid
 - Updating to [Qt6](https://github.com/mantidproject/mantid/issues/38415) and the new help window (Pete & Tom)
 - Update on [NeXus consolidation](https://github.com/mantidproject/mantid/issues/38332) (Pete)
 - Mantid Developer and User meetings 2025
+- Mantid Strategy for modularisation (Sarah)
+- Governance document (Pete & Sarah)
 - Review [roadmap](https://github.com/orgs/mantidproject/projects/47/views/1)
 - AOB
 
 Maybe revisit
-- Governance document (Pete & Sarah)
 - Nexus file refactoring for reflectometry
 - cxxtest
 - Risk register
