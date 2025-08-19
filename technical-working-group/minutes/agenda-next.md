@@ -9,7 +9,7 @@
 
 # Discussion Topics
 - DevOps (RAL runners, ORNL runners, OSX runners, pipelines for nightly)
-- MacOS intel version end of support. Stats:
+- MacOS intel version end of support. Stats for 6.13.* (first Arm release):
   - Arm: 166 (of which 46 installed the Intel version, likely by error)
   - Intel: 7
 - Mantid Strategy for modularisation (Sarah)
