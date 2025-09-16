@@ -14,6 +14,7 @@
   - Intel: 7
 - Mantid Strategy for modularisation (Sarah)
 - Governance document (Pete & Sarah)
+- 6.14 planning (Remi)
 - Review [roadmap](https://github.com/orgs/mantidproject/projects/47/views/1)
 - AOB
 
