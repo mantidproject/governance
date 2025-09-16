@@ -1,9 +1,7 @@
 # Recap actions from previous meeting:
 
 # Status Updates
-- v6.13.1 patch release status ([link](https://github.com/mantidproject/mantid/milestone/125))
 - Moving from Qt5 to [Qt6](https://github.com/mantidproject/mantid/issues/38415) and the new help window (Pete & Tom)
-- [NeXus consolidation](https://github.com/mantidproject/mantid/issues/38332) (Pete)
 - Mantid Developer and User meetings 2025 (Sarah)
 - Jenkins updates
 
