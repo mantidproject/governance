@@ -5,26 +5,26 @@ Date: **YYYY-MM-DD UTC 00:00-00:00**
 **Attendees:**
 ```
 * ANSTO:
-  * 
-  
+  *
+
 * CSNS:
-  * 
-  
+  *
+
 * ESS:
   *
-  
+
 * ILL:
-  * 
+  *
 
 * JCNS:
-  * 
+  *
 
 * PSI:
-  * 
-  
+  *
+
 * ORNL:
-  * 
-  
+  *
+
 * STFC:
   *
 ```
@@ -62,4 +62,3 @@ Date: **YYYY-MM-DD UTC 00:00-00:00**
 - Action 3
 
 # Next Agenda
-

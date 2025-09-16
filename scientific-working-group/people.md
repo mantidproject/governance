@@ -6,16 +6,16 @@ This documents lists the members and their [facility affiliations](../facilities
 
 * ANSTO:
   * Anna Sokolova (Chair)
-  
+
 * CSNS:
   * He Cheng
   * Xiaozhi Zhan
   * Hanqiu Jiang
-  
+
 * ESS:
   * Judith Houston
   * Thomas Holm
-  
+
 * ILL:
   * Stéphane Rols
   * Charles Dewhurst
@@ -27,7 +27,7 @@ This documents lists the members and their [facility affiliations](../facilities
 
 * PSI:
   * Joachim Kohlbrecher
-  
+
 * ORNL
   * Douglas Abernathy
   * Mathieu Doucet

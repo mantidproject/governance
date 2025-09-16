@@ -5,7 +5,7 @@ Location: Zoom
 
 Full agenda at https://www.mantidproject.org/Category_Users_Workshop_2021.html.
 There is an initial section of talks about other projects and the TWG part kicks off at 13:00 (UK time).
- 
+
 This document exists to help coordinate building an agenda for the
 TWG contributions to the user meeting.
 The technical working group has a 90 minute slot on 30th November
