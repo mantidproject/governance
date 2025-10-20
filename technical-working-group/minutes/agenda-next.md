@@ -1,6 +1,7 @@
 # Recap actions from previous meeting:
 
 # Status Updates
+- mantid v6.14 release update (Sarah)
 - Moving from Qt5 to [Qt6](https://github.com/mantidproject/mantid/issues/38415) and the new help window (Pete & Tom)
 - Mantid Developer and User meetings 2025 (Sarah)
 - Jenkins updates
