@@ -7,6 +7,7 @@
 
 # Discussion Topics
 - Mantid Strategy for modularisation (dev meeting?)
+- Review of [membership](https://github.com/mantidproject/governance/blob/main/technical-working-group/people.md)
 - Governance document (Pete & Sarah)
 - Review [roadmap](https://github.com/orgs/mantidproject/projects/47/views/1)
 - AOB
