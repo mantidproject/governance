@@ -8,7 +8,7 @@ This documents lists the voting members and their [facility affiliations](../fac
 * Rong Du (CSNS)
 * Sarah Foxley (STFC)
 * Tom Hampson (STFC)
-* Oleksandr Koschii (JCNS)
+* Oleksandr Koshchii (JCNS@MLZ)
 * Geish Miladinovic (ANSTO)
 * Simon Heybrock (ESS)
 * Zach Morgan (ORNL)
