@@ -3,14 +3,15 @@
 Purpose of this document
 ========================
 
-This document describes the revised governance framework for the Mantid Collaboration.
-The governance was changed to adapt to the increasing number of partners in the project, which strained the original governance model, and to refresh the governance to reflect on-the-ground realities of how the partners are developing Mantid in response to their different needs and priorities.
+This document describes the governance framework for the Mantid Collaboration.
 The history of the governance is stored in the [history file](history.md).
+
+(The key aims of this governance model are: i.e. explain what is purpose is!)
 
 Governance Structure
 ====================
 
-This section describes the revised governance structure for the Mantid Collaboration (starting in 2021).
+This section describes the revised governance structure for the Mantid Collaboration (starting in 2026?).
 Figure 1 shows a representation of the new Steering Committee and Working Groups at the collaboration wide level, and the interactions of the Steering Committee with contributing facilities.
 As such it is a stakeholder map of the development.
 
