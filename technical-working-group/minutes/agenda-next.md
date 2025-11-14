@@ -9,6 +9,7 @@
 - Mantid Strategy for modularisation (dev meeting?)
 - Review of [membership](https://github.com/mantidproject/governance/pull/24)
 - Governance document (Pete & Sarah)
+- Linux base image for dockerfile
 - Review [roadmap](https://github.com/orgs/mantidproject/projects/47/views/1)
 - AOB
 
