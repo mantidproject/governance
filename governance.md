@@ -12,62 +12,53 @@ Governance Structure
 ====================
 
 This section describes the revised governance structure for the Mantid Collaboration (starting in 2026?).
-Figure 1 shows a representation of the new Steering Committee and Working Groups at the collaboration wide level, and the interactions of the Steering Committee with contributing facilities.
-As such it is a stakeholder map of the development.
+Figure 1 shows a representation of the cross-facility Working Groups at the collaboration wide level, and its interaction of with contributing facilities.
 
-The box labelled "Contributing Facility Stakeholders" represents a simplified map of the stakeholders at any research facility that acts as a Contributing Facility.
-These include facility scientists and Mantid developers, facility users, and key management stakeholders which would likely be executive management and budget holders.
+The box labelled "Each Contributing Facility" represents a simplified map of the stakeholders at any research facility that acts as a Contributing Facility.
+These include facility scientists and Mantid developers and facility users, and "board" of some kind that oversee and prioritise Mantid needs for a single facility. The latter will vary from a single developer and one or more scientists meeting informally to discuss prioritise and needs to a formal board meeting on a regular cadence to discuss and prioritise Mantid requirements across 20+ instruments. The Mantid governance model does not perscribe how such a "board" is setup or run, but assume there is some form of local setup such one person from this setup will be attending the recurrent Technical working group (TWG) meetings.
 
-The Mantid Collaboration governance consists of the Steering Committee which is entirely constituted by two working groups, one that develops the common scientific roadmap for the collaboration, and one that develops the common technical roadmap.
+One role of the TWG is to keep up date a Committed Mantid Roadmap. This roadmap will contain large work items that are needed to keep Mantid operational and deployable on the OS platforms that facilities requires it to run on, and any new user capabilities that one or more facilities have committed resources for and the TWG have been informed about.
 
-* The two working groups meet independently, but each includes representation from the other.
-This ensures that the detailed work of the Scientific Roadmap Working Group is grounded by informed technical input, and the work of the Technical Roadmap Working Group is grounded in the scientific priorities and requirements of the Collaboration.
-* Each Working Group shall be responsible for development and curation of a five year roadmap.
-The Technical Roadmap Working Group shall be responsible for execution of both roadmaps for the immediate 12 month period.
-* The Steering Committee is precisely the union of the two Working Groups.
-The objective of the Steering Committee is to coordinate and manage the long term direction of Mantid, aligning it with the agreed technical and scientific priorities.
-It meets as required (but at least annually) to resolve any major contention between scientific requirements and technical issues or where a significant external event impacts significantly on both the scientific and technical planning.
-It also produces an annual summary for the key stakeholders.
+More specifically the Collaborative components of the model are:
 
-The membership of the two Working Groups that constitute the Steering Committee comes from the contributing facilities and individual contributors.
-However, the Mantid governance is agnostic to the detailed management of collaborating partners.
-An example of local facility management and how it will interact with the Collaboration governance is given in the Appendix.
+* Technical Working Group (TWG) - maintain and update a Committed Roadmap and responsible for running Mantid Developer Workshops
+* Scientific Communication Working Group (SCWG) - discuss ideas for scientific communication and responsbile for running User Meetings
+* Optional: Scientific Discussion Working Group (SDWG) - in addition to discussion that already takes place the idea of this working group is an addtional place for early and ongoing to discuss ideas for user facing enhancements to Mantid
+* Optional: Governance Model Working Group (GMWG) - its purpose is to ongoing review this governance model including to help stimulate that it is approximately kept up with how the governance of Mantid is in reality operating
+
+Examples of local facility management and how it will interact with the Collaboration governance are given in the Appendix.
 
 ![steering-committee-facility](static/images/steering-committee-facility-interaction.png)
 
 **Fig 1. Representation of the interaction between the Mantid governance and stakeholders in Contributing Facilities. The nominal limit of Steering Committee size is implemented as an initial way of working that will be adapted as necessary.**
 
-The revised governance structure has been developed with the concept that collaboration, where appropriate, is identified and enabled, and a common code base or common code bases of open source software are developed and maintained in a collaborative way.
-This model allows individual facilities to develop Mantid according to their own requirements, with accountability for delivery and resource management to their own executive management, but also levers those resources by collaboratively working with one or more other facilities where mutually beneficial.
+The governance structure is developed to stimulate collaboration, where appropriate, resulting in open source code base or common code and that is developed and maintained in a collaborative way.
+This model allows individual facilities to develop Mantid according to their own requirements, with accountability for delivery and resource management to their own executive management, while leverage collaboratively working where this is of mutually beneficial.
 
 The leading philosophy of Mantid development is that:
 * The Mantid Collaboration seeks to coordinate individual contributions to a free open source software (FLOSS) project.
-* Facilities (Facilities in this context refers to neutron research infrastructures such as ISIS, SNS and ILL) act as contributors to an open source software development.
+* Facilities (Facilities in this context refers to research infrastructures such as ISIS, SNS and ILL) act as contributors to an open source software development.
 This document refers to such facilities as "Contributing Facilities".
   * Mantid is open to new Contributing Facilities providing that those facilities agree to the terms listed below and can commit their own resources to develop the framework for their needs.
-* Individual contributors are welcome and do not need to be part of the formal organisation or a member of a neutron scattering facility.
+* Individual contributors are welcome and do not need to be part of the formal organisation or a member of a facility.
 They are referred to in this document as “Individual Contributors”.
   * Becoming an Individual Contributor is an open process which is defined at a technical level by the workflow for contributing code.
 
-In this model the term Contributors refers to a facility or group that contributes to the Mantid development.
+In this model the term Contributors refers to a facility or group that contributes to the Mantid development. The Collaboration also welcome Guests including to learn more about the Collaboration before considering requesting membership.
 
 **Contributing Facilities shall**
-* Resource the development according to the required use by the facility (This term indicates that each Contributing Facility should have sufficient level of effort available to resource their own specific development of Mantid. As such the collaboration is a do-ocracy, in a similar way to other scientific software developments such as SASView (https://www.sasview.org/).).
-* Manage local requirements and development.
+* Resource the development according to the required use by the facility (i.e. each Contributing Facility will have sufficient level of effort available to resource their own specific development of Mantid. As such the collaboration is a do-ocracy, in a similar way to other scientific software developments such as SASView (https://www.sasview.org/).).
+* Provide own local management, requirement gathering process and development.
+* Nominate members to the non optional Working Groups.
 * Help Mantid products remain FLOSS.
-* Communicate the needs of the facility to the Steering Committee by developing and sharing the facility scientific and technical roadmaps for Mantid.
-* Nominate members for the Steering Committee Working Groups who will be approved by right (Scientific Roadmap Working Group) or merit (Technical Roadmap Working Group).
-* Adhere to the development workflow and standards for code quality set out by the Steering Committee.
+* Adhere to the development workflow and standards for code quality set out by the TWG.
 * Contribute to maintenance and testing activities.
-* Communicate with their local scientists and development team how Mantid products fit into their own larger picture for neutron and muon data analysis software.
 * Be open to suggestions and feedback from Individual Contributors to the project.
 
 **Contributing Facilities should**
 * Contribute to infrastructure costs.
 * Maintain a level of effort, expertise or capability in Mantid.
 * Host (and fund) the annual User Meeting and Developer Workshop.
-
-Each Contributing Facility has the responsibility to meet the Collaboration’s governance requirements and nominate membership of the Working Groups (and hence Steering Committee), as set out in sections 3.2 - 3.3. Minutes of meetings, actions and decisions will be open.
 
 3.1 Steering Committee.
 -----------------------
