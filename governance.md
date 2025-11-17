@@ -120,21 +120,25 @@ The conflict will be presented to facility directors in detail providing each in
 If directors are unable to mediate a resolution, they will arbitrate the dispute and force a final decision thus providing a way out of deadlock.
 The need for this conflict resolution is expected to happen very infrequently, and since the introduction of the 2021 Governance model and now, Nov 2025, it has not been invoked.
 
-3.4 Technical Roadmap Working Group and Technical Roadmap.
+3.4 Technical Roadmap Working Group (TWG) and the Committed Collaborative Roadmap (CCR).
 ----------------------------------------------------------
 
-The Technical Roadmap Working Group owns the common five year technical roadmap and coordinates effort to execute the forthcoming year’s effort on both the scientific and technical roadmaps.
+The Technical Working Group (TWG) owns the Comitted Collaborative Roadmap (CCR) and coordinates technical discussions and discussion related to items/topics on the roadmap, with an emphasis on those that concerns multiple faciliities.
 
-**Technical Roadmap.**
+**Committed Collaborative Roadmap (CCR).**
 
-The technical roadmap for the Collaboration will be composed of the common areas for technical development.
-Individual facilities will build their roadmaps by embarking on a requirements gathering exercise at each facility to determine their local technical roadmap.
-The wider Collaboration technical roadmap will be structured as a set of projects for which each Contributing Facility represented on the of the Working Group will assign resources (or in the case of an Individual Contributors, will undertake to contribute effort), according to the benefits-driven priority of those projects to the Contributor, in order that the project be completed.
-Projects will be reviewed at each Working Group meeting so that any issues or delays can be addressed.
+The CCR is composed of broadly two following two catagories of work items/topics: 
 
-The roadmap will be managed as an agile project with a kanban-style representation. This will be reviewed at each of the regular meetings of the Working Group.
-This visual style will facilitate effective communication of current status, complexity and interdependencies between items on the roadmap.
-Topics in the roadmap will be detailed enough to foster communication, but broad enough to be relevant to multiple contributors.
+* (large) work items needed to keep Mantid operating and being fit for the the future. For example, existtential work to keep up to date with 3rd party dependencies such as Python and Qt, keep the development pipeline functional, keep Mantid deployable on relevant platforms, keep a tap on technical debt, handle future instrument data rate and read/write rates, security etc. Individual facilities built their roadmaps at each facility to identify their local needs. The wider Collaborative roadmap is structured as a set of topics for which one or more Contributing Facilities will assign resources (or in the case of an Individual Contributors, will undertake the work). In addition, discussions between TWG members may identify new existential Mantid needs that in return TWG members will communicate back to individual facility management board/committees/other, to stimulate awareness of such and stimulate discussions on resource implications. When resource from one or more facilities has been committed to such work the corresponding item ges associated with a future release on the CCR.
+* (large) work items to enhance Mantid with new capabilities such as to handle of new instruments and instrument upgrades, improving the scientific accuracy of data reduction for a specific technique, support of new type data reduciton, user usability needs etc. as needed by individual facilities. Work items of this kind only appear on the CCR once at least one facility has committed resources to do the work. By making such work visible on the CCR the whole collaboration can see what is upcoming. As an optional bonus other facilities may volunter to contribute to such works. For instance, with additional scientific validation testing, PR review testing and/or direct coding contributions.
+
+There will naturally also be topics that might be argued to into both of the above two catagories such as: Mantid specific needs to help support external live streaming infrastructure or other facility software infrastructures, cross-cutting instrument geometry changes, deprecation or support for compatibility with new 3rd party software interfaces.
+
+Work on applications that leverage Mantid (e.g. as a library) and are outside of the Mantid collaboration will not be listed on the CCR. 
+
+The roadmap is managed using Agile with a kanban-style representation. It is reviewed at each of the regular meetings of the Working Group.
+This visual style is aimed at facilitating effective communication of the current status, complexity and interdependencies.
+Topics in the roadmap are detailed enough to foster communication, while broad enough to be relevant to multiple contributors.
 
 Example roadmap topics include:
 * File loading performance for neutron event data.
@@ -145,38 +149,42 @@ Example roadmap topics include:
 * Componentization of scientific interfaces
 * Other applications such as imaging or auto-reduction which do not sit within data reduction as such.
 
-**Membership of the Working Group.**
+**Membership of the TWG.**
 
 The base membership of the Working Group will include:
 * An elected Chair.
-* The Chair of the Scientific Roadmap Working Group.
-* A secretary elected on a permanent basis.
+* A elected Secretary. The secretary can be external to the TWG (and not a voting member of the TWG).
 
-Membership of the Working Group is determined by each facility.
-Facilities nominate senior technical staff who are deeply involved in generating facility roadmaps at a high level, and have direct access to facility leadership.
-The members of the Working Group should have a deep technical knowledge and experience over a wide range of programming, best practices, infrastructure areas and facility scientific computing roadmaps.
+Membership of the TWG is determined by each facility.
+Facilities nominate senior technical staff who are involved in local facility roadmaps discussions.
+The members of the TWG should have a deep technical knowledge and experience over a wide range of programming, best practices, infrastructure areas and awareness of facility users needs that related to Mantid.
 New members are approved by the existing Working Group.
 Members must have the  authority to discuss and agree the contributions to the Collaboration roadmap.
 
-Individual Contributors can self-nominate to be considered as members of the Working Group, or be invited by the Working Group.
+Individual Contributors can self-nominate to attend TWG meetings as guests, or be invited by the TWG.
+
 The existing membership will consider and approve members on merit.
 
-**Responsibilities of the Working Group Chair.**
+**Responsibilities of the TWG Chair.**
 
-The Working Group chair will be responsible for:
-* Communicating the technical roadmap with Scientific Roadmap Working Group.
-* Working with the Scientific and Technical Roadmap Working Groups to tension technical roadmap priorities against scientific roadmap priorities for development.
-* The chair will act as “Lead Coordinator” of the overall direction and health of the project.
+The TWG chair is responsible for:
+* Ensure the CCR gets discussed and updated at each TWG meeting.
+* The chair will act as “Lead Coordinator” of the overall direction and health of Mantid.
 This ensures decisions on significant technical issues will not get stalled by the various committees.
 * Resolving conflicts in the technical roadmap which cannot be resolved by consensus.
-* Calling regular meetings of the Working Group.
-* Attend the User Meeting
+* Calling regular meetings of the Working Group (The elected Secretary might do this instead).
+* Attend Developer Workshops and User Meetings
 
-**Responsibilities of Working Group Members.**
+**Responsibilities of the TWG Secretary.**
 
-The Working Group members will be responsible for:
+* Calling regular meetings of the Working Group (if this is not done by the chair).
+* Write meeting minutes that communicates decisions made that affects Mantid. Include brief high-level summary of discussions. Minutes should be consumable by other Mantid contributors.
 
-* Providing and maintaining resourcing levels on agreed roadmap projects.
+**Responsibilities of TWG Members.**
+
+The Working Group members are responsible for:
+
+* Providing and maintaining resourcing levels on agreed roadmap items.
 * Communicating progress to their local facility management.
 * Translating benefits of combined projects to their local facilities.
 * Communicating changes in priorities at local facilities which may affect the overall technical roadmap.
