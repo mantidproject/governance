@@ -119,7 +119,7 @@ It coordinates technical discussions and discussion related to items/topics on t
 The CCR is composed of broadly two following two catagories of work items/topics: 
 
 * (large) work items needed to keep Mantid operating and being fit for the the future. For example, existtential work to keep up to date with 3rd party dependencies such as Python and Qt, keep the development pipeline functional, keep Mantid deployable on relevant platforms, keep a tap on technical debt, handle future instrument data rate and read/write rates, security etc. Individual facilities built their roadmaps at each facility to identify their local needs. The wider Collaborative roadmap is structured as a set of topics for which one or more Contributing Facilities will assign resources (or in the case of an Individual Contributors, will undertake the work). In addition, discussions between TWG members may identify new existential Mantid needs that in return TWG members will communicate back to individual facility management board/committees/other, to stimulate awareness of such and stimulate discussions on resource implications. When resource from one or more facilities has been committed to such work the corresponding item ges associated with a future release on the CCR.
-* (large) work items to enhance Mantid with new capabilities such as to handle of new instruments and instrument upgrades, improving the scientific accuracy of data reduction for a specific technique, support of new type data reduciton, user usability needs etc. as needed by individual facilities. Work items of this kind only appear on the CCR once at least one facility has committed resources to do the work. By making such work visible on the CCR the whole collaboration can see what is upcoming. As an optional bonus other facilities may volunter to contribute to such works. For instance, with additional scientific validation testing, PR review testing and/or direct coding contributions.
+* (large) work items to enhance Mantid with new capabilities such as to handle of new instruments and instrument upgrades, improving the scientific accuracy of data reduction for a specific technique, support of new type data reduciton, user usability needs etc. as needed by individual facilities. Work items of this kind only appear on the CCR once at least one facility has committed resources to do the work. By making such work visible on the CCR the whole collaboration can see what is upcoming. As an optional bonus other facilities may volunter to contribute to such works. For instance, with additional scientific validation testing, PR review testing and/or direct coding contributions.  Scientific technique areas include: Powder diffraction, Single crystal diffraction, Engineering diffraction, Disordered materials, Small angle neutron scattering (SANS), Reflectometry, and Spectroscopy (Direct geometry, Indirect geometry, Triple axis spectrometer, Neutron spin echo, Deep inelastic, Quasi-elastic neutron scattering (QENS), Muon spin rotation).
 
 There will naturally also be topics that might be argued to into both of the above two catagories such as: Mantid specific needs to help support external live streaming infrastructure or other facility software infrastructures, cross-cutting instrument geometry changes, deprecation or support for compatibility with new 3rd party software interfaces.
 
@@ -217,6 +217,9 @@ New membership is approved by the existing membership.
 
 The Nov 2025 propoposed UCWG is a working group dedicated to communication with Users. It owns User Meetings (for the collaboration). It is made up of members who are interested in communcating Mantid better to the wider community as well as to their local facilities. Likely a mixture of people including scientists and developers interested in user communications will work best for this WG. This WG is proposed as non optional because some WG needs to own the User Meetings, which has historically provided huge value to Mantid and in the Nov 2025 User Meeting the same was true and it was strongly argued that User Meetings highly value for communicating cross facility information.
 
+* Nominate the Chairs of the User Meeting who have authority to engage a local organising committee for each User Meeting.
+These individuals do not need to be members of the Steering Committee.
+
 3.5? Scientific Discussion Working Group (SDWG).
 ------------------------------------------------------------
 
@@ -236,86 +239,48 @@ As previously described, each individual facility will be responsible for creati
 
 The base membership of the Working Group will include:
 * An elected Chair.
-* One (or more) representative from the Technical Working Group (TWG)
+* At least one senior Mantid developer, who may be a member of the Technical Working Group (TWG)
 * ??At least one person, but a maximum of two, per Contributing Facility.
 * A elected secretary.
 
 The Chair is elected from the current membership of the Working Group.
 
 It is expected that most members will be facility staff.
-The SDWG is open to membership from non-facility staff.
 (English needs adjusting) Individuals should communicate their willingness to join the WG by contacting a member of SDWG or nominated staff from facilities.
+
+**Responsibilities of All SDWG Members.**
+
+The WG members will be responsible for:
+* Communicating outcomes from discussions to local facilities management
+* Encouraged to attend User Meetings
 
 **Responsibilities of the SDWG Chair.**
 
 The chair will be responsible for:
-* Bring up itmes .....
-* Bring up items on the CCR that have scientific focus for discussion
-* Working with the Technical and Scientific Roadmap Working Groups to tension technical roadmap priorities against scientific roadmap priorities for development.
-* Raising issues with the Technical Roadmap Working Group and share with members of the Scientific Roadmap Working Group.
-* Informing the User Meeting of the scientific roadmap and acting as an interface between the User Meeting and Scientific Roadmap Working Group.
-* Calling extraordinary meetings of the Scientific Roadmap Working Group as needed.
-* Attending the User Meeting.
-
-**Responsibilities of Working Group Members.**
-
-The Working Group members will be responsible for:
-* Presenting Contributing Facilities roadmaps to the Scientific Roadmap Working Group
-* Communicating changes in the local facilities roadmaps to the Scientific Roadmap Working Group
-* Communicating the scientific roadmap to their local facility management and Mantid governance
+* Facilitate recurrent agenda item for members and guest to bring up  .....
+* Facilitate recurrent agenda to discuss items on the CCR that are scientifically focus
+* Calling regular meetings of the WG (the Secretary might do this instead).
 
 **Terms of Reference.**
 
-The Scientific Roadmap Working Group is responsible for the following activities and  processes:
+The SDWG is responsible for the following activities:
 
-* Nominate the Chairs of the User Meeting who have authority to engage a local organising committee for each User Meeting.
-These individuals do not need to be members of the Steering Committee.
+* Communicates discussion outcomes from SDWG meetings to their local facility management as relevant.
+* Communicates discussion and observation on scientific CCR items to the Technical Working group (TWG) as relevant.
+* Promotes and foster collaboration on scientific work items as well as identify where scientific are distinctly different or where Mantid may be better leveraged as a their party library rather than extended or idea for work item outside the scope of Mantid
+* An additional place for fostering discussion between scientists and one or more members Mantid developer.
 
-* Create and deliver the scientific roadmap for the Collaboration.
-* Communicate the common scientific roadmap to the Technical Roadmap Working Group.
-* Communicate the Contributing Facility scientific roadmaps to the Technical Roadmap Working Group.
-* Promote and foster collaboration between contributors by finding commonalities which could involve two or more Contributing Facilities which could then evolve into projects in the common scientific roadmap.
-* Work with the Technical Roadmap Working Group to ensure that the scientific priorities are satisfied with technically feasible solutions.
-
-The Scientific Roadmap Working Group operates on the following basis:
-* The Working Group will meet at least quarterly online.
-* The Working Group will meet face-to-face at least annually as a satellite to the User Meeting.
-* All members of the Steering Committee are invited to attend meetings.
-* People can be invited to meetings who have a special interest or insight in a topic that cannot be channeled through a Working Group Member.
-* The scientific roadmap will be reviewed every meeting as the first item on the agenda.
+The SDWG operates on the following basis:
+* The WG will meet recurrently, e.g. quarterly online.
+* People can be invited to meetings as guests, e.g. to insight or present a new scientific focussed idea.
+* The scientific CCR items will be discussed as relevant in every meeting.
 * Membership is determined by Contributing Facility nomination.
-* The Working Group will elect a Chair from within the existing membership.
-* The position of Chair is a fixed term appointment, reviewed annually by the Working Group.
-* Holds a list of its membership.
-* The agenda and minutes of Working Group meetings will be published publicly.
-* The Working Group can be contacted by anyone outside the Collaboration via a mailing list.
+* The WG will elect a Chair from within the existing membership. The position of Chair is for a fixed term appointment, reviewed annually by the WG.
+* The WG will elect a Secretary that can be a person external to the SDWG. The position of Secretary is for a fixed term appointment, reviewed annually by the WG.
+* The agenda and minutes of WG meetings will be published publicly.
+* (repeat?) Holds a list of its membership.
+* The WG can be contacted by anyone outside the Collaboration via a mailing list.
 
-**Features of the Mantid Scientific Roadmap.**
-
-* The roadmap will be a high level scientific outlook on a technique-by-technique basis.
-  * Inputs will be based on milestones and deliverables for each technique area as included in each of the Contributing Facilities shared roadmaps.
-  * The output will be a distillation of the shared roadmap needs from a discussion within the steering group
-  * The roadmap shall highlight common aspects.
-  * The roadmap will provide horizon scanning, including new instruments and techniques.
-  * Contributors are encouraged to share scientific outlooks that are not necessarily  envisioned to be developed within Mantid. (Specific exclusions from the Mantid roadmap are useful. A collective view on scientific computing across the Contributing Facilities helps to identify and define the scope of the overall project.)
-* The formation of the roadmap will be an iterative process. At one meeting of the Scientific Roadmap Working Group areas for collaboration on projects will be identified from the Contributing Facility roadmaps; outside the Working Group these will be formulated by the interested Contributors into projects, and incorporated into the Mantid development in a subsequent meeting.
-* The technique areas to be considered could include:
-  * Powder diffraction
-  * Single crystal diffraction
-  * Macromolecular crystallography
-  * Engineering diffraction
-  * Disordered materials
-  * Small angle neutron scattering (SANS)
-  * Reflectometry
-  * Imaging & computed tomography
-  * Spectroscopy
-    * Direct geometry
-    * Indirect geometry
-    * Triple axis spectrometer
-    * Neutron spin echo
-    * Deep inelastic
-    * Quasi-elastic neutron scattering (QENS)
-    * Muon spin rotation
    
 3.2? Governance Model Reviews and the GMWG
 --------------------------------------------
