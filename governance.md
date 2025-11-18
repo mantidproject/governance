@@ -123,7 +123,8 @@ The need for this conflict resolution is expected to happen very infrequently, a
 3.4 Technical Roadmap Working Group (TWG) and the Committed Collaborative Roadmap (CCR).
 ----------------------------------------------------------
 
-The Technical Working Group (TWG) owns the Comitted Collaborative Roadmap (CCR) and coordinates technical discussions and discussion related to items/topics on the roadmap, with an emphasis on those that concerns multiple faciliities.
+The Technical Working Group (TWG) owns the Comitted Collaborative Roadmap (CCR) and the Developer Workshops (for the collaboration).
+It coordinates technical discussions and discussion related to items/topics on the roadmap, with an emphasis on those that concerns multiple faciliities.
 
 **Committed Collaborative Roadmap (CCR).**
 
@@ -165,44 +166,43 @@ Individual Contributors can self-nominate to attend TWG meetings as guests, or b
 
 The existing membership will consider and approve members on merit.
 
+**Responsibilities of all TWG Members.**
+(TODO: is it clear that this is subset of combined responsibilities with those stated to be true all WGs?)
+
+The Working Group members are responsible for:
+
+* Providing and maintaining resourcing levels on agreed roadmap items.
+* Communicating progress to their local facility management.
+* Communicating benefits of collaborative roadmap items to their local facilities.
+* Communicating changes in priorities at local facilities which may affect the overall technical roadmap.
+* Attend and facilitate Developer Workshops.
+* Encourage to attend User Meetings
+
 **Responsibilities of the TWG Chair.**
 
 The TWG chair is responsible for:
 * Ensure the CCR gets discussed and updated at each TWG meeting.
-* The chair will act as “Lead Coordinator” of the overall direction and health of Mantid.
-This ensures decisions on significant technical issues will not get stalled by the various committees.
-* Resolving conflicts in the technical roadmap which cannot be resolved by consensus.
-* Calling regular meetings of the Working Group (The elected Secretary might do this instead).
-* Attend Developer Workshops and User Meetings
+* The chair will act as “Lead Coordinator” of the overall direction and health of the CCR.
+This ensures decisions on significant technical issues will not get stalled.
+* Resolving conflicts in the roadmap which cannot be resolved by consensus.
+* Calling regular meetings of the Working Group (the Secretary might do this instead).
+* Attend the User Meetings
 
 **Responsibilities of the TWG Secretary.**
 
 * Calling regular meetings of the Working Group (if this is not done by the chair).
 * Write meeting minutes that communicates decisions made that affects Mantid. Include brief high-level summary of discussions. Minutes should be consumable by other Mantid contributors.
 
-**Responsibilities of TWG Members.**
-
-The Working Group members are responsible for:
-
-* Providing and maintaining resourcing levels on agreed roadmap items.
-* Communicating progress to their local facility management.
-* Translating benefits of combined projects to their local facilities.
-* Communicating changes in priorities at local facilities which may affect the overall technical roadmap.
-
 **Terms of Reference.**
 
-The Technical Roadmap Working Group is responsible for the following activities and processes:
+The TWG is responsible for the following activities and processes:
 
-* Help facilitate coordination between Contributors.
-* Hold and maintain the development risk register that is only concerned with keeping track of known risks that may risk contributing facilities can't deploy Mantid on relevant facility user platforms or contribute back to the Mantid code repositories.
-
-* Partners the Scientific Roadmap Working Group as equal members within the Steering Committee.
-* Senior managers who have significant control or influence over data reduction resource within their respective facilities.
-* Creates and delivers a technical roadmap for the Collaboration.
-* Communicates the technical roadmap to the Scientific Roadmap Working Group and changes as they take place.
-* Working Group members should encourage experts in key areas to attend where appropriate.
-* Provides technical grounding for items in the scientific roadmap created and owned by the Scientific Roadmap Working Group.
-* To come up with the best technical solutions for a given major and submitted problems.
+* Helps facilitate coordination between Contributors.
+* (should this responsibility be included?) Holds and maintains a development risk register, which is only solely with keeping track of known risks that may risk Mantid can't be deployed on relevant facility OS platforms or developer no longer can sufficiently easily contribute to Mantid (e.g. due to obsolesent devops component) or other similar existential risk to Mantid.
+* Maintains the Committed Collaborative Roadmap (CCR).
+* Communicates relevant items on the CCR will local facility management and vice versa.
+* TWG members should encourage experts in key areas to attend where appropriate as guests.
+* Provides technical feedback on items brought forward to the TWG.
 * Promotes consensus on infrastructure and processes.
 * Coordinates and advises on major designs.
 * Coordinates changes to the third party dependencies of Mantid and makes recommendations for changes and updates.
@@ -210,20 +210,19 @@ The Technical Roadmap Working Group is responsible for the following activities 
 * Acts as an arbitration and triage point for conflicts.
 * Overseeing, resourcing and scheduling large-scale refactoring effort.
 
-The Technical Roadmap Working Group operates on the following basis:
-* The Working Group will meet at least monthly online.
-* The Working Group will meet face-to-face at least annually as a satellite to the User Meeting.
-* All members of the Steering Committee are invited to attend meetings.
-* People can be invited to meetings who have a special interest or insight in a topic that cannot be channeled through a Working Group Member.
-* The technical roadmap is reviewed at every meeting as the first agenda item.
-* The Working Group organises the annual face-to-face Developer Workshop and the virtual Developer Workshop.
+The TWG operates on the following basis:
+* The WG will meet at least monthly online.
+* The WG will meet face-to-face at least annually.
+* The WG organises the annual face-to-face Developer Workshop and (optionally) virtual Developer Workshops.
+* (repeat?) People can be invited to meetings who have a special interest or insight in a topic that cannot be channeled through a Working Group Member.
+* (repeat?) The CCR is reviewed at every meeting.
 * Membership is determined by Contributing Facility recommendations or (self-)nomination of Individual Contributors.
 New membership is approved by the existing membership.
-* The Working Group will elect a Chair from within the existing membership.
-* The position of Chair is for a fixed term appointment, reviewed annually by the Working Group.
-* Holds a list of its membership.
-* The agenda and minutes of Working Group meetings will be published publicly.
-* The Working Group can be contacted by anyone outside the Collaboration via a mailing list.
+* The WG will elect a Chair from within the existing membership. The position of Chair is for a fixed term appointment, reviewed annually by the WG.
+* The WG will elect a Secretary that can be a person external to the TWG. The position of Secretary is for a fixed term appointment, reviewed annually by the WG.
+* (repeat?) Holds a list of its membership.
+* The agenda and minutes of WG meetings will be published publicly.
+* The WG can be contacted by anyone outside the Collaboration via a mailing list.
 
 3.5 Scientific Communication Working Group.
 ------------------------------------------------------------
