@@ -97,19 +97,7 @@ Below is an example of how the frequency of WG meetings could be (as of Nov 2025
 
 *Table 1: An example frequency of meetings for the collaborative Working Groups. The cadence of User Meetings and Developer Workshops are determined by the SCWG and TWG respectively. In terms of in-person Developer Workshops running these yearly or similar is strongly encouraged, where these historically have provided strong benefits for the collaboration. Similarly in-person User meeting have been very beneficial (including the Nov 2025 meeting) and it is highly recommended (e.g. from the Nov 2025 User meeting) to periodically run such e.g. yearly. Historically, in-person developer and user meetings have run side by side although there is no requirement that they are. In addition virtual versions of developer and user meetings are encouraged.*
 
-3.2 Governance Model Reviews and the GMWG
---------------------------------------------
-
-* Coordinate the review of the governance model (this document and associated documents).
-
-The Steering Committee will be responsible for the review of the governance of the Mantid project at a suitable frequency.
-This will be coordinated by the chairs of the Technical and Scientific Working Groups.
-Key elements of this review process will include:
-* External reviewers where appropriate.
-* An evaluation of whether the governance is facilitating or hindering collaboration.
-* Updates to the governance in the spirit of continuous improvement.
-
-3.3 Process for Resolving Conflicts
+3.3? Process for Resolving Conflicts
 -----------------------------------
 
 In the unlikely event where the collaboration has reached an impasse, members will resort to the use of a third party conflict resolution process.
@@ -224,48 +212,45 @@ New membership is approved by the existing membership.
 * The agenda and minutes of WG meetings will be published publicly.
 * The WG can be contacted by anyone outside the Collaboration via a mailing list.
 
-3.5 Scientific Communication Working Group.
+3.5 User Communication Working Group (UCWG).
 ------------------------------------------------------------
 
-The Scientific Roadmap Working Group owns the common five year scientific roadmap.
-This group will meet every three months to review and update as necessary the scientific roadmap in accordance with the common development plan and Contributing Facilities’ evolving scientific roadmaps.
+The Nov 2025 propoposed UCWG is a working group dedicated to communication with Users. It owns User Meetings (for the collaboration). It is made up of members who are interested in communcating Mantid better to the wider community as well as to their local facilities. Likely a mixture of people including scientists and developers interested in user communications will work best for this WG. This WG is proposed as non optional because some WG needs to own the User Meetings, which has historically provided huge value to Mantid and in the Nov 2025 User Meeting the same was true and it was strongly argued that User Meetings highly value for communicating cross facility information.
 
-**Scientific Roadmap.**
+3.5? Scientific Discussion Working Group (SDWG).
+------------------------------------------------------------
 
-The scientific roadmap for the Collaboration will be composed of common areas for scientific development.
-Each individual facility will be responsible for creating its own scientific roadmap alongside its own technical roadmap through processes that it sees as fit for its own local management of Mantid.
-The scientific roadmaps from all Contributing Facilities will be shared in the Scientific Roadmap Working Group, along with input from Individual Contributors and the User Meeting.
-Common requirements will be identified and initiated as projects between those Contributing Facilities that assign resources, and Individual Contributors who undertake to contribute effort, that will enable the projects to be completed.
-Projects will be reviewed at each Working Group meeting as part of the constant review and updating of the common scientific roadmap.
-The management of common projects on the 12 month view is the responsibility of the Technical Roadmap Working Group, which will review common projects at each meeting so that any issues or delays can be addressed.
+The Nov 2025 propoposed SDWG is a working group dedicated for scientists to meet and discuss scientific ideas and needs for Mantid:
+* Before one or more facilities have committed resources to such ideas and by extension are already visible on the CCR. Purpose is to bounce ideas early, help to identify early if an idea deserve further consideration early, if it is specific on one facility or not, how scientific validation could be careered out etc 
+* Discussion of upcoming new scientific work items on the CCR and the potentially use of such to instruments more broadly
 
-The Steering Committee and Scientific Roadmap Working Group own a common - not a global- scientific roadmap.
-It is not the intention that they own the totality of the roadmap of all facilities, or to attempt prioritisation of scientific requirements for any single Contributing Facility.
-The common roadmap is developed to enable collaboration on areas of common interest.
-The Scientific Roadmap Working Group has access to the roadmaps of all the Contributing Facilities in order to identify and promote collaborative projects.
+This proposed WG is optional in the sense that the Mantid operated well without an equivalent since at least ~2021, and likely will continue to do so without it. However, where a specific scientist-scientist discussion WG can be established, it is believed that it could add additional value to the collaboration and it covers a subset of the function of the previous SWG (Scientific Working Group) that has not been operational since ~2021.
 
-**Membership of the Working Group.**
+It is proposed the members of SDWG will be predominately scientists and developers with a focus on details of science specific needs.
+
+It is proposed that this WG host recurrent meetings, for example, every three months to bring up and review scientific ideas and discuss any items science focussed items on the CCR.
+
+As previously described, each individual facility will be responsible for creating its own scientific requirements and prioritisation of these. The SDWG will not decide prioritisation of work but can help their local facilities making more informed decisions by communicate back SDWG gained knowledge from SDWG discussions.
+
+**Membership of the SDWG.**
 
 The base membership of the Working Group will include:
 * An elected Chair.
-* The Chair of the Technical Roadmap Working Group
-* At least one person, but a maximum of two, per Contributing Facility.
-* A secretary elected on a permanent basis.
+* One (or more) representative from the Technical Working Group (TWG)
+* ??At least one person, but a maximum of two, per Contributing Facility.
+* A elected secretary.
 
 The Chair is elected from the current membership of the Working Group.
-Additional representatives from the Technical Roadmap Working Group can be co-opted as required to provide specialist technical input.
-The meeting is open for any members of the Technical Roadmap Working Group to participate in if they choose.
 
-Membership  will primarily (It is expected that most members will be facility staff.
-The Scientific Roadmap Working Group is open to membership from non-facility staff.
-Individuals should communicate their willingness to join the Working Group by contacting the Chair of the Working Group) be via nominated staff from facilities.
-It is expected that nominated staff will have a good understanding of the development and of their facility roadmap.
-Members must have the authority to discuss and agree the contributions to the common Collaboration roadmap.
+It is expected that most members will be facility staff.
+The SDWG is open to membership from non-facility staff.
+(English needs adjusting) Individuals should communicate their willingness to join the WG by contacting a member of SDWG or nominated staff from facilities.
 
-**Responsibilities of the Working Group Chair.**
+**Responsibilities of the SDWG Chair.**
 
-The Working Group chair will be responsible for:
-* Presenting the scientific roadmap to the Technical Roadmap Working Group.
+The chair will be responsible for:
+* Bring up itmes .....
+* Bring up items on the CCR that have scientific focus for discussion
 * Working with the Technical and Scientific Roadmap Working Groups to tension technical roadmap priorities against scientific roadmap priorities for development.
 * Raising issues with the Technical Roadmap Working Group and share with members of the Scientific Roadmap Working Group.
 * Informing the User Meeting of the scientific roadmap and acting as an interface between the User Meeting and Scientific Roadmap Working Group.
@@ -331,43 +316,47 @@ The Scientific Roadmap Working Group operates on the following basis:
     * Deep inelastic
     * Quasi-elastic neutron scattering (QENS)
     * Muon spin rotation
+   
+3.2? Governance Model Reviews and the GMWG
+--------------------------------------------
 
-3.6 User Meeting and Developer Workshop
----------------------------------------
+* Coordinate the review of the governance model (this document and associated documents).
 
-These meetings will be organised with the aim of enabling an effective  connection between contributors and users of Mantid and the applications produced using the Mantid framework.
-There will be two meetings held back-to-back: the first centered on scientific usage and needs (User Meeting), and the other centered on technical discussions (Developer Workshop).
+The Steering Committee will be responsible for the review of the governance of the Mantid project at a suitable frequency.
+This will be coordinated by the chairs of the Technical and Scientific Working Groups.
+Key elements of this review process will include:
+* External reviewers where appropriate.
+* An evaluation of whether the governance is facilitating or hindering collaboration.
+* Updates to the governance in the spirit of continuous improvement.
 
-**User Meeting**
 
-The Collaboration shall organise an annual face-to-face user meeting. The Steering Committee will facilitate this by:
-* Electing a Chair for the meeting.
-* Agreeing on a host and date for the meeting.
-* Ensuring there is a point of contact in each Working Group who is willing to help identify key themes for the meeting.
-* Providing a list of contacts for Individual Contributors with whom local contributions to the meeting can be discussed.
+3.? Developer Workshop
+----------------------
 
-The elected chair will organise the meeting with the aim of:
-* Informing users on the latest news and ‘hot’ topics relating to the Mantid collaboration.
-* Promoting interaction between contributors to stay abreast of new advances in techniques for data reduction/analysis across different scientific areas.
-* Promoting interaction between developers and scientists to improve understanding of scientific requirements and technical constraints.
-* Identifying common areas of development between contributors, and promoting collaborative work both through immediate discussion and in feedback to the Steering Committee.
-* Discussing new technologies/infrastructures which may be leveraged to enhance the user experience.
-* Addressing both technical and scientific topics, and providing constructive feedback to the Steering Committee as to whether the respective roadmaps are meeting user needs.
-
-The elected chair will make a report to the Steering Committee following the User Meeting.
-
-**Developer Workshop**
-
-This annual face-to-face meeting is organised by the Technical Roadmap Working Group and is organised alongside the User Meeting.
+This annual face-to-face meeting is organised by the Technical Working Group (TWG) and is optionally organised alongside the User Meeting.
 There may also be additional virtual Developer Workshops throughout the year.
-The Technical Roadmap Working Group is responsible for creating an agenda for the meeting.
+The TWG is responsible for creating an agenda for the meeting.
 
 The purpose of the Developer Workshop is as follows:
 * Promote interaction between developers, from both Contributing Facilities and Individual Contributors.
-* Run code camps to work on backlog issues (defined by the Technical Roadmap Working Group) or issues that benefit from a more interactive approach to problem solving.
+* Run code camps to work on backlog issues (defined by the TWG) or issues that benefit from a more interactive approach to problem solving.
 * Discuss new technologies and infrastructures which may be leveraged to enhance the project.
 * Gather feedback on day-to-day working practices and identify points for improvement.
+  
+3.? User Meeting
+----------------
 
+This recurrent (e.g. annual or biannual) face-to-face meeting is organised by the User Communication Working Group (UCWG) and is optionally organised alongside the Developer Workshop.
+There may also be additional virtual User Meetings throughout the year.
+The UCWG is responsible for creating an agenda for the meeting.
+
+The purpose of the User Meeting is as follows:
+* Promote communication and connection between contributors and users of Mantid and the applications produced using the Mantid framework.
+* Include updates from each Contributing Facility.
+* Include update from the Technical Working Group (TWG).
+* Include recent news and individual presentations (via talks or posters).
+* Consider including themes that focus on specific topic areas relevant to the Mantid collaboration.
+* Consider discussing new technologies/infrastructures which may be leveraged to enhance the user experience.
 
 
 Appendix: Example for interaction from a Contributing Facility
