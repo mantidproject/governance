@@ -214,13 +214,31 @@ New membership is approved by the existing membership.
 3.5 User Communication Working Group (UCWG).
 ------------------------------------------------------------
 
+This is working is suppose to do
+
+1. Keep neutron and muon community informed about the present state of Mantid - e.g. to debunk myth was once true but no longer is true
+2. Sharing information from the roadmap in ways that can reach a larger audience
+3. Also can receive feedback from users on stories that they can help with desiminate to a wider audience
+4. Capture users experience of Mantid
+5. Gather user feedback (like e.g. ILL style) or advice other facilities on how to gather usage Mantid feedback
+
 The Nov 2025 propoposed UCWG is a working group dedicated to communication with Users. It owns User Meetings (for the collaboration). It is made up of members who are interested in communcating Mantid better to the wider community as well as to their local facilities. Likely a mixture of people including scientists and developers interested in user communications will work best for this WG. This WG is proposed as non optional because some WG needs to own the User Meetings, which has historically provided huge value to Mantid and in the Nov 2025 User Meeting the same was true and it was strongly argued that User Meetings highly value for communicating cross facility information.
 
 * Nominate the Chairs of the User Meeting who have authority to engage a local organising committee for each User Meeting.
 These individuals do not need to be members of the Steering Committee.
 
+Users can be from outside of the member faciliites.
+
+Where SDWG exist 
+
+
+
 3.5? Scientific Discussion Working Group (SDWG).
 ------------------------------------------------------------
+
+1. kind of user meeting in a sense but virtual short 1-2 hour meeting from the point of view of sharing between instrument scientists  (twice a year?)
+2. When Epics in Funnel and Reviewing can be brought here
+3. Scientific techniques focussed Epic which have already been committed (meand Ready or beyond) - 
 
 The Nov 2025 propoposed SDWG is a working group dedicated for scientists to meet and discuss scientific ideas and needs for Mantid:
 * Before one or more facilities have committed resources to such ideas and by extension are already visible on the CCR. Purpose is to bounce ideas early, help to identify early if an idea deserve further consideration early, if it is specific on one facility or not, how scientific validation could be careered out etc 
