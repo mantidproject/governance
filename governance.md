@@ -62,30 +62,43 @@ In this model the term Contributors refers to a facility or group that contribut
 
 3.1 General to all Working Groups.
 -----------------------
-All Working Groups (WGs) runs on a consensus driven basis.
-They are composed of membership as detailed below and in subsections below. 
+All Working Groups (WGs) runs on a consensus driven basis and share several common aspects of working whick is described in this section.
 
-A primary objective is to provide a space for discussions between facilities to encourage coordination and collaboration.
+A primary aim of all WGs is to provide spaces for discussions between facilities to encourage coordination and collaboration.
 
 **Membership.**
 
-Each Contributing Facility should nominate at most two members per WG.
-Individual Contributors are welcome WG meetings and membership is not required in order to contribute to Mantid.
-Those who contribute effort are allowed to do so in a way that benefits them, but should keep the needs and concerns of others using Mantid products in mind.
+Each Contributing Facility can nominate at most two members per WG. New members are approved by the existing WP members. 
+All meetings are open to invite guests in the form of Individual Contributors, people who have a special interest and knowledge of a topic, and people interested in experiencing the working of the collaborative before requesting facility membership. 
+Guests cannot cast votes where votes are held in WG meetings. Guest can self-nominate to attend WG meetings or be invited by the WG.
+Note with regards to Individual Contributors, membership is not required in order to contribute to Mantid. Anyone who contribute, member or not member, are allowed to do so in a way that benefits them, but should keep the needs and concerns of others using Mantid products in mind.
 
-**General Responsibilities of the Working Groups.**
+**The base membership of a WG.**
 
-* Hold a list of its members.
-* Hold recurrent meetings with publicly circulated agendas and meeting minutes with records of decisions made.
-* Be inclusive of Individual Contributors.
-* Keep meetings open to invite guests in the form of Individual Contributors, people who have a special interest and knowledge of a topic, and people interested in experience the working of a collaborative WG before requesting membership. Guests cannot cast a vote when votes are held in WG meetings.
+The base membership of the WG will include:
+* An elected Chair.
+* An elected Secretary. The secretary can be a non voting member, i.e. in this regard in the same way a guest.
 
-**General Responsibilities of members of the Working Groups.**
+**Responsibilities of the WG Secretary.**
 
-* Communicate the facility’s interests and intentions to the Working Groups.
-* Communicate the Working Group discussions to their facility management.
+* Calling regular meetings of the Working Group (if this is not done by the chair).
+* Write meeting minutes that communicates decisions made that affects Mantid. Include brief high-level summary of discussions. Minutes should be consumable by other Mantid contributors.
+
+**General Responsibilities of all members of the WGs.**
+
+* Communicate the facility’s interests and intentions to the WGs.
+* Communicate the WG discussions and outcomes to their facility management.
 * Be open to discussion of topics and work towards solutions that foster commonality through consensus.
-* Attending the Working Group meetings regularly or sending a delegate where this is not possible.
+* Attending the WG meetings regularly or sending a delegate where this is not possible.
+
+**General Responsibilities of the WGs.**
+
+* Hold a list of its members, and where consent is given optionally list active Individual Contributors.
+* Hold recurrent meetings with publicly circulated agendas and meeting minutes with records of decisions made.
+* Be inclusive of guests.
+
+**General Operation of the WGs.**
+
 
 Below is an example of how the frequency of WG meetings could be (as of Nov 2025, this is how these are run for the TWG).
 
@@ -140,19 +153,10 @@ Example roadmap topics include:
 
 **Membership of the TWG.**
 
-The base membership of the Working Group will include:
-* An elected Chair.
-* A elected Secretary. The secretary can be external to the TWG (and not a voting member of the TWG).
-
-Membership of the TWG is determined by each facility.
-Facilities nominate senior technical staff who are involved in local facility roadmaps discussions.
+For base membership information see blah.
+Specific to the TWG, facilities nominate senior technical staff who are involved in local facility roadmaps discussions.
 The members of the TWG should have a deep technical knowledge and experience over a wide range of programming, best practices, infrastructure areas and awareness of facility users needs that related to Mantid.
-New members are approved by the existing Working Group.
-Members must have the  authority to discuss and agree the contributions to the Collaboration roadmap.
-
-Individual Contributors can self-nominate to attend TWG meetings as guests, or be invited by the TWG.
-
-The existing membership will consider and approve members on merit.
+Members must have the authority to discuss and agree the contributions to the Collaboration roadmap.
 
 **Responsibilities of all TWG Members.**
 (TODO: is it clear that this is subset of combined responsibilities with those stated to be true all WGs?)
@@ -175,11 +179,6 @@ This ensures decisions on significant technical issues will not get stalled.
 * Resolving conflicts in the roadmap which cannot be resolved by consensus.
 * Calling regular meetings of the Working Group (the Secretary might do this instead).
 * Attend the User Meetings
-
-**Responsibilities of the TWG Secretary.**
-
-* Calling regular meetings of the Working Group (if this is not done by the chair).
-* Write meeting minutes that communicates decisions made that affects Mantid. Include brief high-level summary of discussions. Minutes should be consumable by other Mantid contributors.
 
 **Terms of Reference.**
 
