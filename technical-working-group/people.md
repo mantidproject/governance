@@ -10,7 +10,6 @@ This documents lists the voting members and their [facility affiliations](../fac
 * Tom Hampson (STFC)
 * Oleksandr Koshchii (JCNS@MLZ)
 * Geish Miladinovic (ANSTO)
-* Simon Heybrock (ESS)
 * Zach Morgan (ORNL)
 * Shervin Nourbakhsh (ILL)
 * Pete Peterson (ORNL) - **Chair**
