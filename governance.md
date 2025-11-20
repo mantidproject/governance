@@ -60,7 +60,7 @@ In this model the term Contributors refers to a facility or group that contribut
 * Maintain a level of effort, expertise or capability in Mantid.
 * Host (and fund) the annual User Meeting and Developer Workshop.
 
-3.1 General to all Working Groups.
+General to all Working Groups.
 -----------------------
 All Working Groups (WGs) runs on a consensus driven basis and share several common aspects of working whick is described in this section.
 
