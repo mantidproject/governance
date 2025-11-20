@@ -68,37 +68,44 @@ A primary aim of all WGs is to provide spaces for discussions between facilities
 
 **Membership.**
 
-Each Contributing Facility can nominate at most two members per WG. New members are approved by the existing WP members. 
-All meetings are open to invite guests in the form of Individual Contributors, people who have a special interest and knowledge of a topic, and people interested in experiencing the working of the collaborative before requesting facility membership. 
-Guests cannot cast votes where votes are held in WG meetings. Guest can self-nominate to attend WG meetings or be invited by the WG.
-Note with regards to Individual Contributors, membership is not required in order to contribute to Mantid. Anyone who contribute, member or not member, are allowed to do so in a way that benefits them, but should keep the needs and concerns of others using Mantid products in mind.
+Each Contributing Facility can nominate at most two members per WG. New WP members are approved by the existing WP members.
+A Contributing Facility is a facility that has dedicated developer resource (part time or full time) working on Mantid or is paying another Contributing Facility money to maintain and develop Mantid.
+All meetings are open to guests in the form of Individual Contributors, people who have a special interest and knowledge of a topic, and facilities interested in experiencing the working of a WG before requesting membership or as part of considering becoming a Contributing Facility. 
+Guests cannot cast votes where votes are held in WG meetings. Guest can self-nominate to attend WG meetings (for whom to contact see the WG membership lists) or be invited by a WG member (where this is not the chair please inform the chair ahead of the meeting the guest attend).
+With regards to Individual Contributors, note being a member of a facility is not required in order to contribute to Mantid. Anyone who contribute, facility member or Individual Contributor, are allowed to do so in a way that benefits them, but should keep the needs and concerns of others using Mantid products in mind.
 
 **The base membership of a WG.**
 
 The base membership of the WG will include:
 * An elected Chair.
-* An elected Secretary. The secretary can be a non voting member, i.e. in this regard in the same way a guest.
+* An elected Secretary. The secretary can be a non voting member, in this regard, in the same way a guest.
 
 **Responsibilities of the WG Secretary.**
 
-* Calling regular meetings of the Working Group (if this is not done by the chair).
-* Write meeting minutes that communicates decisions made that affects Mantid. Include brief high-level summary of discussions. Minutes should be consumable by other Mantid contributors.
+* Calls regular meetings of the WG with agendas (if this is not done by the chair).
+* Writes meeting minutes with records of decisions made and brief high-level summary of discussions. Minutes should be comprehensible by other Mantid developers.
 
 **General Responsibilities of all members of the WGs.**
 
 * Communicate the facility’s interests and intentions to the WGs.
-* Communicate the WG discussions and outcomes to their facility management.
+* Communicate WG discussions and outcomes to their facility management.
 * Be open to discussion of topics and work towards solutions that foster commonality through consensus.
+* Be open to receive request from self-nominated guests and open to invite guests to join WG meetings, informing the WG chair ahead of meetings guests attend.
 * Attending the WG meetings regularly or sending a delegate where this is not possible.
 
-**General Responsibilities of the WGs.**
+**General Responsibilities of each WG.**
 
-* Hold a list of its members, and where consent is given optionally list active Individual Contributors.
+* Hold a public accessible list of its members, and optionally Individual Contributors.
 * Hold recurrent meetings with publicly circulated agendas and meeting minutes with records of decisions made.
-* Be inclusive of guests.
 
-**General Operation of the WGs.**
+**Operation common to all WGs.**
 
+* Each WG will meet on a regular cadance.
+* Each WG will elect a Chair from within the existing membership. The position of Chair is for a fixed term appointment, reviewed annually by the WG.
+* Each WG will elect a Secretary that can be a person external to the WG. The position of Secretary is for a fixed term appointment, reviewed annually by the WG.
+* Keep its membership list up to date.
+* Make agenda and minutes of WG meetings publicly accessible.
+* The WG can be contacted by anyone outside the Collaboration via a mailing list?????? instead? from reaching out to members on the membership list?? Or designated contact person or mailing list on the membership list????.
 
 Below is an example of how the frequency of WG meetings could be (as of Nov 2025, this is how these are run for the TWG).
 
@@ -126,6 +133,8 @@ The need for this conflict resolution is expected to happen very infrequently, a
 
 The Technical Working Group (TWG) owns the Comitted Collaborative Roadmap (CCR) and the Developer Workshops (for the collaboration).
 It coordinates technical discussions and discussion related to items/topics on the roadmap, with an emphasis on those that concerns multiple faciliities.
+
+[test](#general-to-all-working-groups.)
 
 **Committed Collaborative Roadmap (CCR).**
 
@@ -159,20 +168,16 @@ The members of the TWG should have a deep technical knowledge and experience ove
 Members must have the authority to discuss and agree the contributions to the Collaboration roadmap.
 
 **Responsibilities of all TWG Members.**
-(TODO: is it clear that this is subset of combined responsibilities with those stated to be true all WGs?)
 
-The Working Group members are responsible for:
+For general WP responsibilities see blah. Specific to TWG:
 
-* Providing and maintaining resourcing levels on agreed roadmap items.
-* Communicating progress to their local facility management.
-* Communicating benefits of collaborative roadmap items to their local facilities.
+* Provide and maintain resourcing levels on agreed roadmap items.
 * Communicating changes in priorities at local facilities which may affect the overall technical roadmap.
-* Attend and facilitate Developer Workshops.
-* Encourage to attend User Meetings
+* Facilitate and attend Developer Workshops.
+* Encouraged to attend User Meetings.
 
 **Responsibilities of the TWG Chair.**
 
-The TWG chair is responsible for:
 * Ensure the CCR gets discussed and updated at each TWG meeting.
 * The chair will act as “Lead Coordinator” of the overall direction and health of the CCR.
 This ensures decisions on significant technical issues will not get stalled.
@@ -180,15 +185,13 @@ This ensures decisions on significant technical issues will not get stalled.
 * Calling regular meetings of the Working Group (the Secretary might do this instead).
 * Attend the User Meetings
 
-**Terms of Reference.**
+**Responsibility of the TWG.**
 
-The TWG is responsible for the following activities and processes:
+For general responsilities see blah. Specific to the TWG:
 
-* Helps facilitate coordination between Contributors.
 * (should this responsibility be included?) Holds and maintains a development risk register, which is only solely with keeping track of known risks that may risk Mantid can't be deployed on relevant facility OS platforms or developer no longer can sufficiently easily contribute to Mantid (e.g. due to obsolesent devops component) or other similar existential risk to Mantid.
-* Maintains the Committed Collaborative Roadmap (CCR).
+* Maintains and updates the Committed Collaborative Roadmap (CCR).
 * Communicates relevant items on the CCR will local facility management and vice versa.
-* TWG members should encourage experts in key areas to attend where appropriate as guests.
 * Provides technical feedback on items brought forward to the TWG.
 * Promotes consensus on infrastructure and processes.
 * Coordinates and advises on major designs.
@@ -197,19 +200,13 @@ The TWG is responsible for the following activities and processes:
 * Acts as an arbitration and triage point for conflicts.
 * Overseeing, resourcing and scheduling large-scale refactoring effort.
 
-The TWG operates on the following basis:
+**Operations specific to the TWG**
+
 * The WG will meet at least monthly online.
 * The WG will meet face-to-face at least annually.
 * The WG organises the annual face-to-face Developer Workshop and (optionally) virtual Developer Workshops.
-* (repeat?) People can be invited to meetings who have a special interest or insight in a topic that cannot be channeled through a Working Group Member.
 * (repeat?) The CCR is reviewed at every meeting.
-* Membership is determined by Contributing Facility recommendations or (self-)nomination of Individual Contributors.
-New membership is approved by the existing membership.
-* The WG will elect a Chair from within the existing membership. The position of Chair is for a fixed term appointment, reviewed annually by the WG.
-* The WG will elect a Secretary that can be a person external to the TWG. The position of Secretary is for a fixed term appointment, reviewed annually by the WG.
-* (repeat?) Holds a list of its membership.
-* The agenda and minutes of WG meetings will be published publicly.
-* The WG can be contacted by anyone outside the Collaboration via a mailing list.
+
 
 3.5 User Communication Working Group (UCWG).
 ------------------------------------------------------------
