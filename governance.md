@@ -61,7 +61,7 @@ In this model the term Contributors refers to a facility or group that contribut
 * Host (and fund) the annual User Meeting and Developer Workshop.
 
 General to all Working Groups.
------------------------
+------------------------------
 All Working Groups (WGs) runs on a consensus driven basis and share several common aspects of working whick is described in this section.
 
 A primary aim of all WGs is to provide spaces for discussions between facilities to encourage coordination and collaboration.
@@ -134,7 +134,7 @@ The need for this conflict resolution is expected to happen very infrequently, a
 The Technical Working Group (TWG) owns the Comitted Collaborative Roadmap (CCR) and the Developer Workshops (for the collaboration).
 It coordinates technical discussions and discussion related to items/topics on the roadmap, with an emphasis on those that concerns multiple faciliities.
 
-[test](#general-to-all-working-groups.)
+[test](#general-to-all-working-groups)
 
 **Committed Collaborative Roadmap (CCR).**
 
