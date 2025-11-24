@@ -1,15 +1,13 @@
 # Recap actions from previous meeting:
 
 # Status Updates
-- Moving from Qt5 to [Qt6](https://github.com/mantidproject/mantid/issues/38415) and the new help window (Pete & Tom)
+- Moving from Qt5 to [Qt6](https://github.com/mantidproject/mantid/issues/38415) and the new help window (Mial)
 - rattler-build clean up [issue](https://github.com/mantidproject/mantid/issues/40119) (Pete)
 - Move from jenkins to github-actions [issue](https://github.com/mantidproject/mantid/issues/39497) (Tom)
 
 # Discussion Topics
-- Mantid Strategy for modularisation (dev meeting?)
-- Review of [membership](https://github.com/mantidproject/governance/pull/24)
-- Governance document (Pete & Sarah)
-- Linux base image for dockerfile
+- Mantid Strategy for modularisation
+- Governance document (Anders)
 - Review [roadmap](https://github.com/orgs/mantidproject/projects/47/views/1)
 - AOB
 
