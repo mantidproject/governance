@@ -88,7 +88,10 @@ The key changes are as follows.
 Governance 2021 - 2025
 =====================================
 
-... since update to governance structure for the reasons outlined above and published in the repo 2021 it has seen no updates.
-The 2021 governance restructure satisfied its creterions and reasons explained above.
-Mantid continuing to developer value to operational beamlines around the globe and increasing during the period 2021-2025 for example at ILL.
-This is despite observation and detailed at introduced SWG (Scientific Working Group) and therefore also the introduced Steering Committee (which embodies) not been operational. At the User Meeting Nov 2025 (add link) this aspects was discussed in combination with the User Meetings themselves and the end of 2025 / beginning of 2026 update to the governance is reflect this observation, input from the 2025 User Meeting and input from various people as part of updating the 2021 governannce model. ...    
+During 2021-2025 the governance model was not updated, and here referenced to as the 2021 governance model.
+The 2021 governance restructure satisfied its creterions and motivations as explained above.
+However, as Mantid continued to add value to increasingly more operating beamlines around the globe, the 2021 governance model in large parts stopped reflecting how the collaboration actually worked. 
+Most noticably, the SWG and Steering Committee stopped operating and only the TWG continued to operate.
+
+At the [User Meeting Nov 2025](https://indico.stfc.ac.uk/event/1425/timetable/#20251106.detailed) this was discussed in a combined [presentation and discussions session](https://indico.stfc.ac.uk/event/1425/contributions/9469/), in addition to discussions prior and following this User Meetting.
+TODO - add a summary of whatever the agreed changes will be before this PR is merged.    
