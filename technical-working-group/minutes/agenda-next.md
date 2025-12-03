@@ -7,7 +7,7 @@
 
 # Discussion Topics
 - Mantid Strategy for modularisation
-- Governance document #25 (Anders)
+- Governance document [PR](https://github.com/mantidproject/governance/pull/25/) (Anders)
 - Review [roadmap](https://github.com/orgs/mantidproject/projects/47/views/1)
 - AOB
 
