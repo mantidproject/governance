@@ -41,7 +41,7 @@ They are referred to in this document as “Individual Contributors”.
 **Fig 1. Representation of the interaction between the collaborative working groups (top box) and the Contributing Facilities (bottom box). The three component next to the top box are described further below; the shaded one of these is optional to the governance model.**
 
 Figure 1 shows a representation of how the cross facility part of the governance interact with each Contributing Facility.
-The box labelled "Cross Facility Governance Working Groups (WGs)" shows the three collaborative WGs. 
+The box labelled "Cross Facility Governance Working Groups (WGs)" shows the three collaborative WGs.
 The box labelled "Each Contributing Facility" shows a simplified map of the stakeholders of a Contributing Facility.
 These include facility scientists, developers, users, and a "board" of some kind that oversees and prioritises Mantid needs for a single facility. What constitute a "board" will vary from facility to facility, e.g. from a single developer and a couple of scientists meeting informally to discuss prioritises to a larger board with several science representatives helping to prioritise Mantid requirements across 20+ instruments for a larger facility development team.
 It is not prescribed how a "board" is run or setup, but it is assumed that contain communication happens between the Contributing facility and the cross facility WGs, as described in this document.
@@ -51,7 +51,7 @@ This governance model allows Contributing Facilities to develop Mantid according
 In short the collaborative WGs in figure 1 are:
 
 * The Technical Working Group (TWG) - maintains the Committed Collaborative Roadmap, facilitates technical discussions and runs [Developer Workshops](#developer-workshop).
-* The User Communication Working Group (UCWG) - covers user communication not covered by other means and the facilitation of [User Meetings](#user-meeting). 
+* The User Communication Working Group (UCWG) - covers user communication not covered by other means and the facilitation of [User Meetings](#user-meeting).
 * The Governance Model Working Group (GMWG) - reviews and updates this document and governance model.
 
 Examples of local facility management is given in the Appendix.
@@ -84,7 +84,7 @@ A primary aim of all WGs is to provide spaces for discussions between facilities
 
 Each Contributing Facility can nominate at most two members per WG. New WP members are approved by the existing WP members.
 A Contributing Facility is a facility that has dedicated developer resource (part time or full time) working on Mantid or is paying another Contributing Facility money to maintain and develop Mantid.
-All meetings are open to guests in the form of Individual Contributors, people who have a special interest and knowledge of a topic, and facility staff interested in experiencing the working of a WG before requesting membership. 
+All meetings are open to guests in the form of Individual Contributors, people who have a special interest and knowledge of a topic, and facility staff interested in experiencing the working of a WG before requesting membership.
 Guests cannot cast votes where votes are held in WG meetings. Guest can self-nominate to attend WG meetings (for whom to contact see the WG membership lists) or be invited by a WG member (where this is not the chair please inform the chair ahead of the meeting).
 Anyone who contribute, facility member or Individual Contributor, are allowed to do so in a way that benefits them, but should keep the needs and concerns of others using Mantid products in mind.
 
@@ -155,13 +155,13 @@ It coordinates technical discussions with an emphasis on those that concerns mul
 
 In short, this roadmap contains (large) work items needed to keep Mantid operational and deployable on the operating system platforms that Contributing Facilities require, and new user capabilities that one or more Contributing Facilities have committed resources to.
 
-In more detail, the CCR is composed of broadly the following two categories of work items/topics: 
+In more detail, the CCR is composed of broadly the following two categories of work items/topics:
 
-* (large) work items needed to keep Mantid operating and being fit for the the future. For example, existential work to keep up to date with third party dependencies such as Python and Qt, keep the development pipeline functional, keep Mantid deployable on relevant platforms, keep a tap on technical debt, handle future instrument data rate and read/write rates, security etc. 
+* (large) work items needed to keep Mantid operating and being fit for the the future. For example, existential work to keep up to date with third party dependencies such as Python and Qt, keep the development pipeline functional, keep Mantid deployable on relevant platforms, keep a tap on technical debt, handle future instrument data rate and read/write rates, security etc.
 Also, discussions between TWG members may identify new existential Mantid needs that in return TWG members will communicate to their facility management.
 When resource from one or more facilities has been committed to a work item (or in the case of an Individual Contributors, will undertake the work) it can be associated with a future release on the CCR.
 * (large) work items to enhance Mantid with new capabilities such as handling new instruments and instrument upgrades, improving the scientific accuracy of data reduction for specific techniques, supporting new types of data reduction, and user usability improvements as needed by Contributing Facilities.
-Work items of this kind can appear on the CCR once one or more facilities has committed resources to it. 
+Work items of this kind can appear on the CCR once one or more facilities has committed resources to it.
 By making such work visible on the CCR the whole collaboration can see it is upcoming, which may stimulate further interest and potential additional contributions.
 Scientific technique areas include: Powder diffraction, Single crystal diffraction, Engineering diffraction, Disordered materials, Small angle neutron scattering (SANS), Reflectometry, and Spectroscopy (Direct geometry, Indirect geometry, Triple axis spectrometer, Neutron spin echo, Deep inelastic, Quasi-elastic neutron scattering (QENS), Muon spin rotation).
 
@@ -220,13 +220,13 @@ This WG's purpose is to:
 * Help (as relevant) share information about items on the Committed Collaboration Roadmap (CCR), included on future committed work items.
 * Be open to receive feedback from users not covered by other means.
 * Capture users experience that might be easier to collect at a collaboration level rather that by an individual facility, and advise on how a Contributing Facility can conduct their own user surveys.
-* (include?) Facilitate Coffee with Scientists and Users meetings. 
+* (include?) Facilitate Coffee with Scientists and Users meetings.
 
 The below adds to information and responsibilities [General to all Working Groups](#general-to-all-working-groups).
 
 **Membership info specific to the UCWG**
 
-Members are expected to be: 
+Members are expected to be:
 * Scientists and/or developers with understanding of Mantid user needs.
 * And/or facility staff with experience in communication and faciliting user meetings.
 
@@ -245,13 +245,13 @@ Members shall have the autority to influence contributions towards running in-pe
 * Meets at least quarterly?? online.
 * Organises the face-to-face User Meetings and (optionally) virtual User Meetings.
 
-   
+
 Governance Model Working Group (GMWG)
 -------------------------------------
 
 (temporary comment: the idea for this WG is the help stimulate that the same does not happen again as it did with the 2021 model, where it was not touched until now and became hugely out of date)
 
-This WG is responsible for coordinating reviews of this governance model (this document and associated documents) annually, where the chairs of the TWG and UCWG and its members are invited. 
+This WG is responsible for coordinating reviews of this governance model (this document and associated documents) annually, where the chairs of the TWG and UCWG and its members are invited.
 
 Key elements of reviews will include:
 
@@ -277,7 +277,7 @@ The purpose of the Developer Workshop is as follows:
 * Discuss new technologies and infrastructures which may be leveraged to enhance the Mantid framework.
 * Gather feedback on day-to-day working practices and identify points for improvement.
 
-  
+
 User Meeting
 ------------
 
