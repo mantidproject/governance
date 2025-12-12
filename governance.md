@@ -93,7 +93,7 @@ Anyone who contribute, facility member or Individual Contributor, are allowed to
 * An elected Chair.
 * An elected Secretary. The secretary can be a non voting member, in this regard, in the same way as a guest.
 
-**Responsibilities of the TWG Chair**
+**Responsibilities of the WG Chair**
 
 * The chair will act as “Lead Coordinator” of the overall direction and health of the WP.
 * Resolves conflicts which cannot be resolved by consensus.
@@ -151,7 +151,7 @@ Technical Working Group (TWG) and the Committed Collaborative Roadmap (CCR)
 The Technical Working Group (TWG) owns the Comitted Collaborative Roadmap (CCR) and the Developer Workshops (for the collaboration).
 It coordinates technical discussions with an emphasis on those that concerns multiple facilities.
 
-**Committed Collaborative Roadmap (CCR).**
+**Committed Collaborative Roadmap (CCR)**
 
 In short, this roadmap contains (large) work items needed to keep Mantid operational and deployable on the operating system platforms that Contributing Facilities require, and new user capabilities that one or more Contributing Facilities have committed resources to.
 
