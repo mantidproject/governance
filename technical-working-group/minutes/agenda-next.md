@@ -6,6 +6,7 @@
 - Move from jenkins to github-actions [issue](https://github.com/mantidproject/mantid/issues/39497) (Tom)
 
 # Discussion Topics
+- Doxygen PR check cannot be both required and skippable using file filter
 - Mantid Strategy for modularisation
 - Governance document [PR](https://github.com/mantidproject/governance/pull/25/) (Anders)
 - Review [roadmap](https://github.com/orgs/mantidproject/projects/47/views/1)
