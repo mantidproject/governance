@@ -82,7 +82,7 @@ A primary aim of all WGs is to provide spaces for discussions between facilities
 
 **Membership**
 
-Each Contributing Facility can nominate at most two members per WG. New WP members are approved by the existing WP members.
+Each Contributing Facility can nominate at most two members per WG. New WG members are approved by the existing WG members.
 A Contributing Facility is a facility that has dedicated developer resource (part time or full time) working on Mantid or is paying another Contributing Facility money to maintain and develop Mantid.
 All meetings are open to guests in the form of Individual Contributors, people who have a special interest and knowledge of a topic, and facility staff interested in experiencing the working of a WG before requesting membership.
 Guests cannot cast votes where votes are held in WG meetings. Guest can self-nominate to attend WG meetings (for whom to contact see the WG membership lists) or be invited by a WG member (where this is not the chair please inform the chair ahead of the meeting).
@@ -95,10 +95,10 @@ Anyone who contribute, facility member or Individual Contributor, are allowed to
 
 **Responsibilities of the WG Chair**
 
-* The chair will act as “Lead Coordinator” of the overall direction and health of the WP.
+* The chair will act as “Lead Coordinator” of the overall direction and health of the WG.
 * Resolves conflicts which cannot be resolved by consensus.
 * Calls recurrent meetings of the WG (the Secretary might do this instead).
-* Checks the membership list is up to date at each TWG meeting.
+* Checks the membership list is up to date at each WG meeting.
 
 **Responsibilities of the WG Secretary**
 
@@ -126,7 +126,7 @@ Below is an example of how the frequency of WG meetings could be.
 
 | Jan  | Feb  | Mar  | Apr  | May  | Jun  | Jul  | Aug  | Sep  | Oct  | Nov  | Dec  |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| GMWP |      |      |      |      |      |      |      |      |      |      |      |
+| GMWG |      |      |      |      |      |      |      |      |      |      |      |
 | TWG  | TWG  | TWG  | TWG  | TWG  | TWG  | TWG  | TWG  | TWG  | TWG  | TWG  | TWG  |
 |      |      | UCWG |      |      | UCWG |      |      | UCWG |      |      | UCWG |
 
