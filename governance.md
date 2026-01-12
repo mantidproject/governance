@@ -148,7 +148,7 @@ The need for using this conflict resolution process should be rare, and since it
 Technical Working Group (TWG) and the Committed Collaborative Roadmap (CCR)
 ---------------------------------------------------------------------------
 
-The Technical Working Group (TWG) owns the Comitted Collaborative Roadmap (CCR) and the Developer Workshops (for the collaboration).
+The Technical Working Group (TWG) owns the Committed Collaborative Roadmap (CCR) and the Developer Workshops (for the collaboration).
 It coordinates technical discussions with an emphasis on those that concerns multiple facilities.
 
 **Committed Collaborative Roadmap (CCR)**
@@ -169,7 +169,7 @@ There will naturally also be topics that might be argued to fit into both of the
 
 ![TWG-CCR-requirement-funnels-2026](static/images/TWG-CCR-requirement-funnels-2026.png)
 
-**Fig 2. Shows the connection between the TWG and to its right a partial snapshot of the CCR (see [here](https://github.com/orgs/mantidproject/projects/47) for an up to date and full version), and below connection to Contributing Facilities' requirement funnels / gathering proceses.**
+**Fig 2. Shows the connection between the TWG and to its right a partial snapshot of the CCR (see [here](https://github.com/orgs/mantidproject/projects/47) for an up to date and full version), and below connection to Contributing Facilities' requirement funnels / gathering processes.**
 
 The CCR is managed using agile with a Kanban-style representation. It is reviewed at each of the regular meetings of the Working Group.
 As can be seen [here](https://github.com/orgs/mantidproject/projects/47) its visual style is aimed at facilitating effective communication of past, current and future work items against releases.
@@ -213,12 +213,11 @@ This WG operates the mailing list: twg@mantidproject.org.
 User Communication Working Group (UCWG)
 ---------------------------------------
 
-This WG's purpose is to:
+This WG's purpose is to help with effective exchange of information between users and between developers and users, with an emphasis on helping with inter-facility communication. This WG do this through the one of more of the activities below:
 
 * Facilitate [User Meetings](#user-meeting).
 * Help keep facilities informed about the present state of Mantid, including to debunk myths that might once have been true but no longer are true.
 * Help (as relevant) share information about items on the Committed Collaboration Roadmap (CCR), included on future committed work items.
-* Be open to receive feedback from users not covered by other means.
 * Capture users experience that might be easier to collect at a collaboration level rather that by an individual facility, and advise on how a Contributing Facility can conduct their own user surveys.
 * (include?) Facilitate Coffee with Scientists and Users meetings.
 
@@ -228,9 +227,9 @@ The below adds to information and responsibilities [General to all Working Group
 
 Members are expected to be:
 * Scientists and/or developers with understanding of Mantid user needs.
-* And/or facility staff with experience in communication and faciliting user meetings.
+* And/or facility staff with experience in communication and facillitating user meetings.
 
-Members shall have the autority to influence contributions towards running in-person User Meetings.
+Members shall have the authority to influence contributions towards running in-person User Meetings.
 
 **Responsibilities specific to all UCWG Members**
 
@@ -242,7 +241,7 @@ Members shall have the autority to influence contributions towards running in-pe
 
 **Responsibilities specific to the UCWG**
 
-* Meets at least quarterly?? online.
+* Meets at least once per release or quarterly?.
 * Organises the face-to-face User Meetings and (optionally) virtual User Meetings.
 
 
@@ -315,11 +314,11 @@ Figure A1 expands on the interaction shown in figure 2 between ISIS and the TWG.
 * The schematic of the Epic Kanban system, bottom right, shows both the process of how Epics can travel from left to right, from Funnel (initial idea) to Done, and a schematic of how the system is visualised via a board.
 * At ISIS, the prioritisation of Epics is part of the remit of the ISIS Mantid Programme Board (MPB). The MPB represents areas of concern to ISIS and includes one or more representatives from each of ISIS’s science divisions.
 
-The main flows of interaction between ISIS and TWG is explaned in the figure caption. Also, and not shown, the ISIS Mantid team brings observations early to the TWG about large cross facility (enabler) technical needs for early discussions.
+The main flows of interaction between ISIS and TWG is explained in the figure caption. Also, and not shown, the ISIS Mantid team brings observations early to the TWG about large cross facility (enabler) technical needs for early discussions.
 
 ![isis-requirement-funnel-twg-interactions-2026](static/images/isis-requirement-funnel-twg-interactions-2026.png)
 
-**Fig A1. Top part is the same as the top part of figure 2. Bottom part is focussed on ISIS and its interaction with the top part. Interactions from TWG to the ISIS PMB includes informing about cross facility (enabler) technical work (such as Qt5->Qt6) and informing about large (business) capability works that other facilities have committed resources to. Associated with the ISIS MPB is a Epic Kanban system for which a schematic view of it is shown bottom right, where: Green column headers show the different states an Epic can be in. White background text areas provide additional context. Grey boxes at the bottom describe how Epics can move between columns. FTY stands for Full Time Year, and 0.25 FTY is the equivalent of one person’s work time for three months. Periodically the ISIS Mantid team lead inform the TWG about committed work items (Epics) from the Ready and Implementing states of the Epic Kanban system.**
+**Fig A1. Top part is the same as the top part of figure 2. Bottom part is focussed on ISIS and its interaction with the top part. Interactions from TWG to the ISIS PMB includes informing about cross facility (enabler) technical work (such as Qt5->Qt6) and informing about large (business) capability works that other facilities have committed resources to. Associated with the ISIS MPB is a Epic Kanban system for which a schematic view of it is shown bottom right, where: Green column headers show the different states an Epic can be in. White background text areas provide additional context. Grey boxes at the bottom describe how Epics can move between columns. FTY stands for Full Time Year, and 0.25 FTY is the equivalent of one person’s work time for three months. Periodically the ISIS Mantid team lead informs the TWG about committed work items (Epics) from the Ready and Implementing states of the Epic Kanban system.**
 
 
 **ILL local arrangement**
