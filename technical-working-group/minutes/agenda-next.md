@@ -1,12 +1,10 @@
 # Recap actions from previous meeting:
 
 # Status Updates
-- Moving from Qt5 to [Qt6](https://github.com/mantidproject/mantid/issues/38415) and the new help window (Mial)
-- rattler-build clean up [issue](https://github.com/mantidproject/mantid/issues/40119) (Pete)
+- Moving from Qt5 to [Qt6](https://github.com/mantidproject/mantid/issues/38415) and the new help window (Tom)
 - Move from jenkins to github-actions [issue](https://github.com/mantidproject/mantid/issues/39497) (Tom)
 
 # Discussion Topics
-- Doxygen PR check cannot be both required and skippable using file filter
 - Mantid Strategy for modularisation
 - Governance document [PR](https://github.com/mantidproject/governance/pull/25/) (Anders)
 - Review [roadmap](https://github.com/orgs/mantidproject/projects/47/views/1)
