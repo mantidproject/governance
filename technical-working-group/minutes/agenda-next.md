@@ -7,6 +7,7 @@
 # Discussion Topics
 - Should we keep the [forum](https://forum.mantidproject.org/)?
 - Removing the help window (Pete)
+- pre-commit.ci job, can we move to workflow that runs on github-hosted runner?
 - Governance document [PR](https://github.com/mantidproject/governance/pull/25/) (Anders)
 - Mantid Strategy for modularisation
 - Review [roadmap](https://github.com/orgs/mantidproject/projects/47/views/1)
