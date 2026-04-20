@@ -6,6 +6,7 @@
 
 # Discussion Topics
 - Should we keep the [forum](https://forum.mantidproject.org/)?
+- git-lfs [billing usage](https://github.com/organizations/mantidproject/settings/billing/usage?period=3&group=4&customer=420582) and [thirdparty-msvc2015](https://github.com/mantidproject/thirdparty-msvc2015) and [mantid-monitor-dashboard](https://github.com/mantidproject/mantid-monitor-dashboard)
 - Mantid Strategy for modularisation
 - Governance document [PR](https://github.com/mantidproject/governance/pull/25/) (Anders)
 - Review [roadmap](https://github.com/orgs/mantidproject/projects/47/views/1)
