@@ -7,6 +7,7 @@
 - Removing the [Forum](https://forum.mantidproject.org/) (Pete)
 
 # Discussion Topics
+- Skipping jobs and required jobs (Pete)
 - Mantid modernization
 - Pinning dependency versions during beta
 - Governance document [PR](https://github.com/mantidproject/governance/pull/25/) (Anders)
