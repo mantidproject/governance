@@ -15,6 +15,8 @@
 - Pinning dependency versions during beta
 - Governance document [PR](https://github.com/mantidproject/governance/pull/25/) (Anders)
 - Review [roadmap](https://github.com/orgs/mantidproject/projects/47/views/1)
+- Reading Nexus content with NexusDescriptorLazy
+- Using CCACHE in rattler-build
 - AOB
 
 # Maybe revisit
