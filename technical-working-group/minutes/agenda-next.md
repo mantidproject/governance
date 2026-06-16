@@ -1,10 +1,11 @@
 # Recap actions from previous meeting:
 
 # Status Updates
-- Migration to github actions https://github.com/mantidproject/mantid/issues/39497 (Tom)
-- Move to qt6 https://github.com/mantidproject/mantid/issues/38415 (Tom)
 - Mantid Strategy for modularisation (Pete)
 - Removing the [Forum](https://forum.mantidproject.org/) (Pete)
+- Migration to github actions https://github.com/mantidproject/mantid/issues/39497 (Tom)
+- Move to qt6 https://github.com/mantidproject/mantid/issues/38415 (Tom)
+
 
 # Discussion Topics
 - Skipping jobs and required jobs (Pete)
