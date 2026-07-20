@@ -12,7 +12,6 @@
 - Qt6 branch, how do we integrate with main?
 - Mantid 7.0, what are we changing/removing?
 - Mantid modernization
-- Pinning dependency versions during beta
 - Conda/mamba developer support (Pete)
 - Reading Nexus content with NexusDescriptorLazy [PR](https://github.com/mantidproject/mantid/pull/41653)
 - Using CCACHE in rattler-build
