@@ -1,7 +1,7 @@
 # Recap actions from previous meeting:
 
 # Status Updates
-- Mantid Strategy for modularisation (Pete)
+- Mantid Strategy for modularisation (Michael)
 - Removing the [Forum](https://forum.mantidproject.org/) (Pete)
 - Migration to github actions https://github.com/mantidproject/mantid/issues/39497 (Tom)
 - Move to qt6 https://github.com/mantidproject/mantid/issues/38415
@@ -13,10 +13,11 @@
 - Mantid 7.0, what are we changing/removing?
 - Mantid modernization
 - Pinning dependency versions during beta
-- Governance document [PR](https://github.com/mantidproject/governance/pull/25/) (Anders)
-- Review [roadmap](https://github.com/orgs/mantidproject/projects/47/views/1)
+- Conda/mamba developer support (Pete)
 - Reading Nexus content with NexusDescriptorLazy [PR](https://github.com/mantidproject/mantid/pull/41653)
 - Using CCACHE in rattler-build
+- Governance document [PR](https://github.com/mantidproject/governance/pull/25/) (Anders)
+- Review [roadmap](https://github.com/orgs/mantidproject/projects/47/views/1)
 - AOB
 
 # Maybe revisit
