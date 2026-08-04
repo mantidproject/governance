@@ -7,13 +7,10 @@
 - Move to qt6 https://github.com/mantidproject/mantid/issues/38415
 
 # Discussion Topics
-- Skipping jobs and required jobs (Pete)
 - Moving to external mail provider? (Tom)
 - Qt6 branch, how do we integrate with main?
 - Mantid 7.0, what are we changing/removing?
 - Mantid modernization
-- Conda/mamba developer support (Pete)
-- Reading Nexus content with NexusDescriptorLazy [PR](https://github.com/mantidproject/mantid/pull/41653)
 - Using CCACHE in rattler-build
 - Governance document [PR](https://github.com/mantidproject/governance/pull/25/) (Anders)
 - Review [roadmap](https://github.com/orgs/mantidproject/projects/47/views/1)
