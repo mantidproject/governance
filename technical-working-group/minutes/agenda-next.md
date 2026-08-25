@@ -7,6 +7,7 @@
 - Move to qt6 https://github.com/mantidproject/mantid/issues/38415
 
 # Discussion Topics
+- Hold off on macOS github runners until after release?
 - Moving to external mail provider? (Tom)
 - Archiving the forum - mirror using wget?
 - Can we move from Linode -> STFC cloud?
