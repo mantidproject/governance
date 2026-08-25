@@ -8,8 +8,8 @@
 
 # Discussion Topics
 - Moving to external mail provider? (Tom)
-- Qt6 branch, how do we integrate with main?
-- Mantid 7.0, what are we changing/removing?
+- Archiving the forum - mirror using wget?
+- Can we move from Linode -> STFC cloud?
 - Mantid modernization
 - Using CCACHE in rattler-build
 - Governance document [PR](https://github.com/mantidproject/governance/pull/25/) (Anders)
