@@ -10,6 +10,7 @@
 - Moving to external mail provider? (Tom)
 - Archiving the forum - mirror using wget?
 - Can we move from Linode -> STFC cloud?
+- New logo for v7.0?
 - Mantid modernization
 - Using CCACHE in rattler-build
 - Governance document [PR](https://github.com/mantidproject/governance/pull/25/) (Anders)
