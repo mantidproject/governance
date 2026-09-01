@@ -3,8 +3,7 @@
 Purpose of this document
 ========================
 
-This document describes the revised governance framework for the Mantid Collaboration.
-The governance was changed to adapt to the increasing number of partners in the project, which strained the original governance model, and to refresh the governance to reflect on-the-ground realities of how the partners are developing Mantid in response to their different needs and priorities.
+This document describes the revised governance frameworks for the Mantid Collaboration, some of this predating the establishment of this repository and git/github history.
 The current governance is stored in the [governance file](governance.md).
 
 Background and Governance 2007 - 2020
@@ -29,7 +28,7 @@ Mantid release dates are agreed taking into account facility operation schedules
 The PMB also agrees dates and locations for the yearly user and developer workshops.
 (Note: it is as part of its remit to enable effective continued collaboration that the PMB has initiated this process for updating the governance of the Mantid Collaboration.)
 
-Together with the creation of the PMB, the Collaboration has held annual user and developer workshops, the first to gather scientific requirements and discuss priorities, and the other to discuss technical solutions.Requirements and technical solutions (both common and facility specific) are added to specific release cycle development periods.
+Together with the creation of the PMB, the Collaboration has held annual user and developer workshops, the first to gather scientific requirements and discuss priorities, and the other to discuss technical solutions. Requirements and technical solutions (both common and facility specific) are added to specific release cycle development periods.
 Development periods are managed to culminate in a period of testing towards a fixed release date of a stable product.
 The development continuously releases against a nightly-build product so that users can access new functionality as it is developed.
 There are period patches as needed to the stable version of Mantid.
@@ -42,7 +41,7 @@ In 2014, as the scale of the development at the two facilities grew and the code
 Membership of the TSC has been based on technical merit and experience, rather than by balance of the number of facilities in the Collaboration or resourcing level.
 
 Additional facilities have since joined the Mantid Collaboration: the European Spallation Source (ESS) under construction in Sweden in 2015, the reactor source at the Institut Laue Langevin (ILL) in 2016, and the Chinese Spallation Neutron Source (CSNS) in 2019.
-In addition, other facilities use and have contributed to Mantid but are not formally part of the Collaboration(As defined by the rules of participation set out in the original governance): the reactor sources at ANSTO (Australia), FRM-II (Germany), and the SINQ facility at the Paul Scherrer Institute (Switzerland).
+In addition, other facilities use and have contributed to Mantid but are not formally part of the Collaboration (As defined by the rules of participation set out in the original governance): the reactor sources at ANSTO (Australia), FRM-II (Germany), and the SINQ facility at the Paul Scherrer Institute (Switzerland).
 
 Broadly speaking, the governance of Mantid has worked well. The TSC and regular annual meetings for users and developers have been effective, and the collaboration has allowed facilities to standardise on a single collaboratively developed framework for an important area of their scope.
 
@@ -74,7 +73,6 @@ In 2020 the PMB decided to revise the governance of the project to reflect these
 
 The key changes are as follows.
 * Removal of the single project manager role.
-
   * This officially recognises the importance of collaborating facilities managing and resourcing the development as required by individual facility priorities and scientific requirements.
 
 * Rather than being run as a monolithic development, changing to a collaboration around Free/Libre Open Source Software (FLOSS) products.
@@ -86,3 +84,14 @@ The key changes are as follows.
   * Provide technical management for the collaborative development
 
 * Inclusivity for all contributing facilities and individual contributors in the development of Mantid, including sole contributors. There is no requirement that an individual contributor or facility join an organising body to participate.
+
+Governance 2021 - 2025
+=====================================
+
+During 2021-2025 the governance model was not updated, and here referenced to as the 2021 governance model.
+The 2021 governance restructure satisfied its creterions and motivations as explained above.
+However, as Mantid continued to add value to increasingly more operating beamlines around the globe, the 2021 governance model in large parts stopped reflecting how the collaboration actually worked.
+Most noticably, the SWG and Steering Committee stopped operating and only the TWG continued to operate.
+
+At the [User Meeting Nov 2025](https://indico.stfc.ac.uk/event/1425/timetable/#20251106.detailed) this was discussed in a combined [presentation and discussions session](https://indico.stfc.ac.uk/event/1425/contributions/9469/), in addition to discussions prior and following this User Meetting.
+TODO - add a summary of whatever the agreed changes will be before this PR is merged.  
