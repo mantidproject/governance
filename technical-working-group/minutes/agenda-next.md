@@ -4,7 +4,7 @@
 - Mantid Strategy for modularisation (Michael)
 - Removing the [Forum](https://forum.mantidproject.org/) (Pete)
 - Migration to github actions https://github.com/mantidproject/mantid/issues/39497 (Tom)
-- Move to qt6 https://github.com/mantidproject/mantid/issues/38415
+- Mantid v7.0 (qt6, instrument view, deprecations)
 
 # Discussion Topics
 - AI governance - https://github.com/mantidproject/mantid/pull/42163
@@ -16,7 +16,7 @@
 - New logo for v7.0?
 - Mantid modernization
 - Using CCACHE in rattler-build
-- Governance document [PR](https://github.com/mantidproject/governance/pull/25/) (Anders)
+- Governance document [PR](https://github.com/mantidproject/governance/pull/25/) (Anders) - October agenda
 - Review [roadmap](https://github.com/orgs/mantidproject/projects/47/views/1)
 - AOB
 
