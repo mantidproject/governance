@@ -3,12 +3,13 @@
 # Status Updates
 - Mantid Strategy for modularisation (Michael)
 - Removing the [Forum](https://forum.mantidproject.org/) (Pete)
-- Migration to github actions https://github.com/mantidproject/mantid/issues/39497 (Tom)
+- Migration to github actions https://github.com/mantidproject/mantid/issues/39497 (Pete)
 - Mantid v7.0 (qt6, instrument view, deprecations)
+- ISIS Benchmarking project for Next Gen (Sarah)
 
 # Discussion Topics
+-Linode replacement (Sarah)
 - AI governance - https://github.com/mantidproject/mantid/pull/42163
-- Linode replacement (Sarah)
 - Hold off on macOS github runners until after release?
 - Moving to external mail provider? (Tom)
 - Archiving the forum - mirror using wget?
