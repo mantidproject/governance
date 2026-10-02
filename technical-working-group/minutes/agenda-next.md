@@ -8,7 +8,7 @@
 - ISIS Benchmarking project for Next Gen (Sarah)
 
 # Discussion Topics
--Linode replacement (Sarah)
+- Linode replacement (Sarah)
 - AI governance - https://github.com/mantidproject/mantid/pull/42163
 - Hold off on macOS github runners until after release?
 - Moving to external mail provider? (Tom)
