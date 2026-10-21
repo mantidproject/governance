@@ -8,13 +8,13 @@
 - ISIS Benchmarking project for Next Gen (Sarah)
 
 # Discussion Topics
-- Linode replacement (Sarah)
-- AI governance - https://github.com/mantidproject/mantid/pull/42163
-- Hold off on macOS github runners until after release?
+
+- New logo for v7.1?
+- [Codespell PR](https://github.com/mantidproject/mantid/pull/42543)
 - Moving to external mail provider? (Tom)
 - Archiving the forum - mirror using wget?
 - Can we move from Linode -> STFC cloud?
-- New logo for v7.0?
+
 - Mantid modernization
 - Using CCACHE in rattler-build
 - Governance document [PR](https://github.com/mantidproject/governance/pull/25/) (Anders) - October agenda
@@ -26,3 +26,5 @@
 - Risk register (Sarah)
 - [Community standards](https://github.com/mantidproject/mantid/community) according to github (Pete)
 - [NOBUGS](https://www.nobugsconference.org/) conference [2026 at DESY and European XFEL](https://www.nobugsconference.org/documents/NOBUGS%202026%20Teaser.pdf)
+- Linode replacement (Sarah)
+- Hold off on macOS github runners until after release?
