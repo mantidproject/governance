@@ -6,6 +6,7 @@
 - Migration to github actions https://github.com/mantidproject/mantid/issues/39497 (Pete)
 - Mantid v7.0 (qt6, instrument view, deprecations)
 - ISIS Benchmarking project for Next Gen (Sarah)
+- Flaky ILL test (Shervin)
 
 # Discussion Topics
 
