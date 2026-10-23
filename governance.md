@@ -3,419 +3,327 @@
 Purpose of this document
 ========================
 
-This document describes the revised governance framework for the Mantid Collaboration.
-The governance was changed to adapt to the increasing number of partners in the project, which strained the original governance model, and to refresh the governance to reflect on-the-ground realities of how the partners are developing Mantid in response to their different needs and priorities.
+This document describes the governance model for the Mantid Collaboration.
 The history of the governance is stored in the [history file](history.md).
 
-Governance Structure
-====================
+Table of Contents
+=================
 
-This section describes the revised governance structure for the Mantid Collaboration (starting in 2021).
-Figure 1 shows a representation of the new Steering Committee and Working Groups at the collaboration wide level, and the interactions of the Steering Committee with contributing facilities.
-As such it is a stakeholder map of the development.
+- [Governance Model](#governance-model)
+  - [General to all Working Groups](#general-to-all-working-groups)
+  - [Process for Resolving Conflicts](#process-for-resolving-conflicts)
+  - [Technical Working Group (TWG) and the Committed Collaborative Roadmap (CCR)](#technical-working-group-twg-and-the-committed-collaborative-roadmap-ccr)
+  - [User Communication Working Group (UCWG)](#user-communication-working-group-ucwg)
+  - [Governance Model Working Group (GMWG)](#governance-model-working-group-gmwg)
+  - [Developer Workshop](#developer-workshop)
+  - [User Meeting](#user-meeting)
+  - [Coffee with Scientists and Users Meeting](#coffee-with-scientists-and-users-meeting)
+- [Appendix: Example for interaction from a Contributing Facility](#appendix-example-for-interaction-from-a-contributing-facility)
 
-The box labelled "Contributing Facility Stakeholders" represents a simplified map of the stakeholders at any research facility that acts as a Contributing Facility.
-These include facility scientists and Mantid developers, facility users, and key management stakeholders which would likely be executive management and budget holders.
 
-The Mantid Collaboration governance consists of the Steering Committee which is entirely constituted by two working groups, one that develops the common scientific roadmap for the collaboration, and one that develops the common technical roadmap.
+Governance Model
+================
 
-* The two working groups meet independently, but each includes representation from the other.
-This ensures that the detailed work of the Scientific Roadmap Working Group is grounded by informed technical input, and the work of the Technical Roadmap Working Group is grounded in the scientific priorities and requirements of the Collaboration.
-* Each Working Group shall be responsible for development and curation of a five year roadmap.
-The Technical Roadmap Working Group shall be responsible for execution of both roadmaps for the immediate 12 month period.
-* The Steering Committee is precisely the union of the two Working Groups.
-The objective of the Steering Committee is to coordinate and manage the long term direction of Mantid, aligning it with the agreed technical and scientific priorities.
-It meets as required (but at least annually) to resolve any major contention between scientific requirements and technical issues or where a significant external event impacts significantly on both the scientific and technical planning.
-It also produces an annual summary for the key stakeholders.
+The governance model aims to stimulate collaboration and development of open source code in a collaborative way.
 
-The membership of the two Working Groups that constitute the Steering Committee comes from the contributing facilities and individual contributors.
-However, the Mantid governance is agnostic to the detailed management of collaborating partners.
-An example of local facility management and how it will interact with the Collaboration governance is given in the Appendix.
+Key to Mantid development:
 
-![steering-committee-facility](static/images/steering-committee-facility-interaction.png)
-
-**Fig 1. Representation of the interaction between the Mantid governance and stakeholders in Contributing Facilities. The nominal limit of Steering Committee size is implemented as an initial way of working that will be adapted as necessary.**
-
-The revised governance structure has been developed with the concept that collaboration, where appropriate, is identified and enabled, and a common code base or common code bases of open source software are developed and maintained in a collaborative way.
-This model allows individual facilities to develop Mantid according to their own requirements, with accountability for delivery and resource management to their own executive management, but also levers those resources by collaboratively working with one or more other facilities where mutually beneficial.
-
-The leading philosophy of Mantid development is that:
-* The Mantid Collaboration seeks to coordinate individual contributions to a free open source software (FLOSS) project.
-* Facilities (Facilities in this context refers to neutron research infrastructures such as ISIS, SNS and ILL) act as contributors to an open source software development.
+* The Mantid Collaboration seeks to coordinate contributions to Free/Libre and Open Source Software (FLOSS).
+* Facilities such as ISIS, SNS and ILL act as contributors to the Mantid open source software development.
 This document refers to such facilities as "Contributing Facilities".
-  * Mantid is open to new Contributing Facilities providing that those facilities agree to the terms listed below and can commit their own resources to develop the framework for their needs.
-* Individual contributors are welcome and do not need to be part of the formal organisation or a member of a neutron scattering facility.
+  * The collaboration is open to new Contributing Facilities providing that those facilities conform to the terms listed in this document and can commit their own resources to develop the framework for their needs.
+* Individual contributors are welcome and do not need to be a member of a facility.
 They are referred to in this document as “Individual Contributors”.
-  * Becoming an Individual Contributor is an open process which is defined at a technical level by the workflow for contributing code.
+  * Becoming an Individual Contributor is an open process as defined in this document. Contributions are not limited to code commits, and refer to any contributions that help the purpose of the collaboration.
 
-In this model the term Contributors refers to a facility or group that contributes to the Mantid development.
+![overview-governance-model-2026](static/images/overview-governance-model-2026.png)
+
+**Fig 1. Representation of the interaction between the collaborative working groups (top box) and the Contributing Facilities (bottom box). The three component next to the top box are described further below; the shaded one of these is optional to the governance model.**
+
+Figure 1 shows a representation of how the cross facility part of the governance interact with each Contributing Facility.
+The box labelled "Cross Facility Governance Working Groups (WGs)" shows the three collaborative WGs.
+The box labelled "Each Contributing Facility" shows a simplified map of the stakeholders of a Contributing Facility.
+These include facility scientists, developers, users, and a "board" of some kind that oversees and prioritises Mantid needs for a single facility. What constitute a "board" will vary from facility to facility, e.g. from a single developer and a couple of scientists meeting informally to discuss prioritises to a larger board with several science representatives helping to prioritise Mantid requirements across 20+ instruments for a larger facility development team.
+It is not prescribed how a "board" is run or setup, but it is assumed that contain communication happens between the Contributing facility and the cross facility WGs, as described in this document.
+
+This governance model allows Contributing Facilities to develop Mantid according to their own requirements, with accountability for delivery and resource management to their own executive management, while leverage collaboratively working where this is of mutually beneficial.
+
+In short the collaborative WGs in figure 1 are:
+
+* The Technical Working Group (TWG) - maintains the Committed Collaborative Roadmap, facilitates technical discussions and runs [Developer Workshops](#developer-workshop).
+* The User Communication Working Group (UCWG) - covers user communication not covered by other means and the facilitation of [User Meetings](#user-meeting).
+* The Governance Model Working Group (GMWG) - reviews and updates this document and governance model.
+
+Examples of local facility management is given in the Appendix.
 
 **Contributing Facilities shall**
-* Resource the development according to the required use by the facility (This term indicates that each Contributing Facility should have sufficient level of effort available to resource their own specific development of Mantid. As such the collaboration is a do-ocracy, in a similar way to other scientific software developments such as SASView (https://www.sasview.org/).).
-* Manage local requirements and development.
+
+* Resource the development according to the required use by the facility (i.e. each Contributing Facility will have sufficient level of effort available to resource their own specific development of Mantid. As such the collaboration is a do-ocracy, in a similar way to other scientific software developments such as SASView (https://www.sasview.org/).).
+* Provide own local management, requirement gathering process and development.
+* Nominate members to WGs.
 * Help Mantid products remain FLOSS.
-* Communicate the needs of the facility to the Steering Committee by developing and sharing the facility scientific and technical roadmaps for Mantid.
-* Nominate members for the Steering Committee Working Groups who will be approved by right (Scientific Roadmap Working Group) or merit (Technical Roadmap Working Group).
-* Adhere to the development workflow and standards for code quality set out by the Steering Committee.
+* Adhere to the development workflow and standards for code quality set out by the Technical Working Group (TWG).
 * Contribute to maintenance and testing activities.
-* Communicate with their local scientists and development team how Mantid products fit into their own larger picture for neutron and muon data analysis software.
-* Be open to suggestions and feedback from Individual Contributors to the project.
+* Be open to contributions, suggestions and feedback from Individual Contributors.
 
 **Contributing Facilities should**
+
 * Contribute to infrastructure costs.
 * Maintain a level of effort, expertise or capability in Mantid.
-* Host (and fund) the annual User Meeting and Developer Workshop.
+* Host (and fund) User Meetings and Developer Workshops.
 
-Each Contributing Facility has the responsibility to meet the Collaboration’s governance requirements and nominate membership of the Working Groups (and hence Steering Committee), as set out in sections 3.2 - 3.3. Minutes of meetings, actions and decisions will be open.
 
-3.1 Steering Committee.
------------------------
-The Steering Committee is the body that runs the project on a consensus driven basis.
-It is composed of the membership of the Scientific and Technical Roadmap Working Groups, which together steer the scientific and technical direction of the development.
-The two groups communicate laterally and build consensus on the prioritisation and scheduling of common, large-scale developments.
+General to all Working Groups
+-----------------------------
 
-The Working Groups that comprise the Steering Committee are described in detail in Sections 3.2 and 3.3.
-The Scientific and Technical Roadmap Working Groups when meeting together as the Steering Committee have additional responsibilities as detailed below.
-A primary objective is to provide a space for overall discussion between the Working Groups to encourage maximal coordination and collaboration.
-The Steering Committee is tasked to hold and manage a risk register, to ensure the development is still on track, and to produce an annual summary on status and progress against the common roadmap for Contributing Facility directors and budget holders for their consideration.
-The Steering Committee welcomes acknowledgement and feedback following this report.
+All Working Groups (WGs) runs on a consensus driven basis and share several common aspects of working which is described in this section.
 
-**Membership of the Steering Committee.**
+A primary aim of all WGs is to provide spaces for discussions between facilities to encourage coordination and collaboration.
 
-The membership of the Steering Committee is exactly the union of the Scientific and Technical Working Groups.
-The primary officers of the Steering Committee are:
-* A Chair, rotating on a meeting by meeting basis between the Chairs of the Scientific and Technical Roadmap Working Groups.
-* A secretary elected on a permanent basis.
+**Membership**
 
-Contributing Facilities are expected to nominate individuals to the Scientific and Technical Working Groups, as detailed in Sections 3.2 and 3.3.
-Each Contributing Facility should nominate at most two technical and two scientific experts.
-Individual Contributors are welcome to join the Steering Committee in either the Scientific or the Technical Roadmap Working Group, but membership is not required in order to contribute to Mantid.
-Those who contribute effort are allowed to do so in a way that benefits them, but should keep the needs and concerns of others using Mantid products in mind.
+Each Contributing Facility can nominate at most two members per WG. New WG members are approved by the existing WG members.
+A Contributing Facility is a facility that has dedicated developer resource (part time or full time) working on Mantid or is paying another Contributing Facility money to maintain and develop Mantid.
+All meetings are open to guests in the form of Individual Contributors, people who have a special interest and knowledge of a topic, and facility staff interested in experiencing the working of a WG before requesting membership.
+Guests cannot cast votes where votes are held in WG meetings. Guest can self-nominate to attend WG meetings (for whom to contact see the WG membership lists) or be invited by a WG member (where this is not the chair please inform the chair ahead of the meeting).
+Anyone who contribute, facility member or Individual Contributor, are allowed to do so in a way that benefits them, but should keep the needs and concerns of others using Mantid products in mind.
 
-**Responsibilities of the Steering Committee.**
+**The base officers of a WG**
 
-* Ensure coordination between Contributors.
-* Ensure the Working Groups deliver publicly available scientific and technical roadmaps.
-* Act as a clearing house for discussion on all matters concerning Mantid between Contributors.
-* Nominate the Chairs of the User Meeting who have authority to engage a local organising committee for each User Meeting.
-These individuals do not need to be members of the Steering Committee.
-* Hold and maintain the development risk register.
-* Collate status and progress reports as required by key stakeholders.
-* Prepare an annual summary for the Contributing Facility directors.
-* Hold a list of its members.
-* Coordinate the review of the governance and associated documents.
-* Resolve conflicts, using a defined process, where there is no consensus among collaborators.
+* An elected Chair.
+* An elected Secretary. The secretary can be a non voting member, in this regard, in the same way as a guest.
 
-**General Responsibilities of the Working Groups.**
+**Responsibilities of the WG Chair**
 
-* Hold a common roadmap based on their area (i.e. scientific or technical) and update it regularly.
-The roadmap will reflect Contributing Facilities’ needs rather than dictate what all contributors will work on.
-* Hold regular meetings with publicly circulated agendas and meeting minutes with records of decisions made.
-* All members of the Steering Committee are invited to attend Working Group meetings.
-* Be inclusive of Individual Contributors.
-* Invite people to meetings who have a special interest in a topic or can provide greater insight than can be channeled through a Working Group member.
+* The chair will act as “Lead Coordinator” of the overall direction and health of the WG.
+* Resolves conflicts which cannot be resolved by consensus.
+* Calls recurrent meetings of the WG (the Secretary might do this instead).
+* Checks the membership list is up to date at each WG meeting.
 
-**General Responsibilities of members of the Working Groups.**
+**Responsibilities of the WG Secretary**
 
-* Communicate the facility’s interests and intentions to the Working Groups.
-* Communicate the Working Group discussions to their facility management.
+* Calls regular meetings of the WG with agendas (if this is not done by the chair).
+* Writes meeting minutes with records of decisions made and brief high-level summary of discussions. Minutes shall be comprehensible by the primary relevant audience of the WG, for instance for the TWG other Mantid developers.
+
+**General Responsibilities of all members of the WGs**
+
+* Communicate the facility's interests and intentions to the WGs.
+* Communicate WG discussions and outcomes back to their facility management.
 * Be open to discussion of topics and work towards solutions that foster commonality through consensus.
-* Attending the Working Group meetings regularly or sending a delegate where this is not possible.
+* Be open to receiving requests from self-nominated guests and be open to inviting guests to join WG meetings.
+* Attend the WG meetings regularly or send a delegate where this is not possible.
+* Provide and maintain resource levels on agreed work.
 
-| Jan            | Feb     | Mar               | Apr     | May     | Jun      | Jul     | Aug     | Sep     | Oct     | Nov     | Dec              |
-| -------------- | ------- | ----------------- | ------- | ------- | -------- | ------- | ------- | ------- | ------- | ------- | ---------------- |
-|                |         | Directors' Update |         |         |          |         |         |         |         |         |                  |
-|                |         |                   |         |         | User Mtg |         |         |         |         |         |                  |
-| Steering Cmtee |         |                   |         |         |          |         |         |         |         |         |                  |
-| Tech WG        | Tech WG | Tech WG           | Tech WG | Tech WG | Tech WG  | Tech WG | Tech WG | Tech WG | Tech WG | Tech WG | Tech WG          |
-|                |         | Sci WG            |         |         | Sci WG   |         |         | Sci WG  |         |         | Sci WG           |
-|                |         |                   |         |         | Devel WS |         |         |         |         |         | Virtual Devel WS |
+**General Responsibilities of each WG.**
 
-*Table 1: An example frequency of meetings for the Steering Committee, Working Groups, User Meetings and Developer Workshops. As befits its role, the Technical Roadmap Working Group meets more frequently than the Scientific Roadmap Working Group (Section 3.2). Precise dates for the User Meeting will be determined by best compromise between running periods at the Contributing Facilities to maximise attendance. [WG = Working Group; WS = workshop.]*
+* Hold a up to date publicly accessible list of its members, and optionally Individual Contributors.
+* Hold recurrent meetings with publicly circulated agendas and meeting minutes with records of decisions made.
+* Will elect a Chair from within the existing membership. The position of Chair is for a fixed term appointment, reviewed annually by the WG.
+* Will elect a Secretary that can be a person external to the WG. The position of Secretary is for a fixed term appointment, reviewed annually by the WG.
+* The WG can be contacted by anyone outside the Collaboration via a mailing list (where such exists, see individual WG), or by reaching out to the chair or other WG members on the membership lists.
 
-3.2 Periodic Review of the Mantid Governance
---------------------------------------------
+Below is an example of how the frequency of WG meetings could be.
 
-The Steering Committee will be responsible for the review of the governance of the Mantid project at a suitable frequency.
-This will be coordinated by the chairs of the Technical and Scientific Working Groups.
-Key elements of this review process will include:
-* External reviewers where appropriate.
-* An evaluation of the benefits being delivered to each facility.
-* An evaluation of whether the governance is facilitating or hindering collaboration.
-* Updates to the governance in the spirit of continuous improvement.
+| Jan  | Feb  | Mar  | Apr  | May  | Jun  | Jul  | Aug  | Sep  | Oct  | Nov  | Dec  |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| GMWG |      |      |      |      |      |      |      |      |      |      |      |
+| TWG  | TWG  | TWG  | TWG  | TWG  | TWG  | TWG  | TWG  | TWG  | TWG  | TWG  | TWG  |
+|      |      | UCWG |      |      | UCWG |      |      | UCWG |      |      | UCWG |
 
-3.3 Process for Resolving Conflicts
------------------------------------
+*Table 1: An example frequency of meetings for the collaborative WGs. The cadence of User Meetings and Developer Workshops are determined by the UCWG and TWG respectively.*
 
-In the unlikely event where the collaboration has reached an impasse on the prioritisation or scheduling of key roadmap items, members will resort to the use of a third party conflict resolution process.
-The chairs of the Scientific and Technical Working Groups will be responsible for invoking this resolution procedure.
-The pair will document the issue/s and prepare an executive summary which will be sent to all participating facility directors.
-The facility directors will then be invited to assume a mediation/arbitration role in a joint Steering Committee meeting which comprises the combined Scientific and Technical Working Groups.
+
+Process for Resolving Conflicts
+-------------------------------
+
+In the unlikely event where the collaboration has reached an impasse, members will resort to the use of a third party conflict resolution process.
+The chairs of the Technical and User Communication WGs will be responsible for invoking this resolution procedure.
+The pair will document the issue(s) and prepare a summary which will be sent to all participating facility directors.
+The facility directors will then be invited to assume a mediation/arbitration role in a joint meeting which comprises the combined Technical and User Communication WGs.
 The conflict will be presented to facility directors in detail providing each interested party to state their case.
 If directors are unable to mediate a resolution, they will arbitrate the dispute and force a final decision thus providing a way out of deadlock.
+The need for using this conflict resolution process should be rare, and since its introduction in 2021 it has not been invoked.
 
-3.4 Technical Roadmap Working Group and Technical Roadmap.
-----------------------------------------------------------
 
-The Technical Roadmap Working Group owns the common five year technical roadmap and coordinates effort to execute the forthcoming year’s effort on both the scientific and technical roadmaps.
+Technical Working Group (TWG) and the Committed Collaborative Roadmap (CCR)
+---------------------------------------------------------------------------
 
-**Technical Roadmap.**
+The Technical Working Group (TWG) owns the Committed Collaborative Roadmap (CCR) and the Developer Workshops (for the collaboration).
+It coordinates technical discussions with an emphasis on those that concerns multiple facilities.
 
-The technical roadmap for the Collaboration will be composed of the common areas for technical development.
-Individual facilities will build their roadmaps by embarking on a requirements gathering exercise at each facility to determine their local technical roadmap.
-The wider Collaboration technical roadmap will be structured as a set of projects for which each Contributing Facility represented on the of the Working Group will assign resources (or in the case of an Individual Contributors, will undertake to contribute effort), according to the benefits-driven priority of those projects to the Contributor, in order that the project be completed.
-Projects will be reviewed at each Working Group meeting so that any issues or delays can be addressed.
+**Committed Collaborative Roadmap (CCR)**
 
-The roadmap will be managed as an agile project with a kanban-style representation. This will be reviewed at each of the regular meetings of the Working Group.
-This visual style will facilitate effective communication of current status, complexity and interdependencies between items on the roadmap.
-Topics in the roadmap will be detailed enough to foster communication, but broad enough to be relevant to multiple contributors.
+In short, this roadmap contains (large) work items needed to keep Mantid operational and deployable on the operating system platforms that Contributing Facilities require, and new user capabilities that one or more Contributing Facilities have committed resources to.
 
-Example roadmap topics include:
-* File loading performance for neutron event data.
-* Live streaming and infrastructure.
-* Instrument geometry rendering.
-* Data structure performance.
-* Compatibility with external software ecosystems (e.g. pandas or PACE).
-* Componentization of scientific interfaces
-* Other applications such as imaging or auto-reduction which do not sit within data reduction as such.
+In more detail, the CCR is composed of broadly the following two categories of work items/topics:
 
-**Membership of the Working Group.**
+* (large) work items needed to keep Mantid operating and being fit for the the future. For example, existential work to keep up to date with third party dependencies such as Python and Qt, keep the development pipeline functional, keep Mantid deployable on relevant platforms, keep a tap on technical debt, handle future instrument data rate and read/write rates, security etc.
+Also, discussions between TWG members may identify new existential Mantid needs that in return TWG members will communicate to their facility management.
+When resource from one or more facilities has been committed to a work item (or in the case of an Individual Contributors, will undertake the work) it can be associated with a future release on the CCR.
+* (large) work items to enhance Mantid with new capabilities such as handling new instruments and instrument upgrades, improving the scientific accuracy of data reduction for specific techniques, supporting new types of data reduction, and user usability improvements as needed by Contributing Facilities.
+Work items of this kind can appear on the CCR once one or more facilities has committed resources to it.
+By making such work visible on the CCR the whole collaboration can see it is upcoming, which may stimulate further interest and potential additional contributions.
+Scientific technique areas include: Powder diffraction, Single crystal diffraction, Engineering diffraction, Disordered materials, Small angle neutron scattering (SANS), Reflectometry, and Spectroscopy (Direct geometry, Indirect geometry, Triple axis spectrometer, Neutron spin echo, Deep inelastic, Quasi-elastic neutron scattering (QENS), Muon spin rotation).
 
-The base membership of the Working Group will include:
-* An elected Chair.
-* The Chair of the Scientific Roadmap Working Group.
-* A secretary elected on a permanent basis.
+There will naturally also be topics that might be argued to fit into both of the above two categories such as: specific needs to help support external live streaming infrastructure, cross-cutting instrument geometry changes, deprecation or support for compatibility with third party software interfaces etc.
 
-Membership of the Working Group is determined by each facility.
-Facilities nominate senior technical staff who are deeply involved in generating facility roadmaps at a high level, and have direct access to facility leadership.
-The members of the Working Group should have a deep technical knowledge and experience over a wide range of programming, best practices, infrastructure areas and facility scientific computing roadmaps.
-New members are approved by the existing Working Group.
-Members must have the  authority to discuss and agree the contributions to the Collaboration roadmap.
+![TWG-CCR-requirement-funnels-2026](static/images/TWG-CCR-requirement-funnels-2026.png)
 
-Individual Contributors can self-nominate to be considered as members of the Working Group, or be invited by the Working Group.
-The existing membership will consider and approve members on merit.
+**Fig 2. Shows the connection between the TWG and to its right a partial snapshot of the CCR (see [here](https://github.com/orgs/mantidproject/projects/47) for an up to date and full version), and below connection to Contributing Facilities' requirement funnels / gathering processes.**
 
-**Responsibilities of the Working Group Chair.**
+The CCR is managed using agile with a Kanban-style representation. It is reviewed at each of the regular meetings of the Working Group.
+As can be seen [here](https://github.com/orgs/mantidproject/projects/47) its visual style is aimed at facilitating effective communication of past, current and future work items against releases.
+Topics in the roadmap are detailed enough to foster communication, while broad enough to be relevant to multiple contributors.
 
-The Working Group chair will be responsible for:
-* Communicating the technical roadmap with Scientific Roadmap Working Group.
-* Working with the Scientific and Technical Roadmap Working Groups to tension technical roadmap priorities against scientific roadmap priorities for development.
-* The chair will act as “Lead Coordinator” of the overall direction and health of the project.
-This ensures decisions on significant technical issues will not get stalled by the various committees.
-* Resolving conflicts in the technical roadmap which cannot be resolved by consensus.
-* Calling regular meetings of the Working Group.
-* Attend the User Meeting
+The below adds to information and responsibilities [General to all Working Groups](#general-to-all-working-groups).
 
-**Responsibilities of Working Group Members.**
+**Membership info specific to the TWG**
 
-The Working Group members will be responsible for:
+Nominated members should be senior technical staff who are involved in local core Mantid work and/or have oversight over local facility Mantid roadmap needs (such as local facility Mantid team leads).
+Members must have the authority to discuss and agree on contributions to collaborative work.
 
-* Providing and maintaining resourcing levels on agreed roadmap projects.
-* Communicating progress to their local facility management.
-* Translating benefits of combined projects to their local facilities.
-* Communicating changes in priorities at local facilities which may affect the overall technical roadmap.
+This WG operates the mailing list: twg@mantidproject.org.
 
-**Terms of Reference.**
+**Responsibilities specific to all TWG Members**
 
-The Technical Roadmap Working Group is responsible for the following activities and processes:
-* Partners the Scientific Roadmap Working Group as equal members within the Steering Committee.
-* Senior managers who have significant control or influence over data reduction resource within their respective facilities.
-* Creates and delivers a technical roadmap for the Collaboration.
-* Communicates the technical roadmap to the Scientific Roadmap Working Group and changes as they take place.
-* Working Group members should encourage experts in key areas to attend where appropriate.
-* Provides technical grounding for items in the scientific roadmap created and owned by the Scientific Roadmap Working Group.
-* To come up with the best technical solutions for a given major and submitted problems.
+* Attend Developer Workshops.
+* Are encouraged to attend User Meetings.
+
+**Responsibilities specific to the TWG Chair**
+
+* Ensures the CCR gets discussed and updated at each TWG meeting.
+* Checks the names on the TWG mailing list is up to date at each TWG meeting.
+* Attends User Meetings.
+
+**Responsibilities specific to the TWG**
+
+* Maintains and updates the CCR.
+* Communicates relevant items on the CCR will local facility management and vice versa.
+* Provides technical feedback on items brought forward to the TWG.
 * Promotes consensus on infrastructure and processes.
 * Coordinates and advises on major designs.
 * Coordinates changes to the third party dependencies of Mantid and makes recommendations for changes and updates.
 * Ensures there is a good distribution of developers with administrator privileges for services.
-* Acts as an arbitration and triage point for conflicts.
+* Acts as an arbitration and triage point for code and code review conflicts.
 * Overseeing, resourcing and scheduling large-scale refactoring effort.
+* Meets at least monthly online.
+* Organises the annual face-to-face Developer Workshop and (optionally) virtual Developer Workshops.
+* (include?) Holds a technical risk register, which keeps track of known risks that may cause Mantid to become undeployable on facility OS platforms or that developers no longer can sufficiently easily contribute to Mantid or other similar existential technical risks.
 
-The Technical Roadmap Working Group operates on the following basis:
-* The Working Group will meet at least monthly online.
-* The Working Group will meet face-to-face at least annually as a satellite to the User Meeting.
-* All members of the Steering Committee are invited to attend meetings.
-* People can be invited to meetings who have a special interest or insight in a topic that cannot be channeled through a Working Group Member.
-* The technical roadmap is reviewed at every meeting as the first agenda item.
-* The Working Group organises the annual face-to-face Developer Workshop and the virtual Developer Workshop.
-* Membership is determined by Contributing Facility recommendations or (self-)nomination of Individual Contributors.
-New membership is approved by the existing membership.
-* The Working Group will elect a Chair from within the existing membership.
-* The position of Chair is for a fixed term appointment, reviewed annually by the Working Group.
-* Holds a list of its membership.
-* The agenda and minutes of Working Group meetings will be published publicly.
-* The Working Group can be contacted by anyone outside the Collaboration via a mailing list.
-
-3.5 Scientific Roadmap Working Group and Scientific Roadmap.
-------------------------------------------------------------
-
-The Scientific Roadmap Working Group owns the common five year scientific roadmap.
-This group will meet every three months to review and update as necessary the scientific roadmap in accordance with the common development plan and Contributing Facilities’ evolving scientific roadmaps.
-
-**Scientific Roadmap.**
-
-The scientific roadmap for the Collaboration will be composed of common areas for scientific development.
-Each individual facility will be responsible for creating its own scientific roadmap alongside its own technical roadmap through processes that it sees as fit for its own local management of Mantid.
-The scientific roadmaps from all Contributing Facilities will be shared in the Scientific Roadmap Working Group, along with input from Individual Contributors and the User Meeting.
-Common requirements will be identified and initiated as projects between those Contributing Facilities that assign resources, and Individual Contributors who undertake to contribute effort, that will enable the projects to be completed.
-Projects will be reviewed at each Working Group meeting as part of the constant review and updating of the common scientific roadmap.
-The management of common projects on the 12 month view is the responsibility of the Technical Roadmap Working Group, which will review common projects at each meeting so that any issues or delays can be addressed.
-
-The Steering Committee and Scientific Roadmap Working Group own a common - not a global- scientific roadmap.
-It is not the intention that they own the totality of the roadmap of all facilities, or to attempt prioritisation of scientific requirements for any single Contributing Facility.
-The common roadmap is developed to enable collaboration on areas of common interest.
-The Scientific Roadmap Working Group has access to the roadmaps of all the Contributing Facilities in order to identify and promote collaborative projects.
-
-**Membership of the Working Group.**
-
-The base membership of the Working Group will include:
-* An elected Chair.
-* The Chair of the Technical Roadmap Working Group
-* At least one person, but a maximum of two, per Contributing Facility.
-* A secretary elected on a permanent basis.
-
-The Chair is elected from the current membership of the Working Group.
-Additional representatives from the Technical Roadmap Working Group can be co-opted as required to provide specialist technical input.
-The meeting is open for any members of the Technical Roadmap Working Group to participate in if they choose.
-
-Membership  will primarily (It is expected that most members will be facility staff.
-The Scientific Roadmap Working Group is open to membership from non-facility staff.
-Individuals should communicate their willingness to join the Working Group by contacting the Chair of the Working Group) be via nominated staff from facilities.
-It is expected that nominated staff will have a good understanding of the development and of their facility roadmap.
-Members must have the authority to discuss and agree the contributions to the common Collaboration roadmap.
-
-**Responsibilities of the Working Group Chair.**
-
-The Working Group chair will be responsible for:
-* Presenting the scientific roadmap to the Technical Roadmap Working Group.
-* Working with the Technical and Scientific Roadmap Working Groups to tension technical roadmap priorities against scientific roadmap priorities for development.
-* Raising issues with the Technical Roadmap Working Group and share with members of the Scientific Roadmap Working Group.
-* Informing the User Meeting of the scientific roadmap and acting as an interface between the User Meeting and Scientific Roadmap Working Group.
-* Calling extraordinary meetings of the Scientific Roadmap Working Group as needed.
-* Attending the User Meeting.
-
-**Responsibilities of Working Group Members.**
-
-The Working Group members will be responsible for:
-* Presenting Contributing Facilities roadmaps to the Scientific Roadmap Working Group
-* Communicating changes in the local facilities roadmaps to the Scientific Roadmap Working Group
-* Communicating the scientific roadmap to their local facility management and Mantid governance
-
-**Terms of Reference.**
-
-The Scientific Roadmap Working Group is responsible for the following activities and  processes:
-* Create and deliver the scientific roadmap for the Collaboration.
-* Communicate the common scientific roadmap to the Technical Roadmap Working Group.
-* Communicate the Contributing Facility scientific roadmaps to the Technical Roadmap Working Group.
-* Promote and foster collaboration between contributors by finding commonalities which could involve two or more Contributing Facilities which could then evolve into projects in the common scientific roadmap.
-* Work with the Technical Roadmap Working Group to ensure that the scientific priorities are satisfied with technically feasible solutions.
-
-The Scientific Roadmap Working Group operates on the following basis:
-* The Working Group will meet at least quarterly online.
-* The Working Group will meet face-to-face at least annually as a satellite to the User Meeting.
-* All members of the Steering Committee are invited to attend meetings.
-* People can be invited to meetings who have a special interest or insight in a topic that cannot be channeled through a Working Group Member.
-* The scientific roadmap will be reviewed every meeting as the first item on the agenda.
-* Membership is determined by Contributing Facility nomination.
-* The Working Group will elect a Chair from within the existing membership.
-* The position of Chair is a fixed term appointment, reviewed annually by the Working Group.
-* Holds a list of its membership.
-* The agenda and minutes of Working Group meetings will be published publicly.
-* The Working Group can be contacted by anyone outside the Collaboration via a mailing list.
-
-**Features of the Mantid Scientific Roadmap.**
-
-* The roadmap will be a high level scientific outlook on a technique-by-technique basis.
-  * Inputs will be based on milestones and deliverables for each technique area as included in each of the Contributing Facilities shared roadmaps.
-  * The output will be a distillation of the shared roadmap needs from a discussion within the steering group
-  * The roadmap shall highlight common aspects.
-  * The roadmap will provide horizon scanning, including new instruments and techniques.
-  * Contributors are encouraged to share scientific outlooks that are not necessarily  envisioned to be developed within Mantid. (Specific exclusions from the Mantid roadmap are useful. A collective view on scientific computing across the Contributing Facilities helps to identify and define the scope of the overall project.)
-* The formation of the roadmap will be an iterative process. At one meeting of the Scientific Roadmap Working Group areas for collaboration on projects will be identified from the Contributing Facility roadmaps; outside the Working Group these will be formulated by the interested Contributors into projects, and incorporated into the Mantid development in a subsequent meeting.
-* The technique areas to be considered could include:
-  * Powder diffraction
-  * Single crystal diffraction
-  * Macromolecular crystallography
-  * Engineering diffraction
-  * Disordered materials
-  * Small angle neutron scattering (SANS)
-  * Reflectometry
-  * Imaging & computed tomography
-  * Spectroscopy
-    * Direct geometry
-    * Indirect geometry
-    * Triple axis spectrometer
-    * Neutron spin echo
-    * Deep inelastic
-    * Quasi-elastic neutron scattering (QENS)
-    * Muon spin rotation
-
-3.6 User Meeting and Developer Workshop
+User Communication Working Group (UCWG)
 ---------------------------------------
 
-These meetings will be organised with the aim of enabling an effective  connection between contributors and users of Mantid and the applications produced using the Mantid framework.
-There will be two meetings held back-to-back: the first centered on scientific usage and needs (User Meeting), and the other centered on technical discussions (Developer Workshop).
+This WG's purpose is to help with effective exchange of information between users and between developers and users, with an emphasis on helping with inter-facility communication. This WG do this through the one of more of the activities below:
 
-**User Meeting**
+* Facilitate [User Meetings](#user-meeting).
+* Help keep facilities informed about the present state of Mantid, including to debunk myths that might once have been true but no longer are true.
+* Help (as relevant) share information about items on the Committed Collaboration Roadmap (CCR), included on future committed work items.
+* Capture users experience that might be easier to collect at a collaboration level rather that by an individual facility, and advise on how a Contributing Facility can conduct their own user surveys.
+* (include?) Facilitate Coffee with Scientists and Users meetings.
 
-The Collaboration shall organise an annual face-to-face user meeting. The Steering Committee will facilitate this by:
-* Electing a Chair for the meeting.
-* Agreeing on a host and date for the meeting.
-* Ensuring there is a point of contact in each Working Group who is willing to help identify key themes for the meeting.
-* Providing a list of contacts for Individual Contributors with whom local contributions to the meeting can be discussed.
+The below adds to information and responsibilities [General to all Working Groups](#general-to-all-working-groups).
 
-The elected chair will organise the meeting with the aim of:
-* Informing users on the latest news and ‘hot’ topics relating to the Mantid collaboration.
-* Promoting interaction between contributors to stay abreast of new advances in techniques for data reduction/analysis across different scientific areas.
-* Promoting interaction between developers and scientists to improve understanding of scientific requirements and technical constraints.
-* Identifying common areas of development between contributors, and promoting collaborative work both through immediate discussion and in feedback to the Steering Committee.
-* Discussing new technologies/infrastructures which may be leveraged to enhance the user experience.
-* Addressing both technical and scientific topics, and providing constructive feedback to the Steering Committee as to whether the respective roadmaps are meeting user needs.
+**Membership info specific to the UCWG**
 
-The elected chair will make a report to the Steering Committee following the User Meeting.
+Members are expected to be:
+* Scientists and/or developers with understanding of Mantid user needs.
+* And/or facility staff with experience in communication and facillitating user meetings.
 
-**Developer Workshop**
+Members shall have the authority to influence contributions towards running in-person User Meetings.
 
-This annual face-to-face meeting is organised by the Technical Roadmap Working Group and is organised alongside the User Meeting.
+**Responsibilities specific to all UCWG Members**
+
+* Attend User Meetings.
+
+**Responsibilities specific to the UCWG Chair**
+
+* None and see [General to all Working Groups](#general-to-all-working-groups).
+
+**Responsibilities specific to the UCWG**
+
+* Meets at least once per release or quarterly?.
+* Organises the face-to-face User Meetings and (optionally) virtual User Meetings.
+
+
+Governance Model Working Group (GMWG)
+-------------------------------------
+
+(temporary comment: the idea for this WG is the help stimulate that the same does not happen again as it did with the 2021 model, where it was not touched until now and became hugely out of date)
+
+This WG is responsible for coordinating reviews of this governance model (this document and associated documents) annually, where the chairs of the TWG and UCWG and its members are invited.
+
+Key elements of reviews will include:
+
+* An evaluation of whether the governance model is facilitating or hindering collaboration.
+* Updates to the governance model in the spirit of continuous improvement.
+
+To be checked/discussed: Ideas and suggestions for improvements to the governance model can be proposed throughout the year, including in the form of GitHub issues submitted to this repository with the label Governance. Any changes to the governance model needs to go through the GitHub PR process and requires the approval of the chairs of all? the WGs and others? either on the PR or by 'not objecting' within one week of receiving email on proposed changes (not all WG chairs/others are guaranteed to have GitHub accounts or they would strongly prefer to review changes not using the GitHub PR tool).
+
+The below adds to information and responsibilities [General to all Working Groups](#general-to-all-working-groups).
+
+TODO add specific WG info as seen relevant on review.
+
+
+Developer Workshop
+------------------
+
+This annual face-to-face meeting is organised by the Technical Working Group (TWG) and is optionally organised alongside the User Meeting.
 There may also be additional virtual Developer Workshops throughout the year.
-The Technical Roadmap Working Group is responsible for creating an agenda for the meeting.
 
 The purpose of the Developer Workshop is as follows:
 * Promote interaction between developers, from both Contributing Facilities and Individual Contributors.
-* Run code camps to work on backlog issues (defined by the Technical Roadmap Working Group) or issues that benefit from a more interactive approach to problem solving.
-* Discuss new technologies and infrastructures which may be leveraged to enhance the project.
+* Run code camps to work on backlog issues (defined by the TWG) or issues that benefit from a more interactive approach to problem solving.
+* Discuss new technologies and infrastructures which may be leveraged to enhance the Mantid framework.
 * Gather feedback on day-to-day working practices and identify points for improvement.
 
+
+User Meeting
+------------
+
+This recurrent face-to-face meeting is organised by the User Communication Working Group (UCWG) and is optionally organised alongside the Developer Workshop.
+There may also be additional virtual User Meetings throughout the year.
+
+The purpose of the User Meeting is as follows:
+* Promote communication and connection between contributors and users of Mantid and the applications produced using the Mantid framework.
+* Include updates from each Contributing Facility.
+* Include update from the Technical Working Group (TWG).
+* Include recent news and individual presentations (via talks or posters).
+* Discuss new technologies and infrastructures which may be leveraged to enhance the user experience.
+
+
+Coffee with Scientists and Users Meeting
+----------------------------------------
+
+(Temporary comment: The proposed name for this type of meeting came from Januka at ISIS. The basic idea of it came from the Nov User Meetings from many craving for some place or other for scientists and/or developers with science focus to meet more frequently meet in addition to User meetings)
+
+The focus of this is for instrument scientists, developers with science focus and Mantid users to share and discuss ideas early (that may become candidates for committed work items by one or more facilities in the future), discuss existing committed work items upcoming or in progress that are of interest, and existing Mantid capabilities at one facility that might benefit another facility. In one sense 'mini user meetings' without comprehensive facility updates, TWG update, etc.
+
+In summary to stimulate scientific discussions on:
+
+* Early ideas.
+* Committed work items.
+* Already implemented Mantid capabilities.
 
 
 Appendix: Example for interaction from a Contributing Facility
 ==============================================================
 
-The diagram below provides ISIS-specific detail on the interaction with the wider collaboration governance.
-This represents a concrete example  of how a facility might interact with the collaboration-wide governance.
-ISIS intends to have an internal Mantid Programme Board which comprises scientists and technical leads who determine the ISIS-specific roadmap for Mantid.
-They will have sufficient authority within the facility to make decisions regarding the direction of Mantid-based data reduction and analysis software development on behalf of ISIS.
-This body will decide which projects constitute the Mantid programme of work, in line with the local scientific and technical roadmap that the body creates and owns.
-The board will report to internal management structures so they can have a view of whether the project is continuing to deliver for the facility.
-The project-based approach, if adopted by other facilities, will allow for a better understanding of areas of overlap and the timing of such developments.
-Technical leads will schedule the resources within the development team to deliver against this roadmap.
+**ISIS local arrangement**
 
-![isis-internal-governance](static/images/isis-internal-governance-example.png)
+Figure A1 expands on the interaction shown in figure 2 between ISIS and the TWG. It shows the ISIS Mantid Programme Board (MPB) and its associated Epic Kanban system:
+* The schematic of the Epic Kanban system, bottom right, shows both the process of how Epics can travel from left to right, from Funnel (initial idea) to Done, and a schematic of how the system is visualised via a board.
+* At ISIS, the prioritisation of Epics is part of the remit of the ISIS Mantid Programme Board (MPB). The MPB represents areas of concern to ISIS and includes one or more representatives from each of ISIS’s science divisions.
 
-Key features of the ISIS approach are:
-* The Mantid Programme may consist of projects which are completely external or shared development with other facilities.
-* These projects will arise from the internal scientific/technical roadmaps.
-Roadmaps will be developed as the result of a series of deep-dive requirements gathering workshops within each science group.
-* The technical requirements which satisfy the scientific roadmap will be extracted as part of this exercise.
-Purely technical requirements will be consumed from the development team.
-* The local scientific roadmap will be developed by the Data Reduction Strategist (this is one aspect of the person responsible for the overall ISIS Scientific Computing strategy) and the Scientific Roadmap Working Group Representative.
-They have the delegated authority to decide on projects which satisfy the data reduction computing requirements for the facility.
-* The local technical roadmap will be developed by the Data Reduction Lead and the Data Reduction Budget holder in line with the scientific computing strategy for the facility.
-The technical roadmap will deliver the requirements stemming from the scientific roadmap as well as any purely technical requirements which are prerequisites for the fulfilment of the scientific requirements.
-* Each ISIS representative on the Scientific andTechnical Roadmap Working Groups will communicate the local ISIS roadmap to those Working Groups.
-Collaborative projects will be created out of areas of common interest, however, they will also maintain a distinct internal representation.
+The main flows of interaction between ISIS and TWG is explained in the figure caption. Also, and not shown, the ISIS Mantid team brings observations early to the TWG about large cross facility (enabler) technical needs for early discussions.
 
+![isis-requirement-funnel-twg-interactions-2026](static/images/isis-requirement-funnel-twg-interactions-2026.png)
+
+**Fig A1. Top part is the same as the top part of figure 2. Bottom part is focussed on ISIS and its interaction with the top part. Interactions from TWG to the ISIS PMB includes informing about cross facility (enabler) technical work (such as Qt5->Qt6) and informing about large (business) capability works that other facilities have committed resources to. Associated with the ISIS MPB is a Epic Kanban system for which a schematic view of it is shown bottom right, where: Green column headers show the different states an Epic can be in. White background text areas provide additional context. Grey boxes at the bottom describe how Epics can move between columns. FTY stands for Full Time Year, and 0.25 FTY is the equivalent of one person’s work time for three months. Periodically the ISIS Mantid team lead informs the TWG about committed work items (Epics) from the Ready and Implementing states of the Epic Kanban system.**
+
+
+**ILL local arrangement**
+
+TODO: The diagram below needs updating to reflect agreed updated governance model.
 
 The diagram below shows the local ILL implementation with respect to the steering committee (Mantid Collaboration):
 
