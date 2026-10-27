@@ -15,10 +15,10 @@
 - Moving to external mail provider? (Tom)
 - Archiving the forum - mirror using wget?
 - Can we move from Linode -> STFC cloud?
-
-- Mantid modernization
-- Using CCACHE in rattler-build
+- Mantid modernization (Pete)
+- Using CCACHE in rattler-build (Shervin)
 - Governance document [PR](https://github.com/mantidproject/governance/pull/25/) (Anders) - October agenda
+- Algorithms to deprecate [issue](https://github.com/mantidproject/mantid/issues/42624)
 - Review [roadmap](https://github.com/orgs/mantidproject/projects/47/views/1)
 - AOB
 
