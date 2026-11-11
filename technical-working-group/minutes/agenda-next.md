@@ -8,6 +8,7 @@
 - ISIS Benchmarking project for Next Gen (Sarah)
 
 # Discussion Topics
+- Process for patch releases (is it fit for purpose?)
 - New logo for v7.1?
 - [Codespell PR](https://github.com/mantidproject/mantid/pull/42543)
 - Moving to external mail provider? (Tom)
