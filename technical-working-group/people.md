@@ -10,12 +10,13 @@ This documents lists the voting members and their [facility affiliations](../fac
 * Tom Hampson (STFC)
 * Oleksandr Koshchii (JCNS@MLZ)
 * Geish Miladinovic (ANSTO)
-* Zach Morgan (ORNL)
 * Shervin Nourbakhsh (ILL)
 * Pete Peterson (ORNL) - **Chair**
 * Rémi Pérenon (ILL)
 * Emmanouela Rantsiou (PSI)
+* Michael Walsh (ORNL)
+
 
 ## Non-Voting Positions
 
-* Zach Morgan (ORNL) - **Secretary**
+* Jonathan Haigh (STFC) - **Secretary**
